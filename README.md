@@ -1,4 +1,4 @@
-![image](https://github.com/LegionPleingaz/Vor0nTree/assets/30893972/3fcd268f-03a0-4c20-97ee-f8670b021fce)Stealthburner
+Stealthburner
 ======
 
 Extruder
