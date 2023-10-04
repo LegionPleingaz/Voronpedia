@@ -9,6 +9,9 @@ Standard:
 Mods:
 * [Clockwork2 extruder nema17 v1](https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1) by MLoeko
 * [StealthBurner + Orbiter v2.0 ](https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20) by djos_1475
+* [LGX_Lite_Stealthburner_CW2_style_mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount) by Eytecz
+* [VZ-Hextrudort For Stealthburner](https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner) by Andrew Matten
+* 
 Tool Cartridge
 ------
 Standard:
@@ -23,6 +26,7 @@ Standard:
 Mods:
 * [Microswiss](https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead) by qwertymodo
 * [Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
+* [Slice Engineering Mosquito](https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito) by Keko
 
 Sealtburner face
 ------
