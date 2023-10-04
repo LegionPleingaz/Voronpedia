@@ -28,6 +28,8 @@ Mods:
 * [Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
 * [Slice Engineering Mosquito](https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito) by Keko
 * [Phaetus Rapido UHF](https://www.printables.com/fr/model/246799-stealthburner-phaetus-rapido-uhf) by TX Ryan
+* [Stealthburner Rapido UHF](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf) by thorsthunder
+* [Crazy Dragon fan duct](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eamars/stealthburner_crazy_dragon_toolhead) by Eamars
 
 Probe
 ------
