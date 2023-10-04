@@ -13,8 +13,8 @@ Standard:
 * [Revo_voron](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_voron)
 
 Mods:
-*[Microswiss](https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead) by qwertymodo
-*[Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
+* [Microswiss](https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead) by qwertymodo
+* [Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
 
 Tool Cartridge
 ------
