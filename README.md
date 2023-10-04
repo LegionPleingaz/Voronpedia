@@ -8,7 +8,7 @@ Standard:
 
 Mods:
 * [Clockwork2 extruder nema17 v1](https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1) by MLoeko
-
+* [StealthBurner + Orbiter v2.0 ](https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20) by djos_1475
 Tool Cartridge
 ------
 Standard:
