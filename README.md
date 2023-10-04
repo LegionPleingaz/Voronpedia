@@ -29,7 +29,7 @@ Mods:
 * [Slice Engineering Mosquito](https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito) by Keko
 * [Phaetus Rapido UHF](https://www.printables.com/fr/model/246799-stealthburner-phaetus-rapido-uhf) by TX Ryan
 
-Sealtburner probe
+Probe
 ------
 Standard:
 
@@ -39,7 +39,7 @@ Mods:
 * [Klicky](https://github.com/jlas1/Klicky-Probe) by jlas1
 * [TAP](https://github.com/VoronDesign/Voron-Tap)
 
-Sealtburner face
+Face
 ------
 
 
