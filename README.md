@@ -1,4 +1,4 @@
-Stealthburner
+![image](https://github.com/LegionPleingaz/Vor0nTree/assets/30893972/3fcd268f-03a0-4c20-97ee-f8670b021fce)Stealthburner
 ======
 
 Extruder
@@ -27,6 +27,14 @@ Mods:
 * [Microswiss](https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead) by qwertymodo
 * [Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
 * [Slice Engineering Mosquito](https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito) by Keko
+* [Phaetus Rapido UHF](https://www.printables.com/fr/model/246799-stealthburner-phaetus-rapido-uhf) by TX Ryan
+
+Sealtburner probe
+------
+
+Mods:
+* [CR Touch Mod for Switchwire](https://www.printables.com/fr/model/260473-voron-stealthburner-cr-touch-mod-for-switchwire-to/remixes) by prasadp4009
+* [EZABL](https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m) by HeyItsTor
 
 Sealtburner face
 ------
