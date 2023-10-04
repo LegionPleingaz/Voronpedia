@@ -3,6 +3,10 @@ Sealthburner
 
 Extruder
 ------
+
+
+Tool Cartridge
+------
 Standard:
 * [Phaetus BMO](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bmo)
 * [Phaetus BMS](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms)
@@ -15,9 +19,6 @@ Standard:
 Mods:
 * [Microswiss](https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead) by qwertymodo
 * [Bambu Lab X1C/X1 Hotend](https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend) by MrTeliP
-
-Tool Cartridge
-------
 
 Sealtburner face
 ------
