@@ -31,10 +31,13 @@ Mods:
 
 Sealtburner probe
 ------
+Standard:
 
 Mods:
 * [CR Touch Mod for Switchwire](https://www.printables.com/fr/model/260473-voron-stealthburner-cr-touch-mod-for-switchwire-to/remixes) by prasadp4009
 * [EZABL](https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m) by HeyItsTor
+* [Klicky](https://github.com/jlas1/Klicky-Probe) by jlas1
+* [TAP](https://github.com/VoronDesign/Voron-Tap)
 
 Sealtburner face
 ------
