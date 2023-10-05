@@ -33,3 +33,18 @@ Probes
 |---|---|---|---|---|
 |  |  |   |  |   |
 | [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |   |   |   |   |
+
+
+Frame
+------
+|   | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|
+| [Boxzero](https://github.com/zruncho3d/BoxZero) | ✔ |   |  |   | Pairs exquisitely with Tri-Zero (a triple-belted Z mod) and ZeroPanels |
+
+
+
+Motion
+------
+|   | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|
+| [Trizero]([https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   | Pairs exquisitely with Tri-Zero (a triple-belted Z mod) and ZeroPanels |
