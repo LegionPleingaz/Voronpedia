@@ -13,7 +13,7 @@ Extruders
 |   |   |   |   |   |
 |   |   |   |   |   |
 | [Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder/tree/master)  |   |   |   |   |
-| [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) |   |   |   |   |
+| [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) | [Mount](https://www.printables.com/fr/model/169127-voron-0-sherpa-mini-mount)  |   |   |   |
 | [Sherpa micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) |   |   |   |   |
 |   |   |   |   |   |
 | ⛔Archive⛔ |   |   |   |   |
