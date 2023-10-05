@@ -17,7 +17,7 @@ Extruders
 | [Sherpa micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) |   |   |   |   |
 |   |   |   |   |   |
 | ⛔Archive⛔ |   |   |   |   |
-| (Sherpa heavy)[https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder] |   |   |   |   |
+| [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) |   |   |   |   |
 
 
 
