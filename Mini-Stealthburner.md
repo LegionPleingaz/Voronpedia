@@ -5,7 +5,7 @@ Extruder
 ------
 Standard:
 * [Mini SB](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner)
-https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts
+
 Mods:
 * [Apus](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
 * [LGX-Lite](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
