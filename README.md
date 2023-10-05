@@ -48,7 +48,7 @@ Motion
 ------
 |   | V0 | V1 | V2 | Trident | Nota |
 |---|---|---|---|---|---|
-| [Trizero]([https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   |  |
+| [Trizero](https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   |  |
 
 Panels
 ------
