@@ -12,6 +12,8 @@ Mods:
 * [LGX_Lite_Stealthburner_CW2_style_mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount) by Eytecz
 * [VZ-Hextrudort For Stealthburner](https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner) by Andrew Matten
 * [Galileo for SB](https://github.com/Mamsih/Galileo-stealthBurner) by Mamsih
+* [Galileo 2](https://github.com/JaredC01/Galileo2) by Jared C01
+* 
 Tool Cartridge
 ------
 Standard:
