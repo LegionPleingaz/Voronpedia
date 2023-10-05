@@ -16,7 +16,6 @@ Extruders
 | [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) | [Mount](https://www.printables.com/fr/model/169127-voron-0-sherpa-mini-mount)  |   |   |   |
 | [Sherpa Crew mini](https://github.com/jrlomas/Sherpa-Crew-Mini)  |   |   |   |   |
 | [Sherpa micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) |   |   |   |   |
-
 |   |   |   |   |   |
 | ⛔Archive⛔ |   |   |   |   |
 | [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) |   |   |   |   |
