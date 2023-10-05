@@ -33,6 +33,7 @@ Probes
 |   | V0 | V1 | V2 | Trident |
 |---|---|---|---|---|
 |  |  |   |  |   |
+| [Boop](https://github.com/PrintersForAnts/Boop) | ✔ |   |  |   |
 | [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |   |   |   |   |
 | [Zero Click](https://github.com/zruncho3d/ZeroClick) | ✔ |   |  |   |
 
@@ -56,3 +57,9 @@ Panels
 |   | V0 | V1 | V2 | Trident | Nota |
 |---|---|---|---|---|---|
 | [ZeroPanels](https://github.com/zruncho3d/ZeroPanels) | ✔ |   |  |   |  |
+
+Filters
+------
+|   | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|
+| [Zero Filter](https://github.com/zruncho3d/zerofilter) | ✔ |   |  |   |  |
