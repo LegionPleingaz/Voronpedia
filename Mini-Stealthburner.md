@@ -5,9 +5,18 @@ Extruder
 ------
 Standard:
 * [Mini SB](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner)
-
+https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts
 Mods:
-
+* [Apus](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [LGX-Lite](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Libra_Mini](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Orbiter_v1.5](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Orbiter_v2.0](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Sherpa_Micro](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Sherpa_Mini](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [TBG-Lite_Left](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [TBG-Lite_Right](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
+* [Vz-Hextrudort_Low_CNC](https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts)
 
 Tool Cartridge
 ------  
