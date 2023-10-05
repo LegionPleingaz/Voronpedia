@@ -11,4 +11,4 @@ Extruders
 |---|---|---|---|---|
 | [Stealthburner](Stealthburner.md) | ❌ |   | ✔ |   |
 |   |   |   |   |   |
-|   |   |   |   |   |
+| [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) |   |   |   |   |
