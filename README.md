@@ -34,8 +34,9 @@ Probes
 |---|---|---|---|---|
 |  |  |   |  |   |
 | [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |   |   |   |   |
+| [Zero Click](https://github.com/zruncho3d/ZeroClick) | ✔ |   |  |   |
 
-
+https://github.com/zruncho3d/ZeroClick
 Frame
 ------
 |   | V0 | V1 | V2 | Trident | Nota |
