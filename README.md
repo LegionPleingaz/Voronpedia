@@ -47,4 +47,10 @@ Motion
 ------
 |   | V0 | V1 | V2 | Trident | Nota |
 |---|---|---|---|---|---|
-| [Trizero]([https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   | Pairs exquisitely with Tri-Zero (a triple-belted Z mod) and ZeroPanels |
+| [Trizero]([https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   |  |
+
+Panels
+------
+|   | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|
+| [ZeroPanels](https://github.com/zruncho3d/ZeroPanels) | ✔ |   |  |   |  |
