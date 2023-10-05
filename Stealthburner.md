@@ -11,7 +11,7 @@ Mods:
 * [StealthBurner + Orbiter v2.0 ](https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20) by djos_1475
 * [LGX_Lite_Stealthburner_CW2_style_mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount) by Eytecz
 * [VZ-Hextrudort For Stealthburner](https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner) by Andrew Matten
-* 
+* [Galileo for SB](https://github.com/Mamsih/Galileo-stealthBurner) by Mamsih
 Tool Cartridge
 ------
 Standard:
