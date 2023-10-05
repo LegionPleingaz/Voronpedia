@@ -12,7 +12,7 @@ Extruders
 |   | V0 | V1 | V2 | Trident |
 |---|---|---|---|---|
 | [Stealthburner](Stealthburner.md) | ❌ |   | ✔ | ✔  |
-| [Mini-Stealthburner](Mini-Afterburner.md) |  ✔ |   |   |   | |   |   |   |   |
+| [Mini-Stealthburner](Mini-Stealthburner.md) |  ✔ |   |   |   | |   |   |   |   |
 | [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) |  ✔ |   |   |   |
 |   |   |   |   |   |
 | [Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder/tree/master)  |   |   |   |   |
