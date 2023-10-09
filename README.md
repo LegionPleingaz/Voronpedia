@@ -35,6 +35,7 @@ Probes
 |  |  |   |  |   |
 | [Boop](https://github.com/PrintersForAnts/Boop) | ✔ |   |  |   |
 | [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |   |   |   |   |
+| [SexBolt_ZEndstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) |  |   | ✔ |  ✔ |
 | [Zero Click](https://github.com/zruncho3d/ZeroClick) | ✔ |   |  |   |
 
 
@@ -43,14 +44,18 @@ Frame
 |   | V0 | V1 | V2 | Trident | Nota |
 |---|---|---|---|---|---|
 | [Boxzero](https://github.com/zruncho3d/BoxZero) | ✔ |   |  |   | Pairs exquisitely with Tri-Zero (a triple-belted Z mod) and ZeroPanels |
-
+|  [Extrusion Backers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers) |   |   |  ✔ | ✔ |
 
 
 Motion
 ------
 |   | V0 | V1 | V2 | Trident | Nota |
 |---|---|---|---|---|---|
+|  |  |   |  |   |
+| [GE5C Z joint](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_GE5C) |  |   | ✔ |   |
+| [Pin Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod)  |   |   | ✔  | ✔ |
 | [Trizero](https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   |  |
+| [Voron2.4_Y_Endstop_Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation) |  |   | ✔ |   |
 
 Panels
 ------
