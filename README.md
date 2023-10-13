@@ -25,7 +25,12 @@ Extruders
 | [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) |   |   |   |   |
 | [Sherpa](https://github.com/Annex-Engineering/Sherpa-Extruder)  |   |   |   |   |
 
-
+CAN
+------
+|   | V0 | V1 | V2 | Trident |
+|---|---|---|---|---|
+|  |  |   |  |   |
+| [CANboard_Mounts](https://github.com/KayosMaker/CANboard_Mounts) |  |   |  |   |
 
 
 Probes
