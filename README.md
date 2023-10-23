@@ -65,6 +65,13 @@ Motion
 | [Trizero](https://github.com/zruncho3d/tri-zero) | ✔ |   |  |   |  |
 | [Voron2.4_Y_Endstop_Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation) |  |   | ✔ |   |
 
+Cooling
+------
+|   | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|
+| [V0 Auxilliary Cooling Fan](https://github.com/JackJack3231/V0-Auxilliary-Fan) | ✔  |   |  |   |
+|  |  |   |  |   |
+
 Panels
 ------
 |   | V0 | V1 | V2 | Trident | Nota |
