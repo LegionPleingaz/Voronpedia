@@ -100,7 +100,7 @@ Filters
 
 ## Beer donation
 
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 3FVdXPVJmbtu8go9oTdHLNJm5YgrdgUQFd
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 0x3F358322B323F506Bf3aCb6793D19674BBC8fdBB
 
