@@ -98,6 +98,11 @@ Filters
 | REMIX [exhaust and Hepa + Carbon adapter](https://www.printables.com/fr/model/582998-voron-24-exhaust-and-hepa-carbon-adapter) |  |   | ✔ |   |
 | [Zero Filter](https://github.com/zruncho3d/zerofilter) | ✔ |   |  |   |  |
 
+pcb
+https://www.printables.com/fr/model/192687-cw2-adapter-for-afterburner-pcb/files
+
+
+
 ## Beer donation
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
