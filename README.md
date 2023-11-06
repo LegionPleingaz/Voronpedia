@@ -9,14 +9,14 @@ I'm trying to develop it, but a little help would be appreciated.
 Toolhead
 ------
 
-|   | V0 | V1 | V2 | Trident |
-|---|---|---|---|---|
-|  [BreakNeck](https://github.com/leddhedd/BreakNeck) <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/>  |   |   | ✔  |   |
-| [Stealthburner](Stealthburner.md)  | ❌ |   | ✔ | ✔  |
-| [Mini-Stealthburner](Mini-Stealthburner.md)  |  ✔ |   |   |   | |   |   |   |   |
-| [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) <img src="https://github.com/PrintersForAnts/Mini-AfterSherpa/raw/main/images/mini-aftersherpa-hero.jpg" width="200"/>|  ✔ |   |   |   |
+|   |  Img | V0 | V1 | V2 | Trident |
+|---|---|---|---|---|---|
+|  [BreakNeck](https://github.com/leddhedd/BreakNeck) | <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/>  |   |   | ✔  |   |
+| [Stealthburner](Stealthburner.md)  | | ❌ |   | ✔ | ✔  |
+| [Mini-Stealthburner](Mini-Stealthburner.md) |  |  ✔ |   |   |   | |   |   |   |   |
+| [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) | <img src="https://github.com/PrintersForAnts/Mini-AfterSherpa/raw/main/images/mini-aftersherpa-hero.jpg" width="200"/>|  ✔ |   |   |   |
 |   |   |   |   |   |
-| [Tapchanger](https://github.com/viesturz/tapchanger) <img src="https://github.com/viesturz/tapchanger/raw/main/images/rods-photo.jpg" width="200"/>|   |   |  ✔ |   |
+| [Tapchanger](https://github.com/viesturz/tapchanger) | <img src="https://github.com/viesturz/tapchanger/raw/main/images/rods-photo.jpg" width="200"/>|   |   |  ✔ |   |
 
 
 Extruders
