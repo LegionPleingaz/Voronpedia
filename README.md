@@ -11,11 +11,13 @@ Toolhead
 
 |   | V0 | V1 | V2 | Trident |
 |---|---|---|---|---|
-|  [BreakNeck](https://github.com/leddhedd/BreakNeck)  |   |   | ✔  |   |
-| [Stealthburner](Stealthburner.md) | ❌ |   | ✔ | ✔  |
-| [Mini-Stealthburner](Mini-Stealthburner.md) |  ✔ |   |   |   | |   |   |   |   |
-| [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) |  ✔ |   |   |   |
+|  [BreakNeck](https://github.com/leddhedd/BreakNeck) <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/>  |   |   | ✔  |   |
+| [Stealthburner](Stealthburner.md) <img src="" width="200"/> | ❌ |   | ✔ | ✔  |
+| [Mini-Stealthburner](Mini-Stealthburner.md) <img src="" width="200"/> |  ✔ |   |   |   | |   |   |   |   |
+| [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) <img src="https://github.com/PrintersForAnts/Mini-AfterSherpa" width="200"/>|  ✔ |   |   |   |
 |   |   |   |   |   |
+| [Tapchanger](https://github.com/viesturz/tapchanger) <img src="https://github.com/viesturz/tapchanger/raw/main/images/rods-photo.jpg" width="200"/>|   |   |  ✔ |   |
+
 
 Extruders
 ------
