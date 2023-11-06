@@ -21,19 +21,19 @@ Toolhead
 
 Extruders
 ------
-|   | V0 | V1 | V2 | Trident |
-|---|---|---|---|---|
-|   |   |   |   |   |
-| [Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder/tree/master)  |   |   |   |   |
-| [Galileo2](https://github.com/JaredC01/Galileo2) |   |   |   |   |
-| [Orbiter 2.0](https://www.thingiverse.com/thing:5168611/files) |   |   |   |   |
-| [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) | [Mount](https://www.printables.com/fr/model/169127-voron-0-sherpa-mini-mount)  |   |   |   |
-| [Sherpa Crew mini](https://github.com/jrlomas/Sherpa-Crew-Mini)  |   |   |   |   |
-| [Sherpa micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) |   |   |   |   |
-|   |   |   |   |   |
-| ⛔Archive⛔ |   |   |   |   |
-| [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) |   |   |   |   |
-| [Sherpa](https://github.com/Annex-Engineering/Sherpa-Extruder)  |   |   |   |   |
+|   | Img | V0 | V1 | V2 | Trident |
+|---|---|---|---|---|---|
+|   |   |   |   |   |   |
+| [Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder/tree/master)  |   |   |   |   |  |
+| [Galileo2](https://github.com/JaredC01/Galileo2) |  <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2extruders.png" width="200"/>  |   |   |   |  |
+| [Orbiter 2.0](https://www.thingiverse.com/thing:5168611/files) |  <img src="https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg" width="200"/> |   |   |   |  |
+| [Sherpa mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master) | <img src="https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/raw/master/Images/sherpa_mini_rc1.jpg?raw=true" width="200"/>  [Mount](https://www.printables.com/fr/model/169127-voron-0-sherpa-mini-mount)  |  |   |   |  |
+| [Sherpa Crew mini](https://github.com/jrlomas/Sherpa-Crew-Mini)  | <img src="https://github.com/jrlomas/Sherpa-Crew-Mini/raw/master/Images/right_side_v1.1.PNG" width="200"/>  |   |   |   |  |
+| [Sherpa micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) | <img src="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/raw/main/Images/sherpa_micro_pr.jpg?raw=true" width="200"/>  |   |   |   |  |
+|   |   |   |   |   |  |
+| ⛔Archive⛔ |   |   |   |   |  |
+| [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder) | <img src="https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder/raw/main/Images/sh_2.jpg?raw=true" width="200"/>  |   |   |   |  |
+| [Sherpa](https://github.com/Annex-Engineering/Sherpa-Extruder)  | <img src="https://github.com/Annex-Engineering/Sherpa-Extruder/raw/master/Tall_Bowden_Variant/Images/Bowden_Render2.JPG?raw=true" width="200"/>  |   |   |   |  |
 
 CAN
 ------
