@@ -1,4 +1,4 @@
-![image](https://github.com/LegionPleingaz/V0r0np3d1a/assets/30893972/0bc1a9de-a915-40c6-b3a1-005d36c34878)This GIT aims to list the different options available for your voron printer.
+This GIT aims to list the different options available for your voron printer.
 
 I'm trying to develop it, but a little help would be appreciated.
 
