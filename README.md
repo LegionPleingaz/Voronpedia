@@ -1,4 +1,4 @@
-This GIT aims to list the different options available for your voron printer.
+![image](https://github.com/LegionPleingaz/V0r0np3d1a/assets/30893972/0bc1a9de-a915-40c6-b3a1-005d36c34878)This GIT aims to list the different options available for your voron printer.
 
 I'm trying to develop it, but a little help would be appreciated.
 
@@ -45,13 +45,13 @@ CAN
 
 Probes
 ------
-|   | V0 | V1 | V2 | Trident |
-|---|---|---|---|---|
-|  |  |   |  |   |
-| [Boop](https://github.com/PrintersForAnts/Boop) | ✔ |   |  |   |
-| [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |   |   |   |   |
-| [SexBolt_ZEndstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) |  |   | ✔ |  ✔ |
-| [Zero Click](https://github.com/zruncho3d/ZeroClick) | ✔ |   |  |   |
+|   | Img | V0 | V1 | V2 | Trident |
+|---|---|---|---|---|---|
+|  |  |   |  |   |  |
+| [Boop](https://github.com/PrintersForAnts/Boop) |<img src="https://github.com/PrintersForAnts/Boop/raw/main/beta_3/Images/def70163-3fc1-4d16-b291-b5826ff7d52b.png" width="200"/>| ✔ |   |  |   |
+| [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |<img src="https://github.com/Annex-Engineering/Quickdraw_Probe/raw/main/Images/Evolution.jpg" width="200"/>|   |   |   |   |
+| [SexBolt_ZEndstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) |<img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/Images/9.png" width="200"/>|  |   | ✔ |  ✔ |
+| [Zero Click](https://github.com/zruncho3d/ZeroClick) |<img src="https://github.com/zruncho3d/ZeroClick/raw/main/Images/assembled.png" width="200"/>| ✔ |   |  |   |
 
 
 Frame
