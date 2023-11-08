@@ -94,12 +94,12 @@ Panels
 
 Filters
 ------
-|   | V0 | V1 | V2 | Trident | Nota |
-|---|---|---|---|---|---|
-|  |  |   |  |   |
-| [Roomba 800/900 HEPA Filter Box](https://www.printables.com/fr/model/551032-voron-24-roomba-800900-hepa-filter-box)  |  |   | ✔ |   |
-| REMIX [exhaust and Hepa + Carbon adapter](https://www.printables.com/fr/model/582998-voron-24-exhaust-and-hepa-carbon-adapter) |  |   | ✔ |   |
-| [Zero Filter](https://github.com/zruncho3d/zerofilter) | ✔ |   |  |   |  |
+|   || V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|---|
+|  |  |   |  |   |   |
+| [Roomba 800/900 HEPA Filter Box](https://www.printables.com/fr/model/551032-voron-24-roomba-800900-hepa-filter-box)  |<img src="https://media.printables.com/media/prints/551032/images/4425912_f8d2dfad-6bd9-4f8c-828f-0cb25acd6f3e/thumbs/inside/1280x960/jpg/4.webp" width="200"/>|  |   | ✔ |   |
+| REMIX [exhaust and Hepa + Carbon adapter](https://www.printables.com/fr/model/582998-voron-24-exhaust-and-hepa-carbon-adapter) |<img src="https://media.printables.com/media/prints/582998/images/4652693_93fd0459-5c0c-452e-a34b-05567273f489/thumbs/inside/1280x960/jpg/20230914_203520.webp" width="200"/>|  |   | ✔ |   |
+| [Zero Filter](https://github.com/zruncho3d/zerofilter) |<img src="https://github.com/zruncho3d/zerofilter/raw/main/Images/micron_mount.png" width="200"/>| ✔ |   |  |   |  |
 
 pcb
 https://www.printables.com/fr/model/192687-cw2-adapter-for-afterburner-pcb/files
