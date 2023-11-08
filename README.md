@@ -77,20 +77,20 @@ Motion
 
 Cooling
 ------
-|   | V0 | V1 | V2 | Trident | Nota |
-|---|---|---|---|---|---|
-| [V0 Auxilliary Cooling Fan](https://github.com/JackJack3231/V0-Auxilliary-Fan) | ✔  |   |  |   |
-| [CrownCooler](https://github.com/sneakytreesnake/CrownCooler) |  |   | ✔ |   |
+|   | |  V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|---|
+| [V0 Auxilliary Cooling Fan](https://github.com/JackJack3231/V0-Auxilliary-Fan) |<img src="https://github.com/JackJack3231/V0-Auxilliary-Fan/raw/main/images/Assembled_Red.png" width="200"/>| ✔  |   |  |   |
+| [CrownCooler](https://github.com/sneakytreesnake/CrownCooler) |<img src="https://user-images.githubusercontent.com/12782053/218704734-c11211ae-4b3d-45fa-bcca-7a284825139d.png" width="200"/>|  |   | ✔ |   |
 
 Panels
 ------
-|   | V0 | V1 | V2 | Trident | Nota |
-|---|---|---|---|---|---|
-|  |  |   |  |   |
-| [Canopy](https://www.printables.com/fr/model/568090-voron-24-canopy) |  |   | ✔ |   |
-| [REMIX Canopy Split model](https://www.printables.com/fr/model/594894-voron-24-trident-canopy-top-hat-remix-split-model-/files) |  |   |  |   |
-| [snap-latch-2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) |  | ✔ | ✔ | ✔  |
-| [ZeroPanels](https://github.com/zruncho3d/ZeroPanels) | ✔ |   |  |   |  |
+|   | | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|---|
+|  |  |   |  |   | |
+| [Canopy](https://www.printables.com/fr/model/568090-voron-24-canopy) |<img src="https://media.printables.com/media/prints/568090/images/4604519_01c438c9-02f4-4510-aaa0-ffc84f3f0801/thumbs/inside/1280x960/jpg/20230904_213103.webp" width="200"/>|  |   | ✔ |   |
+| [REMIX Canopy Split model](https://www.printables.com/fr/model/594894-voron-24-trident-canopy-top-hat-remix-split-model-/files) |<img src="https://media.printables.com/media/prints/594894/images/4738693_7a2be3ed-882b-4974-8f13-ca10b336f254_1b66a85d-6b84-4663-b6c5-1bfefe6fa518/thumbs/inside/1280x960/jpeg/img_2003.webp" width="200"/>|  |   |  |   |
+| [snap-latch-2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) |<img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/richardjm/snap-latch-2020/Images/Latch-v68-3mm.jpg" width="200"/>|  | ✔ | ✔ | ✔  |
+| [ZeroPanels](https://github.com/zruncho3d/ZeroPanels) |<img src="https://github.com/zruncho3d/ZeroPanels/raw/main/Images/v3/front_corner_iso.jpg" width="200"/>| ✔ |   |  |   |  |
 
 Filters
 ------
