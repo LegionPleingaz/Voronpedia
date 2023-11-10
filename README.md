@@ -92,6 +92,14 @@ Panels
 | [snap-latch-2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) |<img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/richardjm/snap-latch-2020/Images/Latch-v68-3mm.jpg" width="200"/>|  | ✔ | ✔ | ✔  |
 | [ZeroPanels](https://github.com/zruncho3d/ZeroPanels) |<img src="https://github.com/zruncho3d/ZeroPanels/raw/main/Images/v3/front_corner_iso.jpg" width="200"/>| ✔ |   |  |   |  |
 
+Doors
+------
+|   | | V0 | V1 | V2 | Trident | Nota |
+|---|---|---|---|---|---|---|
+|  |  |   |  |   |   |
+| [Removable door](https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor) | <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" width="200"/> |   |  |   |   |
+
+
 Filters
 ------
 |   || V0 | V1 | V2 | Trident | Nota |
