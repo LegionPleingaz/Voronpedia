@@ -53,6 +53,7 @@ Probes
 | [Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)  |<img src="https://github.com/Annex-Engineering/Quickdraw_Probe/raw/main/Images/Evolution.jpg" width="200"/>|   |   |   |   |
 | [SexBolt_ZEndstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) |<img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/Images/9.png" width="200"/>|  |   | ✔ |  ✔ |
 | [TAP](https://github.com/VoronDesign/Voron-Tap) |<img src="https://github.com/VoronDesign/Voron-Tap/blob/main/images/Voron-Tap.gif?raw=true" width="200"/>| |   |  ✔  |  ✔  |
+| [Klipper auto TAP](https://github.com/Anonoei/klipper_auto_tap) | | |   |    |  ✔  |
 | [Zero Click](https://github.com/zruncho3d/ZeroClick) |<img src="https://github.com/zruncho3d/ZeroClick/raw/main/Images/assembled.png" width="200"/>| ✔ |   |  |   |
 
 
