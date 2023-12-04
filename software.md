@@ -43,7 +43,13 @@
 <th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
 <th></th>
 </tr>
+
+<tr>
+  <th> [Klippain](https://github.com/Frix-x/klippain) </th>
+  <th> [Klipper Git Backup](https://github.com/Low-Frequency/Klipper-Git-Backup)https://github.com/Low-Frequency/Klipper-Git-Backup </th>
+  <th> [KIAUH](https://github.com/dw-0/kiauh)https://github.com/dw-0/kiauh </th>
+</tr>
 </table>
 
 
-[Klippain](https://github.com/Frix-x/klippain)
+
