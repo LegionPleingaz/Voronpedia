@@ -28,7 +28,7 @@ Mods:
 
 \* \[Galileo 2\](<https://github.com/JaredC01/Galileo2>) by Jared C01
 
-\* 
+\*
 
 Tool Cartridge
 
@@ -84,10 +84,14 @@ Mods:
 
 ## MODS
 
-|                                                                                                   | Img                                                                                                                                                                                                  | V0  | V1  | V2  | Trident |     |     |     |     |     |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | ------- | --- | --- | --- | --- | --- |
-| [BreakNeck](https://github.com/leddhedd/BreakNeck)                                                | <img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/>                                                                                                   |     |     | ✔   |         |     |     |     |     |     |
-| [Stealthburner](Stealthburner.md)                                                                 |                                                                                                                                                                                                      | ❌   |     | ✔   | ✔       |     |     |     |     |     |
+|                                                    | Img                                                                                                      | V0  | V1  | V2  | Trident |     |     |     |     |     |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --- | --- | --- | ------- | --- | --- | --- | --- | --- |
+| [BreakNeck](https://github.com/leddhedd/BreakNeck) | &lt;img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/&gt; |     |     | ✔   |         |     |     |     |     |     |
+
+```
+                                                                                                                                                                                                | ❌   |     | ✔   | ✔       |     |     |     |     |     |
+```
+
 | [Giano](https://github.com/FBServiceTech3D/Giano_StealthBurner_Dual_Filament)                     |                                                                                                                                                                                                      | ❌   |     | ✔   | ✔       |     |     |     |     |     |
 | [Filametrix](https://www.printables.com/fr/model/638605-filametrix-mmuercf-filament-cutter-voron) | <img src="https://media.printables.com/media/prints/638605/images/5048319_9a489845-1fce-446d-bc86-3d19f1b790b1_0f19d1d9-0d40-4afd-a19e-55a379e5c11a/thumbs/inside/1280x960/png/3.webp" width="200"/> | ❌   |     | ✔   | ✔       |     |     |     |     |     |
 | [Mini-Stealthburner](Mini-Stealthburner.md)                                                       |                                                                                                                                                                                                      | ✔   |     |     |         |     |     |     |     |     |
