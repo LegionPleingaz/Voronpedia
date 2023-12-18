@@ -1,23 +1,21 @@
 ======
 
-## Toolhead
+# Toolhead
 
-### [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
-
+## [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
+<img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG?raw=true" width="200"/>
 ======
 
-Extruder
-
-\------
-
+### Extruder
 Standard:
 
 [Clockwork 2 ](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2)
-https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2
 
 Mods:
 
 [Clockwork2 extruder nema17 v1](<https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1>) by MLoeko
+
+<img src="https://media.printables.com/media/prints/454292/images/3735612_ac6ad99c-2bfb-4d01-8ff8-13e7115964b5/thumbs/inside/1280x960/jpg/img_20230416_165634.webp?raw=true" width="200"/>
 
 [StealthBurner + Orbiter v2.0 ](<https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20>) by djos_1475
 
