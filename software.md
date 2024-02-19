@@ -79,6 +79,7 @@
 <th><h3><a href="https://github.com/Clon1998/mobileraker_companion">Mobileraker's Companion</a></h3></th>
 <th><h3><a href="https://octoeverywhere.com/?source=kiauh_readme">OctoEverywhere For Klipper</a></h3></th>
 <th><h3><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging">Klipper Adaptative Meshing Purging</a></h3></th>
+<th><h3><a href="https://ellis3dp.com/Print-Tuning-Guide/">Ellis print tuning guide</a></h3></th>
 </tr>
 
 <tr>
@@ -87,4 +88,19 @@
 <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
 </tr>
 </table>
+
+
+<h1>Slicer</h1>
+<table>
+  <tr>
+    <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64">Prusaslicer</a></h3></th>
+  </tr>
+
+  <tr>
+    
+  </tr>
+</table>
+
+<th><h3><a href="">title</a></h3></th>
+https://github.com/jontek2/A-better-print_start-macro
 
