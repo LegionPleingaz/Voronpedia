@@ -102,10 +102,10 @@
   </tr>
 </table>
 
-<th><h3><a href="">title</a></h3></th>
+<!-- <th><h3><a href="">title</a></h3></th> -->
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTAyOTQ4OSwxODc2MjQwMjc1LDE4ND
-c0MjQwMjZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjA0MDMyNjIsMTE0NTAyOTQ4OSwxOD
+c2MjQwMjc1LDE4NDc0MjQwMjZdfQ==
 -->
