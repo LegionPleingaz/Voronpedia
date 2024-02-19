@@ -4,7 +4,30 @@ Make your choice
 
 ## Frame
 
-## Motion
+## A B Drive
+
+## Front idlers
+
+## Gantry
+
+## Bed frame
+
+## Z axis
+## Z Drives and Idlers
+## X axis
+
+## Belt path
+
+## Toolhead
+
+## Afterburner
+## Print Bed & Wire Path
+## Skirts & Bottom Compartment
+## Electronics Compartment
+## Electronics
+## Rear Panel & Exhaust
+## Panels
+## Finishing Touches
 
 ## Tools
 
