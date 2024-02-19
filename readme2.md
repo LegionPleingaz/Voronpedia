@@ -1,11 +1,6 @@
 Make your choice
 
 # Mechanical
-|  |  |  |
-|--|--|--|
-|  |  |  |
-
-
 
 ## Frame
 
@@ -52,5 +47,5 @@ rPvexWZvydUizKzz52FqMXnkGRV9mRbriB
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMxNzE1OTBdfQ==
+eyJoaXN0b3J5IjpbMjI4NTYwMzIwXX0=
 -->
