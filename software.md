@@ -94,7 +94,7 @@
 <table>
   <tr>
     <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64"><br/>Prusaslicer</a></h3></th>
-    <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64"><br/>Superslicer</a></h3></th>
+    <th><h3><a href="https://github.com/supermerill/SuperSlicer/"><img src="https://avatars.githubusercontent.com/u/6536403?v=4" alt="Prusaslicer" height="64"><br/>Superslicer</a></h3></th>
   </tr>
 
   <tr>
@@ -106,6 +106,6 @@
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODQ0ODQxMiwxODc2MjQwMjc1LDE4ND
+eyJoaXN0b3J5IjpbMTE0NTAyOTQ4OSwxODc2MjQwMjc1LDE4ND
 c0MjQwMjZdfQ==
 -->
