@@ -102,10 +102,9 @@
 </table>
 
 <!-- <th><h3><a href="">title</a></h3></th> -->
-https://github.com/jontek2/A-better-print_start-macro
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODQzNDc3NSw1NDU5MzQ0MDYsOTQwNz
-A3ODkzLDEzMjQ2OTI0ODMsLTE2MjA0MDMyNjIsMTE0NTAyOTQ4
-OSwxODc2MjQwMjc1LDE4NDc0MjQwMjZdfQ==
+eyJoaXN0b3J5IjpbLTIxMTkzMTI1NTUsLTUzODQzNDc3NSw1ND
+U5MzQ0MDYsOTQwNzA3ODkzLDEzMjQ2OTI0ODMsLTE2MjA0MDMy
+NjIsMTE0NTAyOTQ4OSwxODc2MjQwMjc1LDE4NDc0MjQwMjZdfQ
+==
 -->
