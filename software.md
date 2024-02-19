@@ -67,13 +67,12 @@
 <th><h3><a href="https://github.com/Kragrathea/pgcode">PrettyGCode for Klipper</a></h3></th>
 <th><h3><a href="https://github.com/TheSpaghettiDetective/moonraker-obico">Obico for Klipper</a></h3></th>
 </tr>
-
 <tr>
 <th><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png" alt="Shaketune" height="64"></th>
 <th><img src="https://raw.githubusercontent.com/Kragrathea/pgcode/main/img/pgc_screen1.jpg" alt="prettyGCode" height="64"></th>
 <th><img src="https://avatars.githubusercontent.com/u/46323662?s=200&v=4" alt="Obico logo" height="64"></th>
 </tr>
-
+</table>
 
 <tr>
 <th><h3><a href="https://github.com/Clon1998/mobileraker_companion">Mobileraker's Companion</a></h3></th>
@@ -106,6 +105,6 @@
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA0MDMyNjIsMTE0NTAyOTQ4OSwxOD
-c2MjQwMjc1LDE4NDc0MjQwMjZdfQ==
+eyJoaXN0b3J5IjpbLTEzODU3NDgxNDMsLTE2MjA0MDMyNjIsMT
+E0NTAyOTQ4OSwxODc2MjQwMjc1LDE4NDc0MjQwMjZdfQ==
 -->
