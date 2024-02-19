@@ -1,24 +1,36 @@
+<h1>Firmware</h1>
+
 <table>
 <tr>
 <th><h3><a href="https://github.com/Klipper3d/klipper">Klipper</a></h3></th>
-<th><h3><a href="https://github.com/Arksine/moonraker">Moonraker</a></h3></th>
-<th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
 </tr>
 <tr>
 <th><img src="https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo.png" alt="Klipper Logo" height="64"></th>
-<th><img src="https://avatars.githubusercontent.com/u/9563098?v=4" alt="Arksine avatar" height="64"></th>
-<th><img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" alt="Mainsail Logo" height="64"></th>
 </tr>
+</table>
+
+<h1>Web interface</h1>
+<table>
 <tr>
+<th><h3><a href="https://github.com/Arksine/moonraker">Moonraker</a></h3></th>
+<th><h3><a href="https://github.com/mainsail-crew/mainsail">Mainsail</a></h3></th>
 <th><h3><a href="https://github.com/fluidd-core/fluidd">Fluidd</a></h3></th>
 <th><h3><a href="https://github.com/jordanruthe/KlipperScreen">KlipperScreen</a></h3></th>
 <th><h3><a href="https://github.com/OctoPrint/OctoPrint">OctoPrint</a></h3></th>
 </tr>
 <tr>
+<th><img src="https://avatars.githubusercontent.com/u/9563098?v=4" alt="Arksine avatar" height="64"></th>
+<th><img src="https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png" alt="Mainsail Logo" height="64"></th>
 <th><img src="https://raw.githubusercontent.com/fluidd-core/fluidd/master/docs/assets/images/logo.svg" alt="Fluidd Logo" height="64"></th>
 <th><img src="https://avatars.githubusercontent.com/u/31575189?v=4" alt="jordanruthe avatar" height="64"></th>
-<th><img src="https://camo.githubusercontent.com/627be7fc67195b626b298af9b9677d7c58e698c67305e54324cffbe06130d4a4/68747470733a2f2f6f63746f7072696e742e6f72672f6173736574732f696d672f6c6f676f2e706e67" alt="OctoPrint Logo" height="64"></th>
+<th><img src="https://camo.githubusercontent.com/33da288e35b5e01f85fd3cb8247691b065d05474308f98e6d082918227600af3/68747470733a2f2f6f63746f7072696e742e6f72672f6173736574732f696d672f6c6f676f2e706e67" alt="OctoPrint Logo" height="64"></th>
 </tr>
+</table>
+
+
+<h1>Bots</h1>
+<table>
+
 <tr>
 <th><h3><a href="https://github.com/nlef/moonraker-telegram-bot">Moonraker-Telegram-Bot</a></h3></th>
 <th><h3><a href="https://github.com/Kragrathea/pgcode">PrettyGCode for Klipper</a></h3></th>
