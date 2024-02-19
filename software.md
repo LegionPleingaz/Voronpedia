@@ -93,7 +93,7 @@
 <h1>Slicer</h1>
 <table>
   <tr>
-    <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64">Prusaslicer</a></h3></th>
+    <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64"><br/>Prusaslicer</a></h3></th>
   </tr>
 
   <tr>
@@ -105,5 +105,5 @@
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQyNDAyNl19
+eyJoaXN0b3J5IjpbMTg3NjI0MDI3NSwxODQ3NDI0MDI2XX0=
 -->
