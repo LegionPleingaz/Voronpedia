@@ -84,7 +84,7 @@
 <th><a href="https://github.com/Clon1998/mobileraker_companion"><img src="https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png" alt="OctoEverywhere Logo" height="64"></th>
 <th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
 <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
-<th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="KAMP Logo" height="64"></a></th>
+<th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
 </tr>
 </table>
 
@@ -105,7 +105,7 @@
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1OTM0NDA2LDk0MDcwNzg5MywxMzI0Nj
-kyNDgzLC0xNjIwNDAzMjYyLDExNDUwMjk0ODksMTg3NjI0MDI3
-NSwxODQ3NDI0MDI2XX0=
+eyJoaXN0b3J5IjpbLTUzODQzNDc3NSw1NDU5MzQ0MDYsOTQwNz
+A3ODkzLDEzMjQ2OTI0ODMsLTE2MjA0MDMyNjIsMTE0NTAyOTQ4
+OSwxODc2MjQwMjc1LDE4NDc0MjQwMjZdfQ==
 -->
