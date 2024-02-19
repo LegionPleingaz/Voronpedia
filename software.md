@@ -95,16 +95,11 @@
     <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64"><br/>Prusaslicer</a></h3></th>
     <th><h3><a href="https://github.com/supermerill/SuperSlicer/"><img src="https://avatars.githubusercontent.com/u/6536403?v=4" alt="Prusaslicer" height="64"><br/>Superslicer</a></h3></th>
   </tr>
-
-  <tr>
-    
-  </tr>
 </table>
 
 <!-- <th><h3><a href="">title</a></h3></th> -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzMTI1NTUsLTUzODQzNDc3NSw1ND
-U5MzQ0MDYsOTQwNzA3ODkzLDEzMjQ2OTI0ODMsLTE2MjA0MDMy
-NjIsMTE0NTAyOTQ4OSwxODc2MjQwMjc1LDE4NDc0MjQwMjZdfQ
-==
+eyJoaXN0b3J5IjpbODgxNDUzNjc4LC01Mzg0MzQ3NzUsNTQ1OT
+M0NDA2LDk0MDcwNzg5MywxMzI0NjkyNDgzLC0xNjIwNDAzMjYy
+LDExNDUwMjk0ODksMTg3NjI0MDI3NSwxODQ3NDI0MDI2XX0=
 -->
