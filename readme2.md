@@ -1,9 +1,9 @@
 Make your choice
 
 # Mechanical
-|  |  |
-|--|--|
-|  |  |
+|  |  |  |
+|--|--|--|
+|  |  |  |
 
 
 
@@ -52,5 +52,5 @@ rPvexWZvydUizKzz52FqMXnkGRV9mRbriB
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2ODg0MjgyXX0=
+eyJoaXN0b3J5IjpbLTEyOTMxNzE1OTBdfQ==
 -->
