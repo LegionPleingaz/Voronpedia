@@ -72,14 +72,13 @@
 <th><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png" alt="Shaketune" height="64"></th>
 <th><img src="https://raw.githubusercontent.com/Kragrathea/pgcode/main/img/pgc_screen1.jpg" alt="prettyGCode" height="64"></th>
 <th><img src="https://avatars.githubusercontent.com/u/46323662?s=200&v=4" alt="Obico logo" height="64"></th>
-<th><img src="https://ellis3dp.com/Print-Tuning-Guide/articles/images/first_layer_squish/FirstLayer-PrintExample.jpg" alt="ellis" height="64"></th></th>
+<th><img src="https://ellis3dp.com/Print-Tuning-Guide/articles/images/first_layer_squish/FirstLayer-PrintExample.jpg" alt="ellis" height="64">
 </tr>
 <tr>
 <th><h3><a href="https://github.com/Clon1998/mobileraker_companion">Mobileraker's Companion</a></h3></th>
 <th><h3><a href="https://octoeverywhere.com/?source=kiauh_readme">OctoEverywhere For Klipper</a></h3></th>
 <th><h3><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging">Klipper Adaptative Meshing Purging</a></h3></th>
 </tr>
-
 <tr>
 <th><a href="https://github.com/Clon1998/mobileraker_companion"><img src="https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png" alt="OctoEverywhere Logo" height="64"></th>
 <th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
@@ -104,6 +103,7 @@
 https://github.com/jontek2/A-better-print_start-macro
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDY5MjQ4MywtMTYyMDQwMzI2MiwxMT
-Q1MDI5NDg5LDE4NzYyNDAyNzUsMTg0NzQyNDAyNl19
+eyJoaXN0b3J5IjpbOTQwNzA3ODkzLDEzMjQ2OTI0ODMsLTE2Mj
+A0MDMyNjIsMTE0NTAyOTQ4OSwxODc2MjQwMjc1LDE4NDc0MjQw
+MjZdfQ==
 -->
