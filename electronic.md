@@ -1,7 +1,8 @@
-# Boards
+# Control Boards
 [BTT]
 
-[SKR mini e3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)
+<a href="https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3">SKR mini E3</br><img src="https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9_650x.jpg?v=1702537379" alt="SKR mini E3" style="width:200px;"/></a></br>
+<a href="https://github.com/bigtreetech/SKR-3">SKR  E3</br><img src="https://biqu.equipment/cdn/shop/products/3_7b775b11-90bb-498b-9d05-b96ea7e0a05e_650x.png?v=1700265657" alt="SKR 3" style="width:200px;"/></a></br>
 
 # Screen
 <a href="https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware">BTT touch screen. support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1, TFT43, TFT50, TFT70</br><img src="https://user-images.githubusercontent.com/54359396/98742038-03cd4d00-23ae-11eb-9552-36dc02fe66f4.png" alt="Touchscreen" style="width:200px;"/></a></br>
