@@ -1,6 +1,6 @@
 # Control Boards
 ## BTT
-###SKR
+### SKR
 <table>
 <tr>
   <td><a href="https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3">SKR mini E3</br><img src="https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9_650x.jpg?v=1702537379" alt="SKR mini E3" style="width:200px;"/></a></br></td>
@@ -19,11 +19,19 @@
 </tr>
 </table>
 
+### Octopus
 <table>
 <tr>
 <td><a href="https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0">Octopus 1.1</br><img src="https://biqu.equipment/cdn/shop/products/A_2230f45e-703c-4a43-a60f-4b74757ce32d_650x.jpg?v=1700265641" alt="Octopus 1.1" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro">Octopus pro</br><img src="https://biqu.equipment/cdn/shop/files/1_de91a27d-529c-4355-93a2-59ef5d83a9f7_650x.jpg?v=1702632698" alt="Octopus pro" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/bigtreetech/Octopus-Max-EZ">Octopus max EZ</br><img src="https://biqu.equipment/cdn/shop/products/1-10_650x.webp?v=1702633284" alt="Octopus max" style="width:200px;"/></a></br></td>
+</tr>
+</table>
+
+### Kraken
+<table>
+<tr>
+<td><a href="https://github.com/bigtreetech/BIGTREETECH-Kraken">Kraken</br><img src="https://biqu.equipment/cdn/shop/files/1_e4f7768e-3e46-4eb0-846f-7d6be6ba1533_650x.jpg?v=1702611043" alt="Kraken" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
