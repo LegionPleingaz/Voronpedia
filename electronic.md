@@ -1,14 +1,12 @@
 # Control Boards
 ## BTT
-### SKR
+
 <table>
 <tr>
   <td><a href="https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3">SKR mini E3</br><img src="https://biqu.equipment/cdn/shop/products/1_a64655c5-0e4f-4d1e-91f7-deae5fc2a0c9_650x.jpg?v=1702537379" alt="SKR mini E3" style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/bigtreetech/SKR-3">SKR  E3</br><img src="https://biqu.equipment/cdn/shop/products/3_7b775b11-90bb-498b-9d05-b96ea7e0a05e_650x.png?v=1700265657" alt="SKR 3" style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/bigtreetech/SKR-3">SKR3 EZ</br><img src="https://biqu.equipment/cdn/shop/files/2_8e489e7b-2819-4f32-9c26-28dd6e8e847c_650x.jpg?v=1690777098" alt="SKR3 EZ" style="width:200px;"/></a></br></td>
 
-
-### Manta
 <table>
 <tr>
 <td><a href="https://github.com/bigtreetech/Manta-E3EZ">Manta E3EZ</br><img src="https://biqu.equipment/cdn/shop/products/1-12_650x.png?v=1702632842" alt="E3EZ" style="width:200px;"/></a></br></td>
