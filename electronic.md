@@ -5,7 +5,7 @@
 
 # Screen
 <a href="https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware">BTT touch screen. support TFT35 V1.0/V1.1/V1.2/V2.0/V3.0, TFT28, TFT24 V1.1, TFT43, TFT50, TFT70</br><img src="https://user-images.githubusercontent.com/54359396/98742038-03cd4d00-23ae-11eb-9552-36dc02fe66f4.png" alt="Touchscreen" style="width:200px;"/></a></br>
-
+<a href="https://github.com/bigtreetech/KNOMI/tree/master">Knomi</br><img src="https://media.printables.com/media/prints/493614/images/4022071_0271e3eb-13f6-4105-94c4-089bd0e0b1d5/thumbs/inside/1280x960/jpg/knomi-06.webp" alt="Knomi" style="width:200px;"/></a></br>
 
 # CAN
 <a href="https://github.com/bigtreetech/EBB/tree/master/EBB%20CAN%20V1.1%20(STM32G0B1)/EBB36%20CAN%20V1.1">EBB36</br><img src="https://github.com/bigtreetech/EBB/raw/master/EBB%20CAN%20V1.0%20(STM32F072)/EBB36%20CAN%20V1.0/Hardware/EBB36%20CAN%20V1.0-PIN.png" alt="ebb36" style="width:200px;"/></a></br>
