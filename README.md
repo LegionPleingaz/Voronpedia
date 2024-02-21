@@ -29,7 +29,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## Print Bed & Wire Path
 ## Skirts & Bottom Compartment
 ## Electronics Compartment
-## Electronics
+## [Electronics](electronic.md)
 ## Rear Panel & Exhaust
 ## Panels
 ## Finishing Touches
