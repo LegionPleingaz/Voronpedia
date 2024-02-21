@@ -86,20 +86,12 @@
 <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
 <th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
 </tr>
+
+<tr>
+  <th> [Klippain](https://github.com/Frix-x/klippain) </th>
+  <th> [Klipper Git Backup](https://github.com/Low-Frequency/Klipper-Git-Backup)https://github.com/Low-Frequency/Klipper-Git-Backup </th>
+  <th> [KIAUH](https://github.com/dw-0/kiauh)https://github.com/dw-0/kiauh </th>
+</tr>
 </table>
 
 
-<h1>Slicer</h1>
-<table>
-  <tr>
-    <th><h3><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://www.prusa3d.com/img/slicer/logo.png" alt="Prusaslicer" height="64"><br/>Prusaslicer</a></h3></th>
-    <th><h3><a href="https://github.com/supermerill/SuperSlicer/"><img src="https://avatars.githubusercontent.com/u/6536403?v=4" alt="Prusaslicer" height="64"><br/>Superslicer</a></h3></th>
-  </tr>
-</table>
-
-<!-- <th><h3><a href="">title</a></h3></th> -->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNDUzNjc4LC01Mzg0MzQ3NzUsNTQ1OT
-M0NDA2LDk0MDcwNzg5MywxMzI0NjkyNDgzLC0xNjIwNDAzMjYy
-LDExNDUwMjk0ODksMTg3NjI0MDI3NSwxODQ3NDI0MDI2XX0=
--->
