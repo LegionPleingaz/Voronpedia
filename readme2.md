@@ -1,11 +1,35 @@
-This GIT aims to list the different options available for your voron printer.
+Make your choice
 
-I'm trying to develop it, but a little help would be appreciated.
+# Mechanical
 
-======
+## [Frame](frame.md)
 
+## A B Drive
 
+## Front idlers
 
+## Gantry
+
+## Bed frame
+
+## Z axis
+## Z Drives and Idlers
+## X axis
+
+## Belt path
+
+## Toolhead
+
+## Afterburner
+## Print Bed & Wire Path
+## Skirts & Bottom Compartment
+## Electronics Compartment
+## Electronics
+## Rear Panel & Exhaust
+## Panels
+## Finishing Touches
+
+## Tools
 
 ## Beer donation
 
@@ -22,3 +46,6 @@ bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
 rPvexWZvydUizKzz52FqMXnkGRV9mRbriB
 
 ---
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzY5NjI1NDc5LDIyODU2MDMyMF19
+-->
