@@ -5,7 +5,36 @@ I'm trying to develop it, but a little help would be appreciated.
 ![Mendeleyeev](/IMG/mendeleyeev2.JPG "mendeleevpedia")
 ======
 
+# Mechanical
 
+## [Frame](frame.md)
+
+## A B Drive
+
+## Front idlers
+
+## Gantry
+
+## Bed frame
+
+## Z axis
+## Z Drives and Idlers
+## X axis
+
+## Belt path
+
+## Toolhead
+
+## Afterburner
+## Print Bed & Wire Path
+## Skirts & Bottom Compartment
+## Electronics Compartment
+## Electronics
+## Rear Panel & Exhaust
+## Panels
+## Finishing Touches
+
+## Tools
 
 
 ## Beer donation
