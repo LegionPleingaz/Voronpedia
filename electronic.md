@@ -44,11 +44,25 @@
 </tr>
 </table>
 
-### S
+### E/S
 <table>
 <tr>
+<td><a href="https://github.com/FYSETC/FYSETC-E4">E4</br><img src="https://www.fysetc.com/cdn/shop/products/FYSETC-E4-board-with-built-in-Wi-Fi-and-Bluetooth-4-pcs-TMC2209-240MHz-16M-flash.jpg?v=1605188154" alt="e4" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/FYSETC/FYSETC-S6">S6</br><img src="https://www.fysetc.com/cdn/shop/products/H1d023665cdbb4ec28100e9d4bfba2c8af.jpg?v=1604990774" alt="s6" style="width:200px;"/></a></br></td>
+</tr>
+</table>
 
+### Cheetah
+<table>
+<tr>
+<td><a href="https://github.com/FYSETC/Cheetah_V3.0">E4</br><img src="https://www.fysetc.com/cdn/shop/files/2_1f6ac077-945e-473b-8879-8846fee7bb66.jpg?v=1693906632" style="width:200px;"/></a></br></td>
+</tr>
+</table>
+
+### Catalyst
+<table>
+<tr>
+<td><a href="https://github.com/FYSETC/Catalyst_Kit">E4</br><img src="https://www.fysetc.com/cdn/shop/files/1_564e9da6-53de-490d-9e23-c6e0a1418633.jpg?v=1686566383" alt="cheetah v3" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
