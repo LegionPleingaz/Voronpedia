@@ -78,8 +78,10 @@
 ## Fysetc
 <table>
 <tr>
+<td><a href="https://github.com/VoronDesign/Voron-Hardware/tree/master/V0_Display">V0 OLED</br><img src="https://www.fysetc.com/cdn/shop/products/H11cd00a5273c4e558ca9168a32811356Z.jpg?v=1620545479" alt="V0OLED" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/FYSETC/FYSETC-Mini-12864-Panel">Mini 12864</br><img src="https://www.fysetc.com/cdn/shop/products/HTB1DUlIa5frK1RjSspbq6A4pFXas.jpg?v=1605170191" alt="12864" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/FYSETC/FYSETC-CTP40">CTP40</br><img src="https://github.com/FYSETC/FYSETC-CTP40/raw/main/images/4.0CTP.JPG" alt="CTP40" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/FYSETC/FYSETC-CM4_HMI_MODULE">CM4 HMI</br><img src="https://www.fysetc.com/cdn/shop/products/Raspberry-Pi-CM4-HMI-Display-Module-Small-and-High-Resolution-HIM-DPI-Interface-Capacitive-Touch-Screen.jpg?v=1638865008" alt="CTP40" style="width:200px;"/></a></br></td>
 </tr>
 </table>  
 
