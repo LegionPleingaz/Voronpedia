@@ -40,6 +40,15 @@
 <table>
 <tr>
 <td><a href="https://github.com/FYSETC/FYSETC-SPIDER">Spider v3</br><img src="https://ae01.alicdn.com/kf/Sc237228d63544f85bcda1a90be289836O.jpg" alt="spider v3" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/FYSETC/">Spider king</br><img src="https://www.fysetc.com/cdn/shop/products/Pre-Sale-FYSETC-Spider-king-motherboard-Core-Replaceable-10-axis-Industrial-grade-Motherboard-Support-UART-SPI.jpg?v=1658480266" alt="spider king" style="width:200px;"/></a></br></td>
+</tr>
+</table>
+
+### S
+<table>
+<tr>
+<td><a href="https://github.com/FYSETC/FYSETC-S6">S6</br><img src="https://www.fysetc.com/cdn/shop/products/H1d023665cdbb4ec28100e9d4bfba2c8af.jpg?v=1604990774" alt="s6" style="width:200px;"/></a></br></td>
+
 </tr>
 </table>
 
