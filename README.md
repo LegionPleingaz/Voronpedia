@@ -31,6 +31,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## Electronics Compartment
 ## [Electronics](electronic.md)
 ### [Control Board](controlboard.md)
+### [Screen](screen.md)
 ## Rear Panel & Exhaust
 ## Panels
 ## Finishing Touches
