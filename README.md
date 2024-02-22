@@ -32,6 +32,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Electronics](electronic.md)
 ### [Control Board](controlboard.md)
 ### [Screen](screen.md)
+### [CAN](CAN.md)
 ## Rear Panel & Exhaust
 ## Panels
 ## Finishing Touches
