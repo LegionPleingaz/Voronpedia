@@ -86,8 +86,10 @@
 </tr>
 <tr>
   <th><h3><a href="https://github.com/hessfab/continuous-prints-klipper">Continuous-prints-klipper</a></h3></th>
+  <th><h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC auto tune</a></h3></th>
 </tr>
   <th><a href="https://github.com/hessfab/continuous-prints-klipper"><img src="https://github.com/hessfab/continuous-prints-klipper/raw/main/img/fluidd_macros.png" alt="Continuous print" height="64"></th>
+  <th><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://opengraph.githubassets.com/550cf0710d5fef0a353d7a8f6e93b35ab503077d3879732199a373d3cb0eed16/andrewmcgr/klipper_tmc_autotune" alt="TMC autotune" height="64"></th>
 </tr>
 <tr>
 
