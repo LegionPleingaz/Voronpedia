@@ -79,14 +79,15 @@
 <th><h3><a href="https://github.com/jontek2/A-better-print_start-macro">A better print start</a></h3></th>
 </tr>
 <tr>
-<th><a href="https://github.com/Clon1998/mobileraker_companion"><img src="https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png" alt="OctoEverywhere Logo" height="64"></th>
-<th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
-<th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
-<th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
+  <th><a href="https://github.com/Clon1998/mobileraker_companion"><img src="https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png" alt="OctoEverywhere Logo" height="64"></th>
+  <th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
+  <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
+  <th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
 </tr>
 <tr>
-<th><h3><a href="https://github.com/hessfab/continuous-prints-klipper">Continuous-prints-klipper</a></h3></th>
+  <th><h3><a href="https://github.com/hessfab/continuous-prints-klipper">Continuous-prints-klipper</a></h3></th>
 </tr>
+  <th><a href="https://github.com/hessfab/continuous-prints-klipper"><img src="https://github.com/hessfab/continuous-prints-klipper/raw/main/img/fluidd_macros.png" alt="Continuous print" height="64"></th>
 </tr>
 <tr>
 
