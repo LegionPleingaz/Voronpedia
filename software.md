@@ -36,7 +36,6 @@
 </tr>
 </table>
 
-
 <h1>Bots</h1>
 <table>
 <tr>
@@ -48,7 +47,6 @@
 <th><img src="https://raw.githubusercontent.com/eliteSchwein/mooncord/master/assets/images/github-title.png" alt="nlef avatar" height="64"></th>
 </tr>
 </table>
-
 
 <h1>CFG / printer config</h1>
 <table>
@@ -86,12 +84,12 @@
 <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
 <th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
 </tr>
-
 <tr>
-  <th> [Klippain](https://github.com/Frix-x/klippain) </th>
-  <th> [Klipper Git Backup](https://github.com/Low-Frequency/Klipper-Git-Backup)https://github.com/Low-Frequency/Klipper-Git-Backup </th>
-  <th> [KIAUH](https://github.com/dw-0/kiauh)https://github.com/dw-0/kiauh </th>
+<th><h3><a href="https://github.com/hessfab/continuous-prints-klipper">Continuous-prints-klipper</a></h3></th>
 </tr>
+</tr>
+<tr>
+
 </table>
 
 <h1>Slicer</h1>
