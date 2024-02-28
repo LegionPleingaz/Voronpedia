@@ -1,27 +1,19 @@
-======
-
-# Toolhead
-
-## [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
+# [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
 <img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG?raw=true" width="200"/>
 
-### SB mods
+## SB mods
 <table>
   <tr>
-    <td><a href="https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1">CW2 Nema17 </br>
-      <img src="https://media.printables.com/media/prints/454292/images/3735612_ac6ad99c-2bfb-4d01-8ff8-13e7115964b5/thumbs/inside/1280x960/jpg/img_20230416_165634.webp?raw=true" style="width:200px;"/></a></br></td>
-  <td><a href="https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20">SB Orbiter2 </br>
-      <img src="https://media.printables.com/media/prints/345237/images/2939962_4e878b25-4db2-4603-ae08-61e539ec520d/thumbs/inside/1280x960/jpg/screen-shot-2022-12-21-at-20416-pm.webp" style="width:200px;"/></a></br>GR 7.5:1</td>
-  <td><a href="https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount">SB LGX Lite</br>
-      <img src="https://user-images.githubusercontent.com/94404962/184004932-a4767190-644e-4b3a-a60f-1d7e687b40dd.png" style="width:200px;"/></a></br></td>
-  <td><a href="https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner">SB VZ hextrudort</br>
-      <img src="https://media.printables.com/media/prints/369577/images/3114340_0c014c1a-d0f1-494b-8d3b-d2f050330c12/thumbs/inside/1280x960/jpg/pxl_20230107_071850272.webp" style="width:200px;"/></a></br>GR 6.25:1</td>
+    <td><a href="https://github.com/leddhedd/BreakNeck">Breakneck</br>
+      <img src="https://github.com/leddhedd/BreakNeck/raw/main/Images/filament%20path.png" style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/FBServiceTech3D/Giano_StealthBurner_Dual_Filament">Giano dual filament</br>
+      <img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/giano%20dual%20filament.JPG" style="width:200px;"/></a></br></td>
+    <td><a href="https://www.printables.com/fr/model/638605-filametrix-mmuercf-filament-cutter-voron">Filametrix</br>
+      <img src="https://media.printables.com/media/prints/638605/rich_content/31b1bfbc-7d6d-4ae8-bd98-25d08612ac43/thumbs/cover/800x552/png/3.webp" style="width:200px;"/></a></br></td>
   </tr>
   <tr>
-  <td><a href="https://github.com/Mamsih/Galileo-stealthBurner">SB Galileo</br>
-      <img src="https://github.com/Mamsih/Galileo-stealthBurner/raw/main/imge/Galileo-SB.jpg" style="width:200px;"/></a></br>GR 7.5:1</td>
-  <td><a href="https://github.com/JaredC01/Galileo2">SB Galileo2E</br>
-      <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="width:200px;"/></a></br>GR 9:1</td>
+  
+  
   </tr>
 </table>
 
@@ -32,12 +24,26 @@
   <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2">Clockwork2</br>
       <img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG" alt="Clockwork2" style="width:200px;"/></a></br>GR 5:1</td>
+    <td><a href="https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1">CW2 Nema17 </br>
+      <img src="https://media.printables.com/media/prints/454292/images/3735612_ac6ad99c-2bfb-4d01-8ff8-13e7115964b5/thumbs/inside/1280x960/jpg/img_20230416_165634.webp?raw=true" style="width:200px;"/></a></br></td>
   </tr>
    <tr>
      <td><a href="https://www.orbiterprojects.com/orbiter-v2-0/">Orbiter2</br>
-      <img src="https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg"style="width:200px;"/></a></br>GR 7.5:1</td>
-    <td><a href="https://github.com/JaredC01/Galileo2">Galileo 2 SA</br>
-      <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png"style="width:200px;"/></a></br>GR 9:1</td>
+        <img src="https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg"style="width:200px;"/></a></br>GR 7.5:1</td>
+      <td><a href="https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20">SB Orbiter2 </br>
+        <img src="https://media.printables.com/media/prints/345237/images/2939962_4e878b25-4db2-4603-ae08-61e539ec520d/thumbs/inside/1280x960/jpg/screen-shot-2022-12-21-at-20416-pm.webp" style="width:200px;"/></a></br>GR 7.5:1</td>
+      <td><a href="https://github.com/Mamsih/Galileo-stealthBurner">SB Galileo</br>
+        <img src="https://github.com/Mamsih/Galileo-stealthBurner/raw/main/imge/Galileo-SB.jpg" style="width:200px;"/></a></br>GR 7.5:1</td>
+      <td><a href="https://github.com/JaredC01/Galileo2">Galileo 2 SA</br>
+        <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png"style="width:200px;"/></a></br>GR 9:1</td>
+      <td><a href="https://github.com/JaredC01/Galileo2">SB Galileo2E</br>
+        <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="width:200px;"/></a></br>GR 9:1</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount">SB LGX Lite</br>
+      <img src="https://user-images.githubusercontent.com/94404962/184004932-a4767190-644e-4b3a-a60f-1d7e687b40dd.png" style="width:200px;"/></a></br></td>
+    <td><a href="https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner">SB VZ hextrudort</br>
+      <img src="https://media.printables.com/media/prints/369577/images/3114340_0c014c1a-d0f1-494b-8d3b-d2f050330c12/thumbs/inside/1280x960/jpg/pxl_20230107_071850272.webp" style="width:200px;"/></a></br>GR 6.25:1</td>
   </tr>
   <tr>
   <td><a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder">Sherpa mini</br>
@@ -127,12 +133,55 @@
 
 ## MODS
 
-|                                                                                                   | Img                                                                                                                                                                                                        | V0  | V1  | V2  | Trident |     |     |     |     |     |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | ------- | --- | --- | --- | --- | --- |
-| [BreakNeck](https://github.com/leddhedd/BreakNeck)                                                | &lt;img src="https://github.com/leddhedd/BreakNeck/blob/main/Images/sizes.png?raw=true" width="200"/&gt;                                                                                                   |     |     | ✔   |         |     |     |     |     |     |
-| [Giano](https://github.com/FBServiceTech3D/Giano_StealthBurner_Dual_Filament)                     |                                                                                                                                                                                                            | ❌   |     | ✔   | ✔       |     |     |     |     |     |
-| [Filametrix](https://www.printables.com/fr/model/638605-filametrix-mmuercf-filament-cutter-voron) | &lt;img src="https://media.printables.com/media/prints/638605/images/5048319_9a489845-1fce-446d-bc86-3d19f1b790b1_0f19d1d9-0d40-4afd-a19e-55a379e5c11a/thumbs/inside/1280x960/png/3.webp" width="200"/&gt; | ❌   |     | ✔   | ✔       |     |     |     |     |     |
-| [Mini-Stealthburner](Mini-Stealthburner.md)                                                       |                                                                                                                                                                                                            | ✔   |     |     |         |     |     |     |     |     |
-| [Mini-AfterSherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)                           | &lt;img src="https://github.com/PrintersForAnts/Mini-AfterSherpa/raw/main/images/mini-aftersherpa-hero.jpg" width="200"/&gt;                                                                               | ✔   |     |     |         |     |     |     |     |     |
-|                                                                                                   |                                                                                                                                                                                                            |     |     |     |         |     |     |     |     |     |
-| [Tapchanger](https://github.com/viesturz/tapchanger)                                              | &lt;img src="https://github.com/viesturz/tapchanger/raw/main/images/rods-photo.jpg" width="200"/&gt;                                                                                                       |     |     | ✔   |         |     |     |     |     |     |
+<table>
+  <tr>
+    <td><a href="https://github.com/viesturz/tapchanger">Tapchanger</br>
+      <img src="https://github.com/viesturz/tapchanger/raw/main/images/printer.jpg" style="width:200px;"/></a></br></td>
+  </tr>
+</table>
+
+## [Mini-Stealthburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1/STLs/Toolheads/Mini_Stealthburner)
+<img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/miniSB.JPG" width="200"/>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Apus Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Apus/images/Apus_Minified.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Aquarius Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Aquarius/images/MiniSB-Aquarius-Standard.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">HGT Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/HGT/images/MiniSB-HGT-Standard.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">HGX 2 Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/HGX-2.0/images/MiniSB-HGX-2.0-Standard.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">HGX lite Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/HGX-Lite/images/MiniSB-HGX-Lite-Standard.png"style="width:200px;"/></a></br></td>
+   </tr>
+  <tr>
+    <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Libra mini Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Libra_Mini/images/Libra_Mini.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Orbiter 1.5 Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Orbiter_v1.5/images/Orbiter_v1.5.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Orbiter 2 Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Orbiter_v2.0/images/Orbiter_v2.0.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Sherpa Heavy Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Sherpa-Heavy/images/MiniSB-Sherpa-Heavy-Standard.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Sherpa micro Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Sherpa_Micro/images/Sherpa_Micro.png"style="width:200px;"/></a></br></td>
+   </tr>
+  <tr>
+    <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Sherpa mini Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Sherpa_Mini/images/Sherpa_Mini.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">TBG Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/TBG-S/images/TBG-S-Standard.png"style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/tree/main/Extruder_Mounts">Vz-Hextrudort-Low-Plus Mount</br>
+      <img src="https://github.com/JackJack3231/MiniSB-Extruder-Mounts/raw/main/Extruder_Mounts/Vz-Hextrudort-Low-Plus-CNC/images/MiniSB-Vz-Hextrudort-Low-Plus-CNC-Standard.png"style="width:200px;"/></a></br></td>
+       </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/PrintersForAnts/Mini-AfterSherpa">Mini-AfterSherpa</br>
+      <img src="https://github.com/PrintersForAnts/Mini-AfterSherpa/raw/main/images/mini-aftersherpa-hero.jpg"style="width:200px;"/></a></br></td>
+   </tr>
+</table>
+                                                                                                                                
