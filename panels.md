@@ -3,6 +3,8 @@
   <tr>
     <td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020">snap-latch-2020</br>
       <img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/richardjm/snap-latch-2020/Images/Latch-v68-3mm.jpg" style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts">Magnetic_Panels_with_Magnet_Inserts</br>
+      <img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts/Images/magnetic-panel-and-inserts-0-installed-2.jpg" style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/richardjm/voron-parts/tree/main/voron-0.1/FilamentLatch">Quick release latch for 1515</br>
       <img src="https://github.com/richardjm/voron-parts/raw/main/voron-0.1/FilamentLatch/Images/Latch-v63.jpg" style="width:200px;"/></a></br></td>
       <td><a href="https://github.com/zruncho3d/ZeroPanels">Zero panels</br>
