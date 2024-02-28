@@ -37,6 +37,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Cooling](cooling.md)
 ## Rear Panel & Exhaust
 ## [Panels](panels.md)
+## [Filters](filters.md)
 ## Finishing Touches
 
 ## Tools
