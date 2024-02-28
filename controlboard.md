@@ -64,3 +64,12 @@
 <td><a href="https://github.com/FYSETC/Catalyst_Kit">E4</br><img src="https://www.fysetc.com/cdn/shop/files/1_564e9da6-53de-490d-9e23-c6e0a1418633.jpg?v=1686566383" alt="cheetah v3" style="width:200px;"/></a></br></td>
 </tr>
 </table>
+
+## Mellow
+### Fly
+<table>
+<tr>
+<td><a href="https://github.com/Mellow-3D/Fly-Super8">Super8</br><img src="https://xyzdims.com/wp-content/uploads/2022/08/Fly-Super8-Pinout-1.jpg" alt="super8" style="width:200px;"/></a></br></td>
+</tr>
+</table>
+
