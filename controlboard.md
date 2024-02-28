@@ -25,6 +25,8 @@
 <td><a href="https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro">Octopus pro</br><img src="https://biqu.equipment/cdn/shop/files/1_de91a27d-529c-4355-93a2-59ef5d83a9f7_650x.jpg?v=1702632698" alt="Octopus pro" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/bigtreetech/Octopus-Max-EZ">Octopus max EZ</br><img src="https://biqu.equipment/cdn/shop/products/1-10_650x.webp?v=1702633284" alt="Octopus max" style="width:200px;"/></a></br></td>
 </tr>
+  <td></td>
+  <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Octopus_Pro_FanCase">Octopus pro Fan case</br><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Octopus_Pro_FanCase/Pic-Index.jpg" style="width:200px;"/></a></br></td>
 </table>
 
 ### Kraken
