@@ -68,7 +68,7 @@
 ## LDO
 <table>
 <tr>
-<td><a href="https://github.com/Mellow-3D/Fly-Super8">Super8</br><img src="https://github.com/MotorDynamicsLab/Leviathan/raw/master/Media/product_img_web2.jpg" alt="super8" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/Mellow-3D/Fly-Super8">Leviathan</br><img src="https://github.com/MotorDynamicsLab/Leviathan/raw/master/Media/product_img_web2.jpg" alt="super8" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
