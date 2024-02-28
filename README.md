@@ -35,7 +35,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ### [Screen](screen.md)
 ### [CAN](CAN.md)
 ## Rear Panel & Exhaust
-## [Panels](panel.md)
+## [Panels](panels.md)
 ## Finishing Touches
 
 ## Tools
