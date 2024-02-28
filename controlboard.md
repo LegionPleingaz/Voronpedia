@@ -54,21 +54,21 @@
 ### Cheetah
 <table>
 <tr>
-<td><a href="https://github.com/FYSETC/Cheetah_V3.0">E4</br><img src="https://www.fysetc.com/cdn/shop/files/2_1f6ac077-945e-473b-8879-8846fee7bb66.jpg?v=1693906632" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/FYSETC/Cheetah_V3.0">Cheetah</br><img src="https://github.com/FYSETC/Cheetah_V3.0/raw/main/images/Image02.png" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
 ### Catalyst
 <table>
 <tr>
-<td><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan</br><img src="https://www.fysetc.com/cdn/shop/files/1_564e9da6-53de-490d-9e23-c6e0a1418633.jpg?v=1686566383" alt="Leviathan" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/FYSETC/Catalyst_Kit">Catalyst</br><img src="https://www.fysetc.com/cdn/shop/files/2_1f6ac077-945e-473b-8879-8846fee7bb66.jpg?v=1693906632" alt="Catalyst" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
 ## LDO
 <table>
 <tr>
-<td><a href="https://github.com/Mellow-3D/Fly-Super8">Leviathan</br><img src="https://github.com/MotorDynamicsLab/Leviathan/raw/master/Media/product_img_web2.jpg" alt="super8" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan</br><img src="https://github.com/MotorDynamicsLab/Leviathan/raw/master/Media/product_img_web2.jpg" alt="super8" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
