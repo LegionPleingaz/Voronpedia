@@ -4,3 +4,10 @@
 <a href="https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN">SB2240</br><img src="https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/SB2240/Hardware/SB2240.png" style="width:200px;"/></a></br>
 <a href="https://github.com/MotorDynamicsLab/Nitehawk-SB">Nitehawk SB</br><img src="https://github.com/MotorDynamicsLab/Nitehawk-SB/blob/master/Images/nitehawk_sb_logo.svg" style="width:200px;"/></a></br>
 [CANboard_Mounts](https://github.com/KayosMaker/CANboard_Mounts)
+
+### Mellow
+<table>
+  <tr>
+    <td><a href="https://github.com/Mellow-3D/Fly-SB2040/tree/main">SB2040</a></td>
+  </tr>
+</table>
