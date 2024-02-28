@@ -65,7 +65,7 @@
 
 ## Tool Cartridge
 
-Standard:
+### Standard
 
 <table>
   <tr>
@@ -73,14 +73,10 @@ Standard:
       <img src="https://www.phaetus.com/cdn/shop/files/2.png?v=1685611688&width=600"style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms">Phaetus BMS</br>
       <img src="https://c-3d.niceshops.com/upload/image/product/large/default/14555_78e1dfb4.512x512.jpg"style="width:200px;"/></a></br></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_dragon">Phaetus Dragon</br>
       <img src="https://www.phaetus.com/cdn/shop/files/DRAGONHOTENDST_1.png?v=1688624965&width=990"style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido</br>
       <img src="https://www.phaetus.com/cdn/shop/files/RapidoHotend.png?v=1688694574&width=990"style="width:200px;"/></a></br></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido</br>
       <img src="https://www.phaetus.com/cdn/shop/files/RapidoHotend.png?v=1688694574&width=990"style="width:200px;"/></a></br></td>
   </tr>
@@ -94,23 +90,24 @@ Standard:
   </tr>
 </table>
 
+### Mods:
 
-
-Mods:
-
-[Microswiss](<https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead>) by qwertymodo
-
-[Bambu Lab X1C/X1 Hotend](<https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend>) by MrTeliP
-
-[Slice Engineering Mosquito](<https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito>) by Keko
-
-[Phaetus Rapido UHF](<https://www.printables.com/fr/model/246799-stealthburner-phaetus-rapido-uhf>) by TX Ryan
-
-[Stealthburner Rapido UHF](<https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf>) by thorsthunder
-
-[Crazy Dragon fan duct](<https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eamars/stealthburner_crazy_dragon_toolhead>) by Eamars
-
-[HF Crazy Mozzie](<https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gauravmm/crazy_mozzie_cw2>)
+<table>
+  <tr>
+    <td><a href="https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend">Bambu Lab X1C/X1 Hotend</br>
+      <img src="https://media.printables.com/media/prints/323196/images/2806941_22a60e67-c464-405b-98ea-656ee9c1856e/thumbs/inside/1280x960/jpg/attachment-1.webp"style="width:200px;"/></a></br></td>
+    <td><a href="https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead">Microswiss</br>
+      <img src="https://media.printables.com/media/prints/272765/images/2427576_20e9bcbd-7e7c-43ea-bcc4-b75d46ada49e/thumbs/inside/1280x960/jpg/20220907_175311.webp"style="width:200px;"/></a></br></td>
+    <td><a href="https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito">Slice Engineering Mosquito</br>
+      <img src="https://media.printables.com/media/prints/278870/images/2471486_9ffb19a6-0eae-4b57-8a77-c3a0475018dc/thumbs/inside/1280x960/jpg/mosquito_1.webp"style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/gauravmm/crazy_mozzie_cw2">Crazy mozzie / Mosquito Clone</br>
+      <img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/gauravmm/crazy_mozzie_cw2/images/pic.jpg"style="width:200px;"/></a></br></td>
+    <td><a href="https://www.printables.com/fr/model/246799-stealthburner-phaetus-rapido-uhf">Phaetus Rapido UHF</br>
+      <img src="https://media.printables.com/media/comment_images/b7/1c4ba0-4a35-4737-a73f-7949e4f6f88a/thumbs/inside/1920x1440/jpg/img_0741.webp"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eamars/stealthburner_crazy_dragon_toolhead">Crazy Dragon fan duct</br>
+      <img src="https://github.com/VoronDesign/VoronUsers/raw/master/printer_mods/eamars/stealthburner_crazy_dragon_toolhead/back.png"style="width:200px;"/></a></br>For: Mellow Crazy Heatblock; Phaetus Dragon UHF mini; TriangleLab T Volcano</td>
+  </tr>
+</table>
 
 Probe
 
