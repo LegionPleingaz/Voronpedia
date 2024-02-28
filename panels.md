@@ -18,12 +18,12 @@
   </tr>
 </table>
 
-##Doors
+## Doors
 
 <table>
   <tr>
     <td><a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">Removable door</br>
-      <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jp" style="width:200px;"/></a></br></td>
+      <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
