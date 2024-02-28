@@ -17,9 +17,8 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## Bed frame
 
-## Z axis
-## Z Drives and Idlers
-### [Z idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/Z%20idlers.md)
+## [Z axis](https://github.com/LegionPleingaz/Voronpedia/blob/main/z%20axis.md)
+
 ## X axis
 
 ## Belt path
