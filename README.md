@@ -34,6 +34,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ### [Stepper motor driver](SMD.md)
 ### [Screen](screen.md)
 ### [CAN](CAN.md)
+## [Cooling](cooling.md)
 ## Rear Panel & Exhaust
 ## [Panels](panels.md)
 ## Finishing Touches
