@@ -11,7 +11,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## A B Drive
 
-## Front idlers
+## [Front idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/front_idlers.md)
 
 ## Gantry
 
@@ -19,6 +19,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## Z axis
 ## Z Drives and Idlers
+### [Z idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/Z%20idlers.md)
 ## X axis
 
 ## Belt path
