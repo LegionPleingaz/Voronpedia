@@ -25,7 +25,6 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## [Toolhead](toolhead.md)
 
-## Afterburner
 ## Print Bed & Wire Path
 ## Skirts & Bottom Compartment
 ## Electronics Compartment
