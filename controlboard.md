@@ -61,7 +61,14 @@
 ### Catalyst
 <table>
 <tr>
-<td><a href="https://github.com/FYSETC/Catalyst_Kit">E4</br><img src="https://www.fysetc.com/cdn/shop/files/1_564e9da6-53de-490d-9e23-c6e0a1418633.jpg?v=1686566383" alt="cheetah v3" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/MotorDynamicsLab/Leviathan">Leviathan</br><img src="https://www.fysetc.com/cdn/shop/files/1_564e9da6-53de-490d-9e23-c6e0a1418633.jpg?v=1686566383" alt="Leviathan" style="width:200px;"/></a></br></td>
+</tr>
+</table>
+
+## LDO
+<table>
+<tr>
+<td><a href="https://github.com/Mellow-3D/Fly-Super8">Super8</br><img src="https://github.com/MotorDynamicsLab/Leviathan/raw/master/Media/product_img_web2.jpg" alt="super8" style="width:200px;"/></a></br></td>
 </tr>
 </table>
 
