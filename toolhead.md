@@ -27,15 +27,19 @@
 
 ======
 
-### Extruder
+## Extruders
 <table>
   <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2">Clockwork2</br>
       <img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG" alt="Clockwork2" style="width:200px;"/></a></br>GR 5:1</td>
   </tr>
    <tr>
+     <td><a href="https://www.orbiterprojects.com/orbiter-v2-0/">Orbiter2</br>
+      <img src="https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg"style="width:200px;"/></a></br>GR 7.5:1</td>
     <td><a href="https://github.com/JaredC01/Galileo2">Galileo 2 SA</br>
       <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png"style="width:200px;"/></a></br>GR 9:1</td>
+  </tr>
+  <tr>
   <td><a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder">Sherpa mini</br>
       <img src="https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/raw/master/Images/sherpa_mini_rc1.jpg?raw=true"style="width:200px;"/></a></br>GR 6.25:1</td>
   <td><a href="https://github.com/jrlomas/Sherpa-Crew-Mini">Sherpa crew mini</br>
@@ -43,43 +47,54 @@
   <td><a href="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder">Sherpa micro</br>
       <img src="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/raw/main/Images/sherpa_micro_pr.jpg?raw=true"style="width:200px;"/></a></br>GR 5:1</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Annex-Engineering/Folded_Ascender-Extruder">Folded Ascender</br>
+      <img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/Folded_ascender_extruder.JPG"style="width:200px;"/></a></br>GR 40:1</td>
+  </tr>
 </table>
 
-|                                                                                              | Img                                                                                                                                                                                                                   | V0  | V1  | V2  | Trident |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- | ------- |
-|                                                                                              |                                                                                                                                                                                                                       |     |     |     |         |
-| [Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder/tree/master) |                                                                                                                                                                                                                       |     |     |     |         |
-|
-| [Orbiter 2.0](https://www.thingiverse.com/thing:5168611/files)                               | &lt;img src="https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg" width="200"/&gt; |     |     |     |         |
-  |     |     |     |         |
+### ⛔Archive⛔ 
+<table>
+  <tr>
+     <td><a href="https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder">Sherpa heavy</br>
+      <img src="https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder/raw/main/Images/sh_2.jpg?raw=true"style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/Annex-Engineering/Sherpa-Extruder">Sherpa</br>
+      <img src="https://github.com/Annex-Engineering/Sherpa-Extruder/raw/master/Tall_Bowden_Variant/Images/Bowden_Render2.JPG?raw=true"style="width:200px;"/></a></br></td>
+  </tr>
+</table>
 
-                                                                                         |                                                                                                                                                                                                                       |     |     |     |         |
-| ⛔Archive⛔                                                                                    |                                                                                                                                                                                                                       |     |     |     |         |
-| [Sherpa heavy](https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder)                   | &lt;img src="https://github.com/Annex-Engineering/Sherpa_Heavy-Extruder/raw/main/Images/sh_2.jpg?raw=true" width="200"/&gt;                                                                                           |     |     |     |         |
-| [Sherpa](https://github.com/Annex-Engineering/Sherpa-Extruder)                               | &lt;img src="https://github.com/Annex-Engineering/Sherpa-Extruder/raw/master/Tall_Bowden_Variant/Images/Bowden_Render2.JPG?raw=true" width="200"/&gt;                                                                 |     |     |     |         |
-
-
-\*
-
-Tool Cartridge
-
-\------
+## Tool Cartridge
 
 Standard:
 
-[Phaetus BMO](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bmo>)
+<table>
+  <tr>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bmo">Phaetus BMO</br>
+      <img src="https://www.phaetus.com/cdn/shop/files/2.png?v=1685611688&width=600"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms">Phaetus BMS</br>
+      <img src="https://c-3d.niceshops.com/upload/image/product/large/default/14555_78e1dfb4.512x512.jpg"style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_dragon">Phaetus Dragon</br>
+      <img src="https://www.phaetus.com/cdn/shop/files/DRAGONHOTENDST_1.png?v=1688624965&width=990"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido</br>
+      <img src="https://www.phaetus.com/cdn/shop/files/RapidoHotend.png?v=1688694574&width=990"style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido</br>
+      <img src="https://www.phaetus.com/cdn/shop/files/RapidoHotend.png?v=1688694574&width=990"style="width:200px;"/></a></br></td>
+  </tr>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_micro">Revo micro</br>
+      <img src="https://c-3d.niceshops.com/upload/image/product/large/default/20868_9f1dff7f.512x512.jpg"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_six_and_v6">Revo six / V6</br>
+      <img src="https://c-3d.niceshops.com/upload/image/product/large/default/20883_01e6ffbb.512x512.jpg"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_voron">Revo Voron</br>
+      <img src="https://c-3d.niceshops.com/upload/image/product/large/default/22377_b5d0bb54.512x512.jpg"style="width:200px;"/></a></br></td>
+  <tr>
+  </tr>
+</table>
 
-[Phaetus BMS](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms>)
 
-[Phaetus_dragon](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_dragon>)
-
-[Phaetus_rapido](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido>)
-
-[Revo_micro](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_micro>)
-
-[Revo_six_and_v6](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_six_and_v6>)
-
-[Revo_voron](<https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_voron>)
 
 Mods:
 
