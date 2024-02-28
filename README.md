@@ -23,7 +23,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## Belt path
 
-## Toolhead
+## [Toolhead](toolhead.md)
 
 ## Afterburner
 ## Print Bed & Wire Path
