@@ -20,8 +20,10 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Z axis](https://github.com/LegionPleingaz/Voronpedia/blob/main/z%20axis.md)
 
 ## X axis
+### XY joint
+### X carriage
 
-## Belt path
+## Belts
 
 ## [Toolhead](toolhead.md)
 
