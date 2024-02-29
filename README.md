@@ -32,7 +32,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## Skirts & Bottom Compartment
 
-## Electronics Compartment
+## [Electronics Compartment](elec_compartment.md)
 
 ## Electronics
 ### [Control Board](controlboard.md)
