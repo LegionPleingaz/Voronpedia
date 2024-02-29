@@ -49,9 +49,12 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## [Filters](filters.md)
 
-## Finishing Touches
+## [Finishing Touches](finish.md)
 
 ## Tools
+
+## [Software / Firmware](software.md)
+
 
 
 ## Beer donation
