@@ -56,6 +56,8 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Software / Firmware](software.md)
 
 
+# Filaments
+## [Datasheets](https://github.com/LegionPleingaz/Voronpedia/tree/main/Filament)
 
 ## Beer donation
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
