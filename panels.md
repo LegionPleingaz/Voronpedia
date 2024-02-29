@@ -19,6 +19,8 @@
       <img src="https://media.printables.com/media/prints/568090/images/4604519_01c438c9-02f4-4510-aaa0-ffc84f3f0801/thumbs/inside/1280x960/jpg/20230904_213103.webp" style="width:200px;"/></a></br></td>
       <td><a href="https://www.printables.com/fr/model/594894-voron-24-trident-canopy-top-hat-remix-split-model-/files">REMIX Canopy Split model</br>
       <img src="https://media.printables.com/media/prints/594894/images/4738693_7a2be3ed-882b-4974-8f13-ca10b336f254_1b66a85d-6b84-4663-b6c5-1bfefe6fa518/thumbs/inside/1280x960/jpeg/img_2003.webp" style="width:200px;"/></a></br></td>
+  <td><a href="https://www.printables.com/fr/model/761305-micron-top-canopy">Micron Canopy</br>
+      <img src="https://media.printables.com/media/prints/761305/images/5937433_2fc9cd81-c854-4a1c-884e-4872ebb74c5f_fcfa4224-0b90-4cd4-95f1-162291817342/thumbs/inside/1280x960/jpg/20240211_203631.webp" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
