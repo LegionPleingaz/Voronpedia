@@ -28,6 +28,8 @@
   <tr>
     <td><a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">Removable door</br>
       <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clickyclacky door</br>
+      <img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
