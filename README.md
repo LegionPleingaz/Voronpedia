@@ -28,18 +28,26 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Toolhead](toolhead.md)
 
 ## Print Bed & Wire Path
+
 ## Skirts & Bottom Compartment
+
 ## Electronics Compartment
+
 ## Electronics
 ### [Control Board](controlboard.md)
 ### [Motors](motors.md)
 ### [Stepper motor driver](SMD.md)
 ### [Screen](screen.md)
 ### [CAN](CAN.md)
+
 ## [Cooling](cooling.md)
+
 ## Rear Panel & Exhaust
+
 ## [Panels](panels.md)
+
 ## [Filters](filters.md)
+
 ## Finishing Touches
 
 ## Tools
