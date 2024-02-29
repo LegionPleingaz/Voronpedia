@@ -26,6 +26,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## Belts
 
 ## [Toolhead](toolhead.md)
+### [Probes](probes.md)
 
 ## Print Bed & Wire Path
 
