@@ -15,7 +15,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## Gantry
 
-## Bed frame
+## [Bed frame](bed.md)
 
 ## [Z axis](https://github.com/LegionPleingaz/Voronpedia/blob/main/z%20axis.md)
 
