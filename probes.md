@@ -21,4 +21,8 @@
   <td><a href="https://github.com/VoronDesign/Voron-Tap">TAP</br>
       <img src="https://www.3dlabtech.ca/wp-content/uploads/2022/12/Voron-Tap-kit.jpg"style="width:200px;"/></a></br></td>
   </tr>
+  <tr>
+     <td><a href="https://github.com/ModularPrintingSystem/IDM">IDM</br>
+      <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
+  </tr>
 </table>
