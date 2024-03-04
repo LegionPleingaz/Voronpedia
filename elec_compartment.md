@@ -8,3 +8,13 @@
   <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/LoganFraser/PiPlate/PiPlate.jpg" style="width:200px;"/></a></br></td>
 </tr>
 </table> 
+
+### Cable management
+
+<table>
+<tr>
+<td><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/evandepol/Voron2.4-Cable-clamps">Cable clamp</br>
+  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/evandepol/Voron2.4-Cable-clamps/Images/edge-clamp.png" style="width:200px;"/></a></br></td>
+
+</tr>
+</table> 
