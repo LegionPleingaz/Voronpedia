@@ -14,7 +14,7 @@
   <tr>
     <td><a href="https://github.com/clee/VoronBFI">BZI</br>
       <img src="https://github.com/clee/VoronBFI/raw/main/images/BZI.png" style="width:200px;"/></a></br></td>
-  td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler">Lovely Frog Z Idler</br>
+  <td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler">Lovely Frog Z Idler</br>
       <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Lovely%20Frog%20Z%20Idler/images/lovely_frog_front.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
