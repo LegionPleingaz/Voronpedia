@@ -99,7 +99,7 @@
 <table>
 <tr>  
     <th><a href="https://github.com/hessfab/continuous-prints-klipper"><img src="https://github.com/hessfab/continuous-prints-klipper/raw/main/img/fluidd_macros.png"  height="64"></br>Continuous print</a></th> 
-   
+    <th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" height="64"></br>Better print start</a></th> 
 </tr>
 </table>
 
