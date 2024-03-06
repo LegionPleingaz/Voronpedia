@@ -86,13 +86,19 @@
 </tr>
 <tr>
   <th><h3><a href="https://github.com/hessfab/continuous-prints-klipper">Continuous-prints-klipper</a></h3></th>
-  <th><h3><a href="https://github.com/andrewmcgr/klipper_tmc_autotune">TMC auto tune</a></h3></th>
+  
 </tr>
   <th><a href="https://github.com/hessfab/continuous-prints-klipper"><img src="https://github.com/hessfab/continuous-prints-klipper/raw/main/img/fluidd_macros.png" alt="Continuous print" height="64"></th>
-  <th><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://opengraph.githubassets.com/550cf0710d5fef0a353d7a8f6e93b35ab503077d3879732199a373d3cb0eed16/andrewmcgr/klipper_tmc_autotune" alt="TMC autotune" height="64"></th>
+ 
 </tr>
-<tr>
+</table>
 
+# Klipper Module
+<table>
+<tr>  
+    <th><a href="https://github.com/Anonoei/klipper_auto_speed"><img src="https://opengraph.githubassets.com/57070ffe9cd4834bf4bc777d714f3435d774b1110a946b86796180f291058f80/Anonoei/klipper_auto_speed"  height="64"></br>Klipper Auto Speed</a></th> 
+   <th><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://opengraph.githubassets.com/550cf0710d5fef0a353d7a8f6e93b35ab503077d3879732199a373d3cb0eed16/andrewmcgr/klipper_tmc_autotune"  height="64"></br>Klipper TMC autotune</a></th>
+</tr>
 </table>
 
 <h1>Slicer</h1>
