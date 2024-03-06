@@ -61,13 +61,13 @@
 <h1>Tools / tuning</h1>
 <table>
 <tr>
-<th><h3><a href="https://github.com/Frix-x/klippain-shaketune/tree/main">Shaketune</a></h3></th>
+
 <th><h3><a href="https://github.com/Kragrathea/pgcode">PrettyGCode for Klipper</a></h3></th>
 <th><h3><a href="https://github.com/TheSpaghettiDetective/moonraker-obico">Obico for Klipper</a></h3></th>
 <th><h3><a href="https://ellis3dp.com/Print-Tuning-Guide/">Ellis print tuning guide</a></h3></th>
 </tr>
 <tr>
-<th><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png" alt="Shaketune" height="64"></th>
+
 <th><img src="https://raw.githubusercontent.com/Kragrathea/pgcode/main/img/pgc_screen1.jpg" alt="prettyGCode" height="64"></th>
 <th><img src="https://avatars.githubusercontent.com/u/46323662?s=200&v=4" alt="Obico logo" height="64"></th>
 <th><img src="https://ellis3dp.com/Print-Tuning-Guide/articles/images/first_layer_squish/FirstLayer-PrintExample.jpg" alt="ellis" height="64">
@@ -91,6 +91,7 @@
 <tr>  
     <th><a href="https://github.com/Anonoei/klipper_auto_speed"><img src="https://opengraph.githubassets.com/57070ffe9cd4834bf4bc777d714f3435d774b1110a946b86796180f291058f80/Anonoei/klipper_auto_speed"  height="64"></br>Klipper Auto Speed</a></th> 
    <th><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://opengraph.githubassets.com/550cf0710d5fef0a353d7a8f6e93b35ab503077d3879732199a373d3cb0eed16/andrewmcgr/klipper_tmc_autotune"  height="64"></br>Klipper TMC autotune</a></th>
+  <th><a href="https://github.com/Frix-x/klippain-shaketune/tree/main"><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png"  height="64"></br>Klippain Shaketune</a></th>
 </tr>
 </table>
 
