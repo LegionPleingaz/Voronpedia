@@ -103,6 +103,13 @@
 </tr>
 </table>
 
+# Tools
+<table>
+<tr>  
+    <th><a href="https://github.com/Donkie/Spoolman"><img src="https://github.com/Donkie/Spoolman/assets/2332094/3c120b3a-1422-42f6-a16b-8d5a07c33000"  height="64"></br>Spoolman</a></th> 
+</tr>
+</table>
+
 <h1>Slicer</h1>
 <table>
   <tr>
