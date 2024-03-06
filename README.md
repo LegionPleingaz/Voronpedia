@@ -13,7 +13,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 ## [Front idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/front_idlers.md)
 
-## Gantry
+## [Gantry](gantry.md)
 
 ## [Bed frame](bed.md)
 
