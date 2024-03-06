@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td><a href="https://cdn.shopifycdn.net/s/files/1/1619/4791/files/HT_LDO-36STH20-1004AHG_XH_RevA_00.png?v=1661424556">NEMA23 </br>36STH20-1004AHG(XH)</br><img src="https://biqu.equipment/cdn/shop/products/1_8a3571d1-588a-425a-9530-7c52fc831b79_650x.jpg?v=1661424653"  style="width:200px;"/></a></br></td>
+<td><a href="https://cdn.shopifycdn.net/s/files/1/1619/4791/files/HT_LDO-36STH20-1004AHG_XH_RevA_00.png?v=1661424556">NEMA14 </br>36STH20-1004AHG(XH)</br><img src="https://biqu.equipment/cdn/shop/products/1_8a3571d1-588a-425a-9530-7c52fc831b79_650x.jpg?v=1661424653"  style="width:200px;"/></a></br></td>
 <td><a href="https://ldomotors.com/uploads/product_attachment/path/6/LDO-42STH_Info_Sheet.pdf">NEMA17 </br> LDO-42STH***</br><img src="https://ldomotors.com/uploads/product/thumbnail/55/thumb.jpg" alt="nema17" style="width:200px;"/></a></br></td>
 <td><a href="https://ldomotors.com/uploads/product_attachment/path/8/LDO-57STH_Info_Sheet.pdf">NEMA23 </br> LDO-57STH***</br><img src="https://ldomotors.com/uploads/product/thumbnail/10/thumb.jpg" alt="nema23" style="width:200px;"/></a></br></td>
 </tr>
