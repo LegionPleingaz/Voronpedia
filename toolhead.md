@@ -10,6 +10,8 @@
       <img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/giano%20dual%20filament.JPG" style="width:200px;"/></a></br></td>
     <td><a href="https://www.printables.com/fr/model/638605-filametrix-mmuercf-filament-cutter-voron">Filametrix</br>
       <img src="https://media.printables.com/media/prints/638605/rich_content/31b1bfbc-7d6d-4ae8-bd98-25d08612ac43/thumbs/cover/800x552/png/3.webp" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/IRTrail/G2E-Filametrix">G2E Filametrix</br>
+      <img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/images/Filametrix%20for%20G2E.png" style="width:200px;"/></a></br></td>
   </tr>
   <tr>
   
