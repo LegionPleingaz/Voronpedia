@@ -75,14 +75,13 @@
 <tr>
 <th><h3><a href="https://github.com/Clon1998/mobileraker_companion">Mobileraker's Companion</a></h3></th>
 <th><h3><a href="https://octoeverywhere.com/?source=kiauh_readme">OctoEverywhere For Klipper</a></h3></th>
-<th><h3><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging">Klipper Adaptative Meshing Purging</a></h3></th>
-<th><h3><a href="https://github.com/jontek2/A-better-print_start-macro">A better print start</a></h3></th>
+
+
 </tr>
 <tr>
   <th><a href="https://github.com/Clon1998/mobileraker_companion"><img src="https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png" alt="OctoEverywhere Logo" height="64"></th>
   <th><a href="https://octoeverywhere.com/?source=kiauh_readme"><img src="https://octoeverywhere.com/img/logo.svg" alt="OctoEverywhere Logo" height="64"></a></th>
-  <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt="KAMP Logo" height="64"></a></th>
-  <th><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt="Better print start" height="64"></a></th>
+  </a></th>
 </tr>
 </table>
 
@@ -92,6 +91,7 @@
     <th><a href="https://github.com/Anonoei/klipper_auto_speed"><img src="https://opengraph.githubassets.com/57070ffe9cd4834bf4bc777d714f3435d774b1110a946b86796180f291058f80/Anonoei/klipper_auto_speed"  height="64"></br>Klipper Auto Speed</a></th> 
    <th><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://opengraph.githubassets.com/550cf0710d5fef0a353d7a8f6e93b35ab503077d3879732199a373d3cb0eed16/andrewmcgr/klipper_tmc_autotune"  height="64"></br>Klipper TMC autotune</a></th>
   <th><a href="https://github.com/Frix-x/klippain-shaketune/tree/main"><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png"  height="64"></br>Klippain Shaketune</a></th>
+  <th><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png"  height="64"></br>Klipper Adaptative Meshing Purging</a></th>
 </tr>
 </table>
 
