@@ -203,6 +203,8 @@ Standard
 <table>
   <tr>
     <td><a href="https://github.com/sneakytreesnake/CrownCooler/tree/main">Crown Cooler</br>
-      <img src="https://private-user-images.githubusercontent.com/12782053/307545214-add31050-2a75-48c6-9f3f-3691cecbd244.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxMzYxNjAsIm5iZiI6MTcwOTEzNTg2MCwicGF0aCI6Ii8xMjc4MjA1My8zMDc1NDUyMTQtYWRkMzEwNTAtMmE3NS00OGM2LTlmM2YtMzY5MWNlY2JkMjQ0LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI4VDE1NTc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE0Nzg1NWNlMWM2Y2FjNmExZDRkYzViNWQ0YzQ1MGUyMzliYzk2NmM0NGEyODlmNTExMjJmOTYyY2YwNGQ1ZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oHx-hI4wQvlI9rog2IScGaWMFzVBgz-s1ePmOhNz8fY"style="width:200px;"/></a></br></td>
+      <img src="https://www.teamfdm.com/uploads/monthly_2022_10/1782742759_ScreenShot2022-10-07at7_28_32PM.png.59f22f392d2d0456dff4cbb91b33df63.png"style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner">Dragon Burner</br>
+      <img src="https://github.com/chirpy2605/voron/raw/main/V0/Dragon_Burner/images/dragonburner.png"style="width:200px;"/></a></br></td>
   </tr>
 </table>
