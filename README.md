@@ -5,56 +5,42 @@ I'm trying to develop it, but a little help would be appreciated.
 ![Mendeleyeev](/IMG/mendeleyeev2.JPG "mendeleevpedia")
 ======
 
-# Mechanical
-
+# 1.Mechanical
 ## [Frame](frame.md)
-
 ## [A B Drive](ABdrive.md)
-
 ## [Front idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/front_idlers.md)
-
 ## [Gantry](gantry.md)
-
 ## [Bed frame](bed.md)
-
 ## [Z axis](https://github.com/LegionPleingaz/Voronpedia/blob/main/z%20axis.md)
-
 ## X axis
 ### XY joint
 ### X carriage
-
 ## Belts
 
-## [Toolhead](toolhead.md)
-### [Probes](probes.md)
+# [2.Toolhead](toolhead.md)
+## [Probes](probes.md)
 
+# 3.Electronics
+## [Electronics Compartment](elec_compartment.md)
+## [Control Board](controlboard.md)
+## [Motors](motors.md)
+## [Stepper motor driver](SMD.md)
+## [Screen](screen.md)
+## [CAN](CAN.md)
 ## Print Bed & Wire Path
 
-## Skirts & Bottom Compartment
+# [4.Cooling](cooling.md)
 
-## [Electronics Compartment](elec_compartment.md)
-
-## Electronics
-### [Control Board](controlboard.md)
-### [Motors](motors.md)
-### [Stepper motor driver](SMD.md)
-### [Screen](screen.md)
-### [CAN](CAN.md)
-
-## [Cooling](cooling.md)
-
-## Rear Panel & Exhaust
-
+# 5.Rear Panel & Exhaust
 ## [Panels](panels.md)
-
 ## [Filters](filters.md)
 
-## [Finishing Touches](finish.md)
+# [6.Finishing Touches](finish.md)
+## Skirts & Bottom Compartment
 
-## Tools
+# [7.Software / Firmware](software.md)
 
-## [Software / Firmware](software.md)
-
+# 8.Tools
 
 # Filaments
 ## [Datasheets](https://github.com/LegionPleingaz/Voronpedia/tree/main/Filament)
