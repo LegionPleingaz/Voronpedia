@@ -104,7 +104,11 @@
 <table>
   <tr>
     <td><a href="https://www.printables.com/fr/model/323196-voron-stealthburner-for-bambu-lab-x1cx1-hotend">Bambu Lab X1C/X1 Hotend</br>
-      <img src="https://media.printables.com/media/prints/323196/images/2806941_22a60e67-c464-405b-98ea-656ee9c1856e/thumbs/inside/1280x960/jpg/attachment-1.webp"style="width:200px;"/></a></br></td>
+      <img src="https://media.printables.com/media/prints/323196/images/2806941_22a60e67-c464-405b-98ea-656ee9c1856e/thumbs/inside/1280x960/jpg/attachment-1.webp" style="width:200px;"/></a></br></td>
+     <td><a href="https://www.printables.com/fr/model/360117-bambulab-toolhead-or-clone-for-stealthburner/files">Bambu Lab X1C/X1 Hotend</br>
+      <img src="https://media.printables.com/media/prints/360117/images/3048660_a86a86eb-ecb7-4c08-b6a8-7c4c38095976/thumbs/inside/1600x1200/jpg/bbl_th.webp" style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
     <td><a href="https://www.printables.com/fr/model/272765-stealthburner-microswiss-toolhead">Microswiss</br>
       <img src="https://media.printables.com/media/prints/272765/images/2427576_20e9bcbd-7e7c-43ea-bcc4-b75d46ada49e/thumbs/inside/1280x960/jpg/20220907_175311.webp"style="width:200px;"/></a></br></td>
     <td><a href="https://www.printables.com/fr/model/278870-voron-stealthburner-slice-engineering-mosquito">Slice Engineering Mosquito</br>
