@@ -14,7 +14,8 @@
       <img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/images/Filametrix%20for%20G2E.png" style="width:200px;"/></a></br></td>
   </tr>
   <tr>
-  
+  <td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Stealthburner%20POGO%20Toolhead">POGO</br>
+      <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Stealthburner%20POGO%20Toolhead/images/Pogo-CW2.png" style="width:200px;"/></a></br></td>
   
   </tr>
 </table>
