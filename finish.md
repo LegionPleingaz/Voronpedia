@@ -9,3 +9,14 @@
 
 </tr>
 </table> 
+
+## Feets
+
+<table>
+<tr>
+<td><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Slidr/PanzerBalls2.4">Panzer Balls </br>
+  <img src="https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Slidr/PanzerBalls2.4/01-Normal/Panzerballs.png?raw=true" style="width:200px;"/></a></br></td>
+
+
+</tr>
+</table> 
