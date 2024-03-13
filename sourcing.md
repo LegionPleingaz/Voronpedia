@@ -31,5 +31,6 @@
 ## Panels
 
 ## Electronics
+[Raspberry](https://rpilocator.com/)
 
 ## Cables
