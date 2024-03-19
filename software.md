@@ -1,12 +1,14 @@
 <h1>Installation / update</h1>
 <table>
 <tr>
-<th><h3><a href="https://github.com/dw-0/kiauh">Kiauh</a></h3></th>
-</tr>
-<tr>
-<th><img src="https://raw.githubusercontent.com/dw-0/kiauh/master/resources/screenshots/kiauh.png" alt="Kiauh Logo" height="64"></th>
+<th><h3><a href="https://github.com/dw-0/kiauh">Kiauh</a></h3></br>
+<img src="https://raw.githubusercontent.com/dw-0/kiauh/master/resources/screenshots/kiauh.png" alt="Kiauh Logo" height="64"></th>
+  <th><h3><a href="https://github.com/Staubgeborener/klipper-backup">Klipper backup</a></h3></br>
+💾</th>
 </tr>
 </table>
+
+
 
 <h1>Firmware</h1>
 <table>
