@@ -112,7 +112,9 @@
 <table>
 <tr>  
     <th><a href="https://github.com/Donkie/Spoolman"><img src="https://github.com/Donkie/Spoolman/assets/2332094/3c120b3a-1422-42f6-a16b-8d5a07c33000"  height="64"></br>Spoolman</a></th> 
+  <th><a href="https://github.com/fbeauKmi/kbobine_filament_settings"><img src="https://github.com/fbeauKmi/kbobine_filament_settings/raw/main/images/kbobine.png"  height="64"></br>Kbobine</a></th> 
 </tr>
+  
 </table>
 
 <h1>Slicer</h1>
