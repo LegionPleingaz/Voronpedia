@@ -39,6 +39,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## Skirts & Bottom Compartment
 
 # [7.Software / Firmware](software.md)
+## [Macros](macros.md)
 
 # 8.Tools
 
