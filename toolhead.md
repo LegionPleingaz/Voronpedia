@@ -218,4 +218,10 @@ Standard
       <img src="https://github.com/chirpy2605/voron/raw/main/V0/Rapid_Burner/images/rapidburner.png"style="width:200px;"/></a>
 </br><a href="https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts">Alternative Mounts</td>
   </tr>
+   <tr>
+      <td><a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead">XOL2</br>
+      <img src="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/raw/main/docs/assets/images/full_assembly.png"style="width:200px;"/></a></br></td>
+    <td><a href="https://github.com/SouthAsh1/Xol-metrix">XOL metrix</br>
+      <img src="https://github.com/SouthAsh1/Xol-metrix/raw/main/Doc/images/full_render.png"style="width:200px;"/></a></br></td>
+</tr>
 </table>
