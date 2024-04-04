@@ -22,6 +22,11 @@
       <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/DW-Tas/Klicky-00">Klicky 00</br>
+      <img src="https://github.com/DW-Tas/Klicky-00/raw/main/images/PCB_Klicky-00_Xol-Toolhead_render.png"style="width:200px;"/></a></br></td>
+</tr>
+  
+  <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Tap">TAP</br>
       <img src="https://www.3dlabtech.ca/wp-content/uploads/2022/12/Voron-Tap-kit.jpg"style="width:200px;"/></a></br></td>
      <td><a href="https://github.com/andrewmcgr/FlexTAP">Flex TAP</br>
