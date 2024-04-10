@@ -62,7 +62,38 @@
 
 ### Mellow
 <table>
-  <tr>
-    <td><a href="https://github.com/Mellow-3D/Fly-SB2040/tree/main">SB2040</a></td>
+
+<tr>
+    <td><a href="https://github.com/bigtreetech/MMB">Fly ERCF</br><img src="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20ERCF/img/dfu-mode.png"  style="width:200px;"/></a></td>
+    <td>Katapult Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20ERCF/README.html"><img src="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20ERCF/img/canboot.png" style="width:400px;"/></a></td>
+   <td>Klipper Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20ERCF/README.html"><img src="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20ERCF/img/klipper-canboot.png" style="width:400px;"/></a></td>
   </tr>
+
+<tr>
+    <td><a href="https://github.com/Mellow-3D/Fly-SB2040">Fly SB2040</br><img src="https://m.media-amazon.com/images/I/61I5vnK08DL._AC_UF1000,1000_QL80_.jpg"  style="width:200px;"/></a></td>
+    <td>Katapult Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SB2040/README.html"><img src="https://user-images.githubusercontent.com/124253477/228765757-5a8bab71-6f57-4467-8400-4bbb9d37e2f6.png" style="width:400px;"/></a></td>
+   <td>Klipper Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SB2040/README.html"><img src="https://user-images.githubusercontent.com/124253477/221348650-b9f2749e-0f3b-44b4-b34a-a57bd8beb706.png" style="width:400px;"/></a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://github.com/Mellow-3D/Klipper-CAN-Toolboards">Fly SHT 36 & 42</br><img src="https://ae01.alicdn.com/kf/S8c6c6224ba0d4a74b480851c56cb762ez.jpg_640x640Q90.jpg_.webp"  style="width:200px;"/></a></td>
+    <td>Katapult Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SHT36%20and%20SHT42/README.html"><img src="https://user-images.githubusercontent.com/124253477/228767194-0ee2d789-13b2-44f4-99aa-f0a7f750c99c.png" style="width:400px;"/></a></td>
+   <td>Klipper Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SHT36%20and%20SHT42/README.html"><img src="https://user-images.githubusercontent.com/124253477/221396323-83dd84e5-b661-4472-8074-ea45aa19dced.png" style="width:400px;"/></a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://github.com/Mellow-3D/Klipper-CAN-Toolboards">Fly SHT 36v2</br><img src="https://mellow-3d.github.io/images/fly-sht36_v2/sht36_v2.png"  style="width:200px;"/></a></td>
+    <td>Katapult Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SHT36v2/README.html"><img src="https://user-images.githubusercontent.com/124253477/228767706-e14d572a-b0de-4445-9c7c-11276fc8c4a7.png" style="width:400px;"/></a></td>
+   <td>Klipper Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/Mellow%20Fly%20SHT36v2/README.html"><img src="https://user-images.githubusercontent.com/124253477/221396540-52695957-90f7-4f01-9d7d-130a76a81ee8.png" style="width:400px;"/></a></td>
+  </tr>
+
+  
 </table>
