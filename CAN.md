@@ -17,19 +17,10 @@
   <tr>
     <td><a href="https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN">SB2240</br>
       <img src="https://github.com/bigtreetech/EBB/blob/master/EBB%20SB2240_2209%20CAN/SB2240/Hardware/SB2240.png" style="width:200px;"/></a></td>
-    <td>Micro-controller Architecture (STMicroelectronics STM32)  ---></br>
-Processor model (STM32G0B1)  ---></br>
-Build CanBoot deployment application (Do not build)  ---></br>
-Clock Reference (8 MHz crystal)  ---></br>
-Communication interface (CAN bus (on PB0/PB1))  ---></br>
-Application start offset (8KiB offset)  ---></br>
-  (1000000) CAN bus speed</br>
-()  GPIO pins to set on bootloader entry</br>
-[*] Support bootloader entry on rapid double click of reset button</br>
-[ ] Enable bootloader entry on button (or gpio) state</br>
-[*] Enable Status LED</br>
-  (PA13)    Status LED GIPO Pin
-          </td>
+    <td>Katapult Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20and%20SB2240/README.html"><img src="https://user-images.githubusercontent.com/124253477/228764307-36da2c3a-393d-43d9-b370-4eb31d231c27.png" style="width:400px;"/></a></td>
+   <td>Klipper Config</br>
+<a href="https://canbus.esoterical.online/toolhead_flashing/common_hardware/BigTreeTech%20SB2209%20and%20SB2240/README.html"><img src="https://user-images.githubusercontent.com/124253477/221349102-cd2f4060-9c29-44aa-b722-9883262b2fc3.png" style="width:400px;"/></a></td>
   </tr>
 </table>
 
