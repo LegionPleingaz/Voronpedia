@@ -15,7 +15,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## X axis
 ### XY joint
 ### X carriage
-## Belts
+## [Belts](belts.md)
 
 # [2.Toolhead](toolhead.md)
 ## [Probes](probes.md)
