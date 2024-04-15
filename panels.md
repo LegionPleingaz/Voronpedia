@@ -22,6 +22,10 @@
   <td><a href="https://www.printables.com/fr/model/761305-micron-top-canopy">Micron Canopy</br>
       <img src="https://media.printables.com/media/prints/761305/images/5937433_2fc9cd81-c854-4a1c-884e-4872ebb74c5f_fcfa4224-0b90-4cd4-95f1-162291817342/thumbs/inside/1280x960/jpg/20240211_203631.webp" style="width:200px;"/></a></br></td>
   </tr>
+  <tr>
+     <td><a href="https://www.printables.com/fr/model/824359-voron-24-trident-canopy-ptfe-passthrough">Canopy PTFE passthrough</br>
+      <img src="https://media.printables.com/media/prints/824359/rich_content/566af6fd-93b9-45d9-8429-39387b4439b2/thumbs/cover/800x546/png/1.webp" style="width:200px;"/></a></br></td>
+  </tr>
 </table>
 
 ## Doors
