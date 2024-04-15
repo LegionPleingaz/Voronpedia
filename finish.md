@@ -1,3 +1,12 @@
+## Spool management
+
+<table>
+<tr>
+<td><a href="https://www.printables.com/fr/model/361212-spool-roller-for-2020-extrusion-on-v24">Spool Roller (fbeauKmi) </br>
+  <img src="https://media.printables.com/media/prints/361212/images/3060519_727b1ff2-b1ef-4cac-9444-2fee386d39e5/thumbs/inside/1600x1200/jpg/20230107_030619.webp" style="width:200px;"/></a></br></td>
+</tr>
+</table> 
+
 ## Purge ✔
 
 <table>
