@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/nevermore3d/StealthMax">SealthMax</br>
-      <img src="https://github.com/nevermore3d/StealthMax/raw/main/StealthMax.png" style="width:200px;"/></a></br></td>
+      <img src="https://github.com/nevermore3d/StealthMax/raw/main/assets/renders/sm_300.png" style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/nevermore3d/Nevermore_Mini">Mini</br>
       <img src="https://github.com/nevermore3d/Nevermore_Mini/raw/master/Nevermore_Mini_Electronics_Beta.png" style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/nevermore3d/Nevermore_Micro">Micro</br>
