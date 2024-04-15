@@ -21,4 +21,8 @@
     <td><a href="https://github.com/nevermore3d/Nevermore_Micro">Micro</br>
       <img src="https://github.com/nevermore3d/Nevermore_Micro/raw/master/images/nevermore-micro-duo.jpg" style="width:200px;"/></a></br></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/SanaaHamel/nevermore-controller">Nevermore controller</br>
+      <img src="https://github.com/SanaaHamel/nevermore-controller/raw/main/doc/README-display-UIs.png" style="width:200px;"/></a></br></td>
+  </tr>
 </table>
