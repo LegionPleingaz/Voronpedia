@@ -10,6 +10,10 @@
       <td><a href="https://github.com/zruncho3d/ZeroPanels">Zero panels</br>
       <img src="https://github.com/zruncho3d/ZeroPanels/raw/main/Images/v3/front_corner_iso.jpg" style="width:200px;"/></a></br></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/CloakedWayne/Monolith_Panels">Monolith Panels</br>
+      <img src="https://github.com/CloakedWayne/Monolith_Panels/raw/main/Images/distant_view.png" style="width:200px;"/></a></br></td>
+  </tr>
 </table>
 
 ## TOP
