@@ -125,10 +125,22 @@
 
 ## MODS
 
+### Toolchangers
+
 <table>
   <tr>
     <td><a href="https://github.com/viesturz/tapchanger">Tapchanger</br>
       <img src="https://github.com/viesturz/tapchanger/raw/main/images/printer.jpg" style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DraftShift/StealthChanger">Sealthchanger</br>
+      <img src="https://github.com/DraftShift/StealthChanger/raw/main/media/parts_together.png?raw=true" style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/DraftShift/ModularDock">Modular Dock</br>
+      <img src="https://github.com/DraftShift/ModularDock/raw/main/media/images/front.png" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/DraftShift/Tophat/tree/main">Tophat</br>
+      <img src="https://github.com/DraftShift/Tophat/raw/main/Media/Tophat_logo.png" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/DraftShift/DoorBuffer">Door buffer</br>
+      <img src="https://github.com/Stealthchanger/DoorBuffer/raw/main/Media/assembled.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
