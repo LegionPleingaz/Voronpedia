@@ -17,9 +17,9 @@
   <td><a href="https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m">EZABL</br>
       <img src="https://media.printables.com/media/prints/260919/images/2331407_aa40fdbc-b0d2-4e1f-b589-d61777c68005/thumbs/inside/1280x960/png/image_2022-08-17_160530948.webp"style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/jlas1/Klicky-Probe">Klicky</br>
-      <img src="https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyNG/Photos/klickyNG.png"style="width:200px;"/></a></br></td>
-  <td><a href="https://github.com/ModularPrintingSystem/IDM">IDM</br>
-      <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
+      <img src="https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyNG/Photos/klickyNG.png"style="width:200px;"/></a>
+      </br>Precision 250µm</td>
+  
   </tr>
   <tr>
     <td><a href="https://github.com/DW-Tas/Klicky-00">Klicky 00</br>
@@ -28,8 +28,17 @@
   
   <tr>
     <td><a href="https://github.com/VoronDesign/Voron-Tap">TAP</br>
-      <img src="https://www.3dlabtech.ca/wp-content/uploads/2022/12/Voron-Tap-kit.jpg"style="width:200px;"/></a></br></td>
+      <img src="https://www.3dlabtech.ca/wp-content/uploads/2022/12/Voron-Tap-kit.jpg"style="width:200px;"/></a></br>
+      Precision 0.4μm</td>
      <td><a href="https://github.com/andrewmcgr/FlexTAP">Flex TAP</br>
       <img src="https://github.com/andrewmcgr/FlexTAP/raw/main/Images/front.jpg"style="width:200px;"/></a></br></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://beacon3d.com/">Beacon</br>
+      <img src="https://beacon3d.com/wp-content/uploads/2023/11/RevD-her.png"style="width:200px;"/></a></br>
+      Precision 0.5µm (in 20 seconds)</td>
+      <td><a href="https://github.com/ModularPrintingSystem/IDM">IDM</br>
+      <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
   </tr>
 </table>
