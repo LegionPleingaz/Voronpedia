@@ -40,5 +40,8 @@
       Precision 0.5µm (in 20 seconds)</td>
       <td><a href="https://github.com/ModularPrintingSystem/IDM">IDM</br>
       <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
+       <td><a href="https://biqu.equipment/products/bigtreetech-eddy">BTT EDDY</br>
+      <img src="https://biqu.equipment/cdn/shop/files/Eddyimage_2_1220x1220_crop_center.png"style="width:200px;"/></a></br>
+       Precision 0.5µm</td>
   </tr>
 </table>
