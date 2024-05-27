@@ -237,3 +237,15 @@ Standard
       <img src="https://github.com/SouthAsh1/Xol-metrix/raw/main/Doc/images/full_render.png"style="width:200px;"/></a></br></td>
 </tr>
 </table>
+
+## End of printing zone
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Telekatz/Voron-Mods/tree/main/Drag%20Knife%20Toolhead">Knife toolhead</br>
+      <img src="https://github.com/Telekatz/Voron-Mods/raw/main/Drag%20Knife%20Toolhead/Images/Toolhead.jpg"style="width:200px;"/></a></br></td>
+  
+</tr>
+</table>
+
+
