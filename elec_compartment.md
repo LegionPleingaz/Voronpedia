@@ -15,6 +15,8 @@
 <tr>
 <td><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/evandepol/Voron2.4-Cable-clamps">Cable clamp</br>
   <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/evandepol/Voron2.4-Cable-clamps/Images/edge-clamp.png" style="width:200px;"/></a></br></td>
+<td><a href="https://github.com/GP3DS/Voron-Mods/tree/main/Cable_Duct">Cable duct</br>
+  <img src="https://github.com/GP3DS/Voron-Mods/raw/main/Cable_Duct/Images/Concept_screenshot.png" style="width:200px;"/></a></br></td>
 
 </tr>
 </table> 
