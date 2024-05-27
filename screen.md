@@ -15,3 +15,10 @@
 <td><a href="https://github.com/FYSETC/FYSETC-CM4_HMI_MODULE">CM4 HMI</br><img src="https://www.fysetc.com/cdn/shop/products/Raspberry-Pi-CM4-HMI-Display-Module-Small-and-High-Resolution-HIM-DPI-Interface-Capacitive-Touch-Screen.jpg?v=1638865008" alt="CTP40" style="width:200px;"/></a></br></td>
 </tr>
 </table>  
+
+## Install mod
+<table>
+<tr>
+<td><a href="https://github.com/fbeauKmi/V2.3934/tree/main/mods/peek-a-boo">Peek a BOO</br><img src="https://github.com/fbeauKmi/V2.3934/raw/main/mods/peek-a-boo/images/tray_assy2.png" style="width:200px;"/></a></br></td>
+</tr>
+</table>
