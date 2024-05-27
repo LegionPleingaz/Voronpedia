@@ -13,6 +13,8 @@
   <tr>
     <td><a href="https://github.com/CloakedWayne/Monolith_Panels">Monolith Panels</br>
       <img src="https://github.com/CloakedWayne/Monolith_Panels/raw/main/Images/distant_view.png" style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/RaymondDoerr/emp">Excessively Magnetic Panel Mod</br>
+      <img src="https://github.com/RaymondDoerr/emp/raw/main/Images/frameSTLPlacementReference.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
