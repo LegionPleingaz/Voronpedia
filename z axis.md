@@ -1,3 +1,12 @@
+## Z motor
+<table>
+  <tr>
+    <td><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z">Galileo2 Z</br>
+      <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2z.png" style="width:200px;"/></a></br></td>
+  </tr>
+</table>
+
+
 ## Z joint
 <table>
   <tr>
