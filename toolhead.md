@@ -186,6 +186,8 @@
   <tr>
     <td><a href="https://github.com/PrintersForAnts/Mini-AfterSherpa">Mini-AfterSherpa</br>
       <img src="https://github.com/PrintersForAnts/Mini-AfterSherpa/raw/main/images/mini-aftersherpa-hero.jpg"style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/kevinakasam/WTH-Burner">WTH burner</br>
+      <img src="https://github.com/kevinakasam/WTH-Burner/raw/main/pictures/V24.jpg"style="width:200px;"/></a></br></td>
    </tr>
 </table>
 
