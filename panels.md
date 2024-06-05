@@ -42,6 +42,8 @@
       <img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clickyclacky door</br>
       <img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" style="width:200px;"/></a></br><a href="https://www.printables.com/fr/model/639355-clicky-clack-fridge-door-drop-fix-hinge">MOD Drop fix</td>
+        <td><a href="https://github.com/TheVoronModder/MiniFridge">Mini fridge door</br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsU4xAP2dXZNZ6FHO6HLBBm5ZZcCNV6SYlnA&s" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
