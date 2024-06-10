@@ -26,7 +26,8 @@
 <tr>
 <td><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Slidr/PanzerBalls2.4">Panzer Balls </br>
   <img src="https://github.com/VoronDesign/VoronUsers/blob/main/printer_mods/Slidr/PanzerBalls2.4/01-Normal/Panzerballs.png?raw=true" style="width:200px;"/></a></br></td>
-
+<td><a href="https://makerworld.com/en/models/417509?from=search#profileId-319901">HULA </br>
+  <img src="https://makerworld.bblmw.com/makerworld/model/DSM00000000417509/design/2024-04-26_000788df2194e.png?image_process=format,webp" style="width:200px;"/></a></br></td>
 
 </tr>
 </table> 
