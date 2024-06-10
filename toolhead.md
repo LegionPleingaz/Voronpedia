@@ -8,6 +8,8 @@
       <img src="https://github.com/leddhedd/BreakNeck/raw/main/Images/filament%20path.png" style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/FBServiceTech3D/Giano_StealthBurner_Dual_Filament">Giano dual filament</br>
       <img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/giano%20dual%20filament.JPG" style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
     <td><a href="https://www.printables.com/fr/model/638605-filametrix-mmuercf-filament-cutter-voron">Filametrix</br>
       <img src="https://media.printables.com/media/prints/638605/rich_content/31b1bfbc-7d6d-4ae8-bd98-25d08612ac43/thumbs/cover/800x552/png/3.webp" style="width:200px;"/>
     </a></br></td>
@@ -15,6 +17,8 @@
       <img src="https://github.com/IRTrail/G2E-Filametrix/blob/main/images/Filametrix%20for%20G2E.png" style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/juliusjj25/G2E-Filametrix-Lever-Switch-Mod">Switch Filametrix</br>
       <img src="https://private-user-images.githubusercontent.com/118471600/301993692-1c1b8e25-f5bb-40bf-b7c8-d92421f76747.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgwMDY3MTIsIm5iZiI6MTcxODAwNjQxMiwicGF0aCI6Ii8xMTg0NzE2MDAvMzAxOTkzNjkyLTFjMWI4ZTI1LWY1YmItNDBiZi1iN2M4LWQ5MjQyMWY3Njc0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxMFQwODAwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMWIyNTY5MDQ1NThkOTZjODc0YzY0ZTRkMGY5ZTU1MjY5OWYyYzM3ZTgzZDE0NWJhNTJlZWY2ODM0ODc2ZTZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wCcjpy0fVZmRu8LBFa3wDggDkJNsydrXT6giHmLvc-I" style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/dridas/SBRapido-UHF-Cutter/tree/main">Filametrix magnet lever</br>
+      <img src="" style="width:200px;"/></a></br></td>
   </tr>
   <tr>
   <td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Stealthburner%20POGO%20Toolhead">POGO</br>
