@@ -17,6 +17,9 @@
   <img src="https://media.printables.com/media/prints/627261/images/4972020_31157d58-8ca1-48b4-ba8b-f722221fb07a_0496df54-3ea3-40ad-b194-34fd95d64842/thumbs/inside/1280x960/jpg/voron-decontaminator-bambu-wiper1.webp" style="width:200px;"/></a></br></td>
 <td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Front%20Purge%20Bucket">Front purge bucket</br>
   <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Front%20Purge%20Bucket/images/bucket350mm.png" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/Dendrowen/Blobifier">Blobifier</br>
+  <img src="https://raw.githubusercontent.com/Dendrowen/Blobifier/main/Pictures/Render_Full.png" style="width:200px;"/></a></br></td>
+</tr>
 </tr>
 </table> 
 
