@@ -7,7 +7,7 @@ I'm trying to develop it, but a little help would be appreciated.
 
 # 1.Mechanical
 ## [Frame](frame.md)
-## [A B Drive](ABdrive.md)
+## [A B Drive / AWD](ABdrive.md)
 ## [Front idlers](https://github.com/LegionPleingaz/Voronpedia/blob/main/front_idlers.md)
 ## [Gantry](gantry.md)
 ## [Bed frame](bed.md)
