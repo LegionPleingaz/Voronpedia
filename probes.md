@@ -1,7 +1,7 @@
 ## Probes
 
 ### Eddy current
-Precision 0.5µm (in 20 seconds)
+Accuracy approximation 0.5µm (in 20 seconds)
 <table>
 <tr>
    <td><a href="https://beacon3d.com/">Beacon</br>
@@ -16,7 +16,7 @@ Precision 0.5µm (in 20 seconds)
 </table>
 
 ### Nozzle probe
-Precision 0.4μm
+Accuracy approximation 0.4μm
 <table>
 <tr>
      <td><a href="https://github.com/VoronDesign/Voron-Tap">TAP</br>
@@ -29,7 +29,7 @@ Precision 0.4μm
 </table>
 
 ### Mechanical probe
-Type OMRON DF2 Precision 250µm
+Type OMRON DF2 Accuracy approximation 300µm
 
 <table>
 <tr>
@@ -52,6 +52,12 @@ Type OMRON DF2 Precision 250µm
       <img src="https://media.printables.com/media/prints/260473/images/2328362_c0f1308a-2752-4980-95d8-348c2d820c45/thumbs/inside/1280x960/png/sb_cr_fullview.webp"style="width:200px;"/></a></br></td>
   <td><a href="https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m">EZABL</br>
       <img src="https://media.printables.com/media/prints/260919/images/2331407_aa40fdbc-b0d2-4e1f-b589-d61777c68005/thumbs/inside/1280x960/png/image_2022-08-17_160530948.webp"style="width:200px;"/></a></br></td>
+
+</table> 
+
+
+### Accesories
+<table>   
 <tr>
 <td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop">SexBolt ZEndstop</br>
   <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/Images/8.png" style="width:200px;"/></a></br></td>
