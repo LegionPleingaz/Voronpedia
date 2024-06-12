@@ -8,6 +8,8 @@ Precision 0.5µm (in 20 seconds)
       <img src="https://beacon3d.com/wp-content/uploads/2023/11/RevD-her.png"style="width:200px;"/></a></br></td>
     <td><a href="https://github.com/ModularPrintingSystem/IDM">IDM</br>
       <img src="https://3do.eu/5493-thickbox_default/idm-scanner-leveling-sensor-compatible-with-klipper.jpg"style="width:200px;"/></a></br></td>
+    <td><a href="https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-flat-pack-both-can-usb">Cartographer</br>
+      <img src="https://cartographer3d.com/cdn/shop/files/512f6652e5234380d159e5bf824e913_c0199ec4-e4fb-410d-ab5f-2edfec84acee.png?v=1703254426&width=1946"style="width:200px;"/></a></br></td>
     <td><a href="https://biqu.equipment/products/bigtreetech-eddy">BTT EDDY</br>
       <img src="https://biqu.equipment/cdn/shop/files/Eddyimage_2_1220x1220_crop_center.png"style="width:200px;"/></a></br></td>
 </tr>
