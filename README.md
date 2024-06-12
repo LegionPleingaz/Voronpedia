@@ -12,8 +12,9 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Gantry](gantry.md)
 ## [Bed frame](bed.md)
 ## [Z axis](https://github.com/LegionPleingaz/Voronpedia/blob/main/z%20axis.md)
-## X axis
+## X Y axis
 ### XY joint
+### X carriage
 ### X carriage
 ## [Belts](belts.md)
 
