@@ -3,6 +3,12 @@
   <tr>
     <td><a href="https://github.com/JaredC01/Galileo2/tree/main/galileo2_z">Galileo2 Z</br>
       <img src="https://github.com/JaredC01/Galileo2/raw/main/images/g2z.png" style="width:200px;"/></a></br></td>
+      <td><a href="https://github.com/ocgeek/Voron_2.4_Galileo/tree/main">Galileo Z</br>
+      <img src="https://user-images.githubusercontent.com/76037248/136663762-35a79e73-ab10-4854-ac85-7c31087a9545.png" style="width:200px;"/></a></br></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Dr-Info/V2.4_z_drive_motor_tensioner_mod">2.4 Z motor tensioner</br>
+      <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/Dr-Info/V2.4_z_drive_motor_tensioner_mod/z_drive_mod.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
 
