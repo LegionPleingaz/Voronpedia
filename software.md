@@ -130,8 +130,8 @@
     <th><h3><a href="https://github.com/SoftFever/OrcaSlicer"><img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" alt="Prusaslicer" height="64"><br/>Orcaslicer</a></h3></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <th><a href="https://github.com/mjonuschat/PrusaSlicer-Profiles/tree/main?tab=readme-ov-file"><br/>Ellis SuperSlicer Profiles - adapted for use with PrusaSlicer</a></h3></th>
+     <th><a href="https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles"><br/>Ellis SuperSlicer Profiles</a></h3></th>
     <th><h3><a href="https://github.com/theophile/SuperSlicer_to_Orca_scripts"><img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer.png" height="64"><br/> SuperSlicer_to_Orca_scripts
 </a></h3></th>
   </tr>
