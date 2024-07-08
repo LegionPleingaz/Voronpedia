@@ -49,6 +49,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Datasheets](https://github.com/LegionPleingaz/Voronpedia/tree/main/Filament)
 
 # [Sourcing](sourcing.md)
+## [Fans](Sourcing_fan.xlsx)
 
 ## Beer donation
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
