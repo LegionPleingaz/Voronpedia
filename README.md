@@ -19,6 +19,7 @@ I'm trying to develop it, but a little help would be appreciated.
 ## [Belts](belts.md)
 
 # [2.Toolhead](toolhead.md)
+## [HE](HE.md)
 ## [Probes](probes.md)
 
 # 3.Electronics
