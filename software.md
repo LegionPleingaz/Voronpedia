@@ -7,6 +7,8 @@
 💾</th>
 <th><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus">Update Klipper </br>& MCU</a></h3></br>
 <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/raw/main/images/media.png" height="64"></th>
+<th><h3><a href="https://doctor-klipper.clmntw.fr/">Log analysis</a></h3></br>
+<img src="https://doctor-klipper.clmntw.fr/assets/svg/logo.svg" height="64"></th>
 </tr>
 </table>
 
