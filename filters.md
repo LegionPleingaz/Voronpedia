@@ -32,3 +32,15 @@
       <img src="https://github.com/SanaaHamel/nevermore-controller/raw/main/doc/README-display-UIs.png" style="width:200px;"/></a></br></td>
   </tr>
 </table>
+
+
+### Fans
+<table>
+  <tr>
+    <td><a href="https://www.printables.com/fr/model/964701-evenmore-bed-fans-with-style">EVENmore</br>
+      <img src="https://media.printables.com/media/prints/964701/images/7439142_e109dfaa-fc6c-423e-a191-a02b82c09c69_784bb93d-f067-4953-9f5e-3725e4712faa/thumbs/inside/1920x1440/png/evenmore_02.webp" style="width:200px;"/></a></br></td>
+
+  </tr>
+ 
+  
+</table>
