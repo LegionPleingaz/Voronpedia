@@ -36,6 +36,8 @@
       <img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG" alt="Clockwork2" style="width:200px;"/></a></br>GR 5:1</td>
     <td><a href="https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1">CW2 Nema17 </br>
       <img src="https://media.printables.com/media/prints/454292/images/3735612_ac6ad99c-2bfb-4d01-8ff8-13e7115964b5/thumbs/inside/1280x960/jpg/img_20230416_165634.webp?raw=true" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2">CW2 Large Gear </br>
+      <img src="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Large_Gear_Clockwork2/Images/Thumbnail.png" style="width:200px;"/></a></br></td>
   </tr>
    <tr>
      <td><a href="https://www.orbiterprojects.com/orbiter-v2-0/">Orbiter2</br>
@@ -52,6 +54,8 @@
   <tr>
     <td><a href="https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount">SB LGX Lite</br>
       <img src="https://user-images.githubusercontent.com/94404962/184004932-a4767190-644e-4b3a-a60f-1d7e687b40dd.png" style="width:200px;"/></a></br></td>
+  <td><a href="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Hummingbird">Hummingbird</br>
+      <img src="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Hummingbird/Images/photo4.jpg" style="width:200px;"/></a></br></td>
     <td><a href="https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner">SB VZ hextrudort</br>
       <img src="https://media.printables.com/media/prints/369577/images/3114340_0c014c1a-d0f1-494b-8d3b-d2f050330c12/thumbs/inside/1280x960/jpg/pxl_20230107_071850272.webp" style="width:200px;"/></a></br>GR 6.25:1</td>
   </tr>
