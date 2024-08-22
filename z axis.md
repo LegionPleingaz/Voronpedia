@@ -31,6 +31,8 @@
   <tr>
     <td><a href="https://github.com/clee/VoronBFI">BZI</br>
       <img src="https://github.com/clee/VoronBFI/raw/main/images/BZI.png" style="width:200px;"/></a></br></td>
+   <td><a href="https://github.com/Chaoticlab/CNC_Tool-free_Tensioner_for_Voron2.4_Z-Axis/tree/main">Cahotic Tool-free_Tensioner</br>
+      <img src="https://avatars.githubusercontent.com/u/104876821?s=48&v=4" style="width:200px;"/></a></br></td>
   <td><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler">Lovely Frog Z Idler</br>
       <img src="https://github.com/falcon14141/Voron_Mods/raw/master/Lovely%20Frog%20Z%20Idler/images/lovely_frog_front.png" style="width:200px;"/></a></br></td>
   </tr>
