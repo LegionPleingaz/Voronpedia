@@ -3,7 +3,9 @@
 <tr>
 <th><h3><a href="https://github.com/dw-0/kiauh">Kiauh</a></h3></br>
 <img src="https://raw.githubusercontent.com/dw-0/kiauh/master/resources/screenshots/kiauh.png" alt="Kiauh Logo" height="64"></th>
-  <th><h3><a href="https://github.com/Staubgeborener/klipper-backup">Klipper backup</a></h3></br>
+<th><h3><a href="https://github.com/Staubgeborener/klipper-backup">Klipper backup</a></h3></br>
+💾</th>
+<th><h3><a href="https://github.com/Low-Frequency/Klipper-Git-Backup">Klipper Git backup</a></h3></br>
 💾</th>
 <th><h3><a href="https://github.com/fbeauKmi/update_klipper_and_mcus">Update Klipper </br>& MCU</a></h3></br>
 <img src="https://github.com/fbeauKmi/update_klipper_and_mcus/raw/main/images/media.png" height="64"></th>
