@@ -21,4 +21,9 @@
   <img src="https://media.printables.com/media/prints/961926/images/7365378_46eb53ce-9711-4124-be17-709d4f4cae63_4723d868-1abe-475d-9dc4-7a27548df5da/thumbs/inside/1280x960/png/jst-hub-cover.webp" style="width:200px;"/></a></br></td>
 
 </tr>
+<tr>
+<td><a href="https://makerworld.com/en/models/674274#profileId-602286">Cable Management</br>
+  <img src="https://makerworld.bblmw.com/makerworld/model/US3aa3c3d388aedc/design/2024-10-01_ea8f2cc41b42d.jpg" style="width:200px;"/></a></br></td>
+</tr>  
+
 </table> 
