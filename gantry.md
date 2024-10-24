@@ -21,3 +21,11 @@
    
 </tr>
 </table>
+
+# Alu gantry mod  
+<table>
+<tr>  
+    <th><a href="https://github.com/3DPrintingMods/VoronTrident-AluminumG"><img src="https://github.com/3DPrintingMods/VoronTrident-AluminumG/raw/master/images/6mm-2.png"  width="200"></br>CNC / Laser 6&9 mm</a></th> 
+   
+</tr>
+</table>
