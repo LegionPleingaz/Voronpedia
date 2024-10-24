@@ -26,3 +26,12 @@
 <td><a href="https://www.omc-stepperonline.com/index.php?route=product/product/get_file&file=2726/17HE08-1004S.pdf">NEMA17 </br>17HE08-1004S</br><img src="https://www.omc-stepperonline.com/image/cache/catalog/image/catalog/stepper-motor/8/E-Series-Nema-17-Bipolar-1-8deg-17Ncm-24-07oz-in-1A-42x42x23mm-4-Wires-500x500.jpg" alt="nema17" style="width:200px;"/></a></br></td>
 </tr>
 </table> 
+
+
+## Mod
+
+<table>
+<tr>
+<td><a href="https://github.com/3DPrintingMods/KIC_Steppers_Motors">WC block</br><img src="https://github.com/3DPrintingMods/KIC_Steppers_Motors/raw/master/images/image1.png" alt="nema17" style="width:200px;"/></a></br></td>
+</tr>
+</table> 
