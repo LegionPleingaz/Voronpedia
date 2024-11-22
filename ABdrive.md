@@ -1,22 +1,21 @@
-## Motors
+# ABdrive
 
+### Motors
 
-## Drives
-<table>
-<tr>
-<td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation">Voron2.4_Y_Endstop_Relocation</br>
-<img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/ADrive/1.png" style="width:200px;"/></a></br></td>
-<td><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod">Pin mod</br>
-  <img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/2.jpg" style="width:200px;"/></a></br>
-<a href="https://www.printables.com/fr/model/563841-voron-24-pins-mod-cutting-jig">Cutting jig</br></td>
-</tr>
-</table> 
+### Drives
 
-## AWD
-<table>
-<tr>
-<td><a href="https://github.com/aTinyShellScript/v2.4_AWD">AWD</br>
-<img src="https://github.com/aTinyShellScript/v2.4_AWD/raw/main/UserMods/xbst_/9mm_Nema_17/Images/9mm.jpg" style="width:200px;"/></a></br></td>
+[Voron2.4\_Y\_Endstop\_Relocation](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation) by Hartk1213
 
-</tr>
-</table> 
+<figure><img src=".gitbook/assets/ABDriveHartk1213.png" alt=""><figcaption></figcaption></figure>
+
+[Pin mod](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod) by Hartk1213\
+[Cuting Jig](https://www.printables.com/refresh?redirectUrl=%2Ffr%2Fmodel%2F563841-voron-24-pins-mod-cutting-jig) for Pinmod by Legion Pleingaz
+
+<figure><img src=".gitbook/assets/XYPinmodHartk1213.jpg" alt=""><figcaption></figcaption></figure>
+
+### AWD
+
+[AWD](https://github.com/aTinyShellScript/v2.4_AWD/tree/main) by [aTinyShellScript](https://github.com/aTinyShellScript)
+
+<figure><img src=".gitbook/assets/AWD.jpg" alt=""><figcaption></figcaption></figure>
+
