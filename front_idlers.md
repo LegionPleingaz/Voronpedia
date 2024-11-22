@@ -1,5 +1,15 @@
 # Mods
 
-| <p><a href="https://github.com/clee/VoronBFI">BFI<br><img src="https://github.com/clee/VoronBFI/raw/main/images/BFI.png" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Phalanx/Other-V2-Idlers">Other (phalanx)<br><img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/Phalanx/Other-V2-Idlers/Images/front.jpg" alt=""></a><br></p> | <p><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers">Front idlers Ramalama2<br><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Pics/Explosion_v2.jpg" alt=""></a><br></p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| BFI Double helical Gear Mod                                                                                                                  |                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                              |
+[BFI](https://github.com/clee/VoronBFI) by Clee\
+[BFI Double helical Gear](https://www.printables.com/model/1037759-bfi-double-helical-gear-mod-beefy-front-idler) Mod  by PAC
+
+<figure><img src=".gitbook/assets/BFIbyclee.png" alt=""><figcaption></figcaption></figure>
+
+[Phalanx](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Phalanx/Other-V2-Idlers)&#x20;
+
+<figure><img src=".gitbook/assets/Idlerphalanx.jpg" alt=""><figcaption></figcaption></figure>
+
+[Ramalama2](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
+
+<figure><img src=".gitbook/assets/idlerExplosion_v2.jpg" alt=""><figcaption></figcaption></figure>
+
