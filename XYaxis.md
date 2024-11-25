@@ -1,14 +1,15 @@
-### XY joint
+# XYaxis
 
+## XY joint
 
-### X carriage
-<table>
-<tr>
-<td><a href="https://github.com/3DPrintingMods/VoronAluminumX">
-  Aluminium X</br>
-  <img src="https://github.com/3DPrintingMods/VoronAluminumX/raw/main/images/tubes.png" style="width:200px;"/></a></br></td>
-</tr>
-</table> 
+## X carriage
 
+[AluminumX](https://github.com/3DPrintingMods/VoronAluminumX)
 
-### Y carriage
+<figure><img src=".gitbook/assets/XtubeAlu.png" alt=""><figcaption></figcaption></figure>
+
+[**X carbon by Leo-wolf**](https://github.com/Leo-Wolf-the-Engineer/Carbonfiber-X-Axis)
+
+<figure><img src=".gitbook/assets/XAxis carbon.png" alt=""><figcaption></figcaption></figure>
+
+## Y carriage
