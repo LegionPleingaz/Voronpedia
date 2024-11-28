@@ -60,7 +60,7 @@ I'm trying to develop it, but a little help would be appreciated. Feel free to m
 
 ## [7.Software / Firmware](software.md)
 
-### [Crowsnest](crowsnest.md)
+### Crowsnest
 
 ### [Macros](macros.md)
 
