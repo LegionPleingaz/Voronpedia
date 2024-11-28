@@ -12,7 +12,7 @@ I'm trying to develop it, but a little help would be appreciated. Feel free to m
 
 ### [A B Drive / AWD](ABdrive.md)
 
-### [Front idlers](front\_idlers.md)
+### [Front idlers](front_idlers.md)
 
 ### [Gantry](gantry.md)
 
@@ -32,7 +32,7 @@ I'm trying to develop it, but a little help would be appreciated. Feel free to m
 
 ## 3.Electronics
 
-### [Electronics Compartment](elec\_compartment.md)
+### [Electronics Compartment](elec_compartment.md)
 
 ### [Control Board](controlboard.md)
 
@@ -60,6 +60,8 @@ I'm trying to develop it, but a little help would be appreciated. Feel free to m
 
 ## [7.Software / Firmware](software.md)
 
+### [Crowsnest](./#crowsnest)
+
 ### [Macros](macros.md)
 
 ## 8.Tools
@@ -70,11 +72,11 @@ I'm trying to develop it, but a little help would be appreciated. Feel free to m
 
 ## [Sourcing](sourcing.md)
 
-### [Fans](Sourcing\_fan.xlsx)
+### [Fans](Sourcing_fan.xlsx)
 
 ### Beer donation
 
-[![ko-fi](https://ko-fi.com/img/githubbutton\_sm.svg)](https://ko-fi.com/W7W6USGTM)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge\&logo=bitcoin\&logoColor=white) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
 
