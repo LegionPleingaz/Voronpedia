@@ -1,27 +1,14 @@
 # Table of contents
 
-* [README](README.md)
-* [ABdrive](ABdrive.md)
-* [CAN](CAN.md)
-* [Specs](HE.md)
-* [SMD](SMD.md)
-* [XYaxis](XYaxis.md)
-* [bed](bed.md)
-* [Tools](belts.md)
-* [controlboard](controlboard.md)
-* [Cooling](cooling.md)
-* [elec\_compartment](elec\_compartment.md)
-* [Filters](filters.md)
-* [finish](finish.md)
-* [frame](frame.md)
-* [Mods](front\_idlers.md)
-* [gantry](gantry.md)
-* [macros](macros.md)
-* [motors](motors.md)
-* [panels](panels.md)
-* [Probes](probes.md)
-* [screen](screen.md)
-* [software](software.md)
-* [Hardware](sourcing.md)
-* [Stealthburner](toolhead.md)
-* [z axis](<z axis.md>)
+* [📓 Voronpedia](README.md)
+
+## 🛑 Before we start
+
+* [🛠️ Tools](before-we-start/tools.md)
+* [🧌 Kits](before-we-start/kits.md)
+* [Sourcing](before-we-start/sourcing.md)
+
+## 🎰 Mechanical
+
+* [Frame](mechanical/frame.md)
+* [Drives A/B/AWD](mechanical/drives-a-b-awd.md)
