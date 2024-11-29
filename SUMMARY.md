@@ -12,7 +12,7 @@
 
 * [Frame](mechanical/frame.md)
 * [Gantry](mechanical/gantry.md)
-* [Drives A/B/AWD](mechanical/drives-a-b-awd.md)
+* [Drives A/B/AWD XY joints](mechanical/drives-a-b-awd.md)
 * [Front idlers](mechanical/front-idlers.md)
 
 ## 💾 Software
