@@ -11,6 +11,7 @@
 ## 🎰 Mechanical
 
 * [Frame](mechanical/frame.md)
+* [Gantry](mechanical/gantry.md)
 * [Drives A/B/AWD](mechanical/drives-a-b-awd.md)
 * [Front idlers](mechanical/front-idlers.md)
 
