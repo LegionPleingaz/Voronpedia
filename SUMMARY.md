@@ -17,6 +17,17 @@
 * [Front idlers](mechanical/front-idlers.md)
 * [Z axis](mechanical/z-axis.md)
 
+## 🤯 Toolhead
+
+* [SB](toolhead/sb/README.md)
+  * [Extruders](toolhead/sb/extruders.md)
+  * [Cartridge](toolhead/sb/cartridge.md)
+* [Mini SB](toolhead/mini-sb.md)
+
 ## 💾 Software
 
 * [Crowsnest](software/crowsnest.md)
+
+## 🛒 Sourcing
+
+* [Fans](sourcing/fans.md)
