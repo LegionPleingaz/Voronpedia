@@ -11,9 +11,11 @@
 ## 🎰 Mechanical
 
 * [Frame](mechanical/frame.md)
+* [Bed](mechanical/bed.md)
 * [Gantry](mechanical/gantry.md)
 * [Drives A/B/AWD XY joints](mechanical/drives-a-b-awd.md)
 * [Front idlers](mechanical/front-idlers.md)
+* [Z axis](mechanical/z-axis.md)
 
 ## 💾 Software
 
