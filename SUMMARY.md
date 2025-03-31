@@ -21,6 +21,10 @@
 
 * [Motherboards](electro/motherboards.md)
 
+***
+
+* [CANs](cans.md)
+
 ## 🤯 Toolhead
 
 * [SB](toolhead/sb/README.md)
