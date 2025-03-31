@@ -17,6 +17,10 @@
 * [Front idlers](mechanical/front-idlers.md)
 * [Z axis](mechanical/z-axis.md)
 
+## 🤖 Electro
+
+* [Motherboards](electro/motherboards.md)
+
 ## 🤯 Toolhead
 
 * [SB](toolhead/sb/README.md)
