@@ -39,3 +39,12 @@
 ## 🛒 Sourcing
 
 * [Fans](sourcing/fans.md)
+
+## ⚛️ All in one mod
+
+* [V0 base](all-in-one-mod/v0-base.md)
+
+***
+
+* [Trident base](trident-base.md)
+* [2.4 base](2.4-base.md)
