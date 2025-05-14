@@ -1,7 +1,6 @@
 # Table of contents
 
 * [📓 Voronpedia](README.md)
-  * [Summary](readme/summary.md)
 
 ## 🛑 Before we start
 
