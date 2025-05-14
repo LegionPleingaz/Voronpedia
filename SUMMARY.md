@@ -1,12 +1,16 @@
 # Table of contents
 
 * [📓 Voronpedia](README.md)
+  * [Summary](readme/summary.md)
 
 ## 🛑 Before we start
 
 * [🛠️ Tools](before-we-start/tools.md)
 * [🧌 Kits](before-we-start/kits.md)
-* [Sourcing](before-we-start/sourcing.md)
+
+## 🛒 Sourcing
+
+* [Fans](sourcing/fans.md)
 
 ## 🎰 Mechanical
 
@@ -35,10 +39,6 @@
 ## 💾 Software
 
 * [Crowsnest](software/crowsnest.md)
-
-## 🛒 Sourcing
-
-* [Fans](sourcing/fans.md)
 
 ## ⚛️ All in one mod
 

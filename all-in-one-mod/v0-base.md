@@ -13,13 +13,13 @@
 ![](<../.gitbook/assets/image (6).png>)
 
 [Hex0](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main)\
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 [**Pandoras\_Box**](https://github.com/MasturMynd/Pandoras_Box)\
 ![](<../.gitbook/assets/image (7).png>)
 
 [Sugar cube](https://github.com/ruiqimao/SugarCube)\
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 [Tri zero](https://github.com/zruncho3d/tri-zero)\
 ![](<../.gitbook/assets/image (2).png>)
