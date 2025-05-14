@@ -42,10 +42,7 @@
   * [Extruders](toolhead/sb/extruders.md)
   * [Cartridge](toolhead/sb/cartridge.md)
 * [Mini SB](toolhead/mini-sb.md)
-
-***
-
-* [Page](page.md)
+* [Probes](toolhead/probes.md)
 
 ## 💾 Software
 
