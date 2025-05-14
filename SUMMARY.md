@@ -1,27 +1,60 @@
 # Table of contents
 
-* [README](README.md)
-* [ABdrive](ABdrive.md)
-* [CAN](CAN.md)
-* [Specs](HE.md)
-* [SMD](SMD.md)
-* [XYaxis](XYaxis.md)
-* [bed](bed.md)
-* [Tools](belts.md)
-* [controlboard](controlboard.md)
+* [📓 Voronpedia](README.md)
+
+## 🛑 Before we start
+
+* [🛠️ Tools](before-we-start/tools.md)
+* [🧌 Kits](before-we-start/kits.md)
+
+## 🛒 Sourcing
+
+* [Hardware](sourcing/hardware.md)
+* [Fans](sourcing/fans.md)
+
+## 🎰 Mechanical
+
+* [Frame](mechanical/frame.md)
+* [Panels](mechanical/panels.md)
+* [Bed](mechanical/bed.md)
+* [Gantry](mechanical/gantry.md)
+* [Drives A/B/AWD XY joints](mechanical/drives-a-b-awd.md)
+* [Front idlers](mechanical/front-idlers.md)
+* [Z axis](mechanical/z-axis.md)
+
+## 🤖 Electro
+
+* [Elec compartment](electro/elec-compartment.md)
+* [Motherboards](electro/motherboards.md)
+* [SMD](electro/smd.md)
+
+***
+
+* [Motors](motors.md)
+* [CANs](cans.md)
+* [Screen](screen.md)
 * [Cooling](cooling.md)
-* [elec\_compartment](elec\_compartment.md)
-* [Filters](filters.md)
-* [finish](finish.md)
-* [frame](frame.md)
-* [Mods](front\_idlers.md)
-* [gantry](gantry.md)
-* [macros](macros.md)
-* [motors](motors.md)
-* [panels](panels.md)
-* [Probes](probes.md)
-* [screen](screen.md)
-* [software](software.md)
-* [Hardware](sourcing.md)
-* [Stealthburner](toolhead.md)
-* [z axis](<z axis.md>)
+* [Filter](filter.md)
+
+## 🤯 Toolhead
+
+* [SB](toolhead/sb/README.md)
+  * [Extruders](toolhead/sb/extruders.md)
+  * [Cartridge](toolhead/sb/cartridge.md)
+* [Mini SB](toolhead/mini-sb.md)
+* [Probes](toolhead/probes.md)
+
+## 💾 Software
+
+* [Software](software/software.md)
+* [Crowsnest](software/crowsnest.md)
+
+## ⚛️ All in one mod
+
+* [V0 base](all-in-one-mod/v0-base.md)
+* [Trident base](all-in-one-mod/trident-base.md)
+* [2.4 base](all-in-one-mod/2.4-base.md)
+
+## Very optionals mods
+
+* [Optionals mods](very-optionals-mods/optionals-mods.md)

@@ -1,89 +1,20 @@
-# README
+---
+description: >-
+  This GIT aims to list the different options available for your voron printer. 
+  I'm trying to develop it, but a little help would be appreciated. Feel free to
+  make a PR.
+---
 
-v2 in process. Do NOT pull.
 
-This GIT aims to list the different options available for your voron printer.
 
-I'm trying to develop it, but a little help would be appreciated. Feel free to make a PR
 
-## ![Mendeleyeev](IMG/mendeleyeev2.JPG)
 
-## 1.Mechanical
+#### Beer donation
 
-### [Frame](frame.md)
+[![ko-fi](https://camo.githubusercontent.com/70e2ef5e0263b261f9a2a314bb1d6919d1d43292eed117fe8fc766a68c7d96ea/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/W7W6USGTM)
 
-### [A B Drive / AWD](ABdrive.md)
+[![Bitcoin](https://camo.githubusercontent.com/f831665f50b89cdcff340e05d11537a1dd48eb91fa59b075ad1751ea19a0a5a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/f831665f50b89cdcff340e05d11537a1dd48eb91fa59b075ad1751ea19a0a5a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
 
-### [Front idlers](front_idlers.md)
+[![Ethereum](https://camo.githubusercontent.com/1788b613aea12a78a4ce96876ba84a422afae1fe5b514a7c95489d4cf21ecb88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/1788b613aea12a78a4ce96876ba84a422afae1fe5b514a7c95489d4cf21ecb88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465) 0xf684fa6fbc1703ce0ECcE711d872382DCc5256aE
 
-### [Gantry](gantry.md)
-
-### [Bed frame](bed.md)
-
-### [Z axis](<z axis.md>)
-
-### X Y axis
-
-### [Belts](belts.md)
-
-## [2.Toolhead](toolhead.md)
-
-### [HE](HE.md)
-
-### [Probes](probes.md)
-
-## 3.Electronics
-
-### [Electronics Compartment](elec_compartment.md)
-
-### [Control Board](controlboard.md)
-
-### [Motors](motors.md)
-
-### [Stepper motor driver](SMD.md)
-
-### [Screen](screen.md)
-
-### [CAN](CAN.md)
-
-### Print Bed & Wire Path
-
-## [4.Cooling](cooling.md)
-
-## 5.Rear Panel & Exhaust
-
-### [Panels](panels.md)
-
-### [Filters](filters.md)
-
-## [6.Finishing Touches](finish.md)
-
-### Skirts & Bottom Compartment
-
-## [7.Software / Firmware](software.md)
-
-###
-
-### [Macros](macros.md)
-
-## 8.Tools
-
-## Filaments
-
-### [Datasheets](https://github.com/LegionPleingaz/Voronpedia/tree/main/Filament)
-
-## [Sourcing](sourcing.md)
-
-### [Fans](Sourcing_fan.xlsx)
-
-### Beer donation
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge\&logo=bitcoin\&logoColor=white) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=Ethereum\&logoColor=white) 0xf684fa6fbc1703ce0ECcE711d872382DCc5256aE
-
-![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge\&logo=xrp\&logoColor=white) rPvexWZvydUizKzz52FqMXnkGRV9mRbriB
-
-***
+[![Xrp](https://camo.githubusercontent.com/6463c889603ff85f5a585526aea21655ec7ef71c5f0e644ff63fd2e26a35ea74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5872702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d787270266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6463c889603ff85f5a585526aea21655ec7ef71c5f0e644ff63fd2e26a35ea74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5872702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d787270266c6f676f436f6c6f723d7768697465) rPvexWZvydUizKzz52FqMXnkGRV9mRbriB

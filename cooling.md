@@ -1,19 +1,9 @@
-## Cooling
+# Cooling
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JackJack3231/V0-Auxilliary-Fan">V0 Auxilliary Cooling Fan</br>
-      <img src="https://github.com/JackJack3231/V0-Auxiliary-Fan/raw/main/images/Assembled_Red.png" style="width:200px;"/></a></br></td>
-    
-  </tr>
- </table> 
-## CPAP
-<table>
-  <tr>
-    <td><a href="https://www.printables.com/fr/model/521393-ws7040-cpap-fan-mount-for-aluminum-extrusion-voron">WS7040 CPAP</br>
-      <img src="https://media.printables.com/media/prints/521393/images/4218196_d151cf7e-6694-4477-b66e-eb612010fb91/thumbs/inside/1280x960/jpg/pxl_20230705_231041454portraitoriginal.webp" style="width:200px;"/></a></br></td> 
-    <td><a href="https://www.printables.com/fr/model/975981-voron-24-tophat-mod-for-cpap-and-exhaust">Tophat exhaust</br>
-      <img src="https://media.printables.com/media/prints/975981/images/7443713_49fa00f3-6711-4989-ae7b-89d2a6790e95_70a21dfb-37e0-4626-ad33-ab2dd0288c9c/tempimagenfls00.gif" style="width:200px;"/></a></br></td>
-    
-  </tr>
-</table>
+| <p><a href="https://github.com/JackJack3231/V0-Auxilliary-Fan">V0 Auxilliary Cooling Fan<br><img src="https://github.com/JackJack3231/V0-Auxiliary-Fan/raw/main/images/Assembled_Red.png" alt=""></a><br></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+\## CPAP
+
+| <p><a href="https://www.printables.com/fr/model/521393-ws7040-cpap-fan-mount-for-aluminum-extrusion-voron">WS7040 CPAP<br><img src="https://camo.githubusercontent.com/6cdcd892352e348dea916e80f825aff664db440441684530de0665149d596d62/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3532313339332f696d616765732f343231383139365f64313531636637652d363639342d343437372d623636652d6562363132303130666239312f7468756d62732f696e736964652f31323830783936302f6a70672f70786c5f32303233303730355f323331303431343534706f7274726169746f726967696e616c2e77656270" alt=""></a><br></p> | <p><a href="https://www.printables.com/fr/model/975981-voron-24-tophat-mod-for-cpap-and-exhaust">Tophat exhaust<br></a><img src=".gitbook/assets/image (13).png" alt=""></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
