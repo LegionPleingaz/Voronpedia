@@ -43,6 +43,7 @@
   * [Cartridge](toolhead/sb/cartridge.md)
 * [Mini SB](toolhead/mini-sb.md)
 * [Probes](toolhead/probes.md)
+* [MMU compatible toolheads](toolhead/mmu-compatible-toolheads.md)
 
 ## 💾 Software
 
