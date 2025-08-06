@@ -45,6 +45,11 @@
 * [Probes](toolhead/probes.md)
 * [MMU compatible toolheads](toolhead/mmu-compatible-toolheads.md)
 
+***
+
+* [🔁 Multimaterial systems](multimaterial-systems/README.md)
+  * [MMU](multimaterial-systems/mmu.md)
+
 ## 💾 Software
 
 * [Software](software/software.md)
