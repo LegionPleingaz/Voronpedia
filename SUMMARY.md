@@ -43,12 +43,12 @@
   * [Cartridge](toolhead/sb/cartridge.md)
 * [Mini SB](toolhead/mini-sb.md)
 * [Probes](toolhead/probes.md)
-* [MMU compatible toolheads](toolhead/mmu-compatible-toolheads.md)
 
 ***
 
 * [🔁 Multimaterial systems](multimaterial-systems/README.md)
   * [MMU](multimaterial-systems/mmu.md)
+  * [Toolchanger](multimaterial-systems/toolchanger.md)
 
 ## 💾 Software
 
