@@ -19,8 +19,12 @@ Support the standard Stealth Burner, Dragon Burner, Rapid Burner, Yavoth, XOL an
 
 [ Cable Management](https://github.com/DraftShift/CableManagement)
 
-[ Power Calculator (WIP NOT FOR GENERAL USE)](https://github.com/DraftShift/PowerCalc)\
+[ Power Calculator (WIP NOT FOR GENERAL USE)](https://github.com/DraftShift/PowerCalc)
 
+\-----\
+[Mad max](https://github.com/zruncho3d/madmax/)
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### Electronic
 
