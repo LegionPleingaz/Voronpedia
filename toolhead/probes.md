@@ -1,34 +1,227 @@
-# Page
+# Probes & leveling
 
-#### Eddy current
+> The probe measures the distance between the nozzle and bed to compensate for surface imperfections (mesh) and automate Z offset. Probe choice directly impacts first layer precision.
 
-Accuracy approximation 0.5µm (in 20 seconds)
+---
 
-| <p><a href="https://beacon3d.com/">Beacon<br><img src="https://camo.githubusercontent.com/8948183be97a33f81b3ba55f4137b2ebdfab2c026b0f12924aa029a9139e0d3b/68747470733a2f2f626561636f6e33642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31312f526576442d6865722e706e67" alt=""></a><br></p> | <p><a href="https://github.com/ModularPrintingSystem/IDM">IDM<br><img src="https://camo.githubusercontent.com/7dc0d2d950b01c1d3a5f04f7b6e79ba5d4a5ff340611b0cf3e1e10f6c4577a94/68747470733a2f2f33646f2e65752f353439332d746869636b626f785f64656661756c742f69646d2d7363616e6e65722d6c6576656c696e672d73656e736f722d636f6d70617469626c652d776974682d6b6c69707065722e6a7067" alt=""></a><br></p> | <p><a href="https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-flat-pack-both-can-usb">Cartographer<br><img src="https://camo.githubusercontent.com/2d30f22337b6f357e6182beb55c9f0e1b1f5e6743b8f318fd13c2219545d6463/68747470733a2f2f636172746f6772617068657233642e636f6d2f63646e2f73686f702f66696c65732f353132663636353265353233343338306431353965356266383234653931335f63303139396563342d653466622d343130642d616235662d3265646665633834616365652e706e673f763d313730333235343432362677696474683d31393436" alt=""></a><br></p> | <p><a href="https://biqu.equipment/products/bigtreetech-eddy">BTT EDDY<br><img src="https://camo.githubusercontent.com/e3bfce57e877b9b94085148cee4068e84ed94ce06615da56aa605f6aa8848a9b/68747470733a2f2f626971752e65717569706d656e742f63646e2f73686f702f66696c65732f45646479696d6167655f325f3132323078313232305f63726f705f63656e7465722e706e67" alt=""></a><br></p> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## ⚡ Eddy Current (inductif)
 
-#### Nozzle probe
+> Principle: measurement by magnetic field variation. Very high resolution, fast full-bed scan, **no mechanical contact**. Becoming the standard on modern builds.
 
-Accuracy approximation 0.6μm
+**Précision indicative : ~0.5 µm** (sur 20 secondes de scan)
 
-| <p><a href="https://github.com/VoronDesign/Voron-Tap">TAP<br><img src="https://camo.githubusercontent.com/777a9b9e7d11c841554178180016500b611d95f63cb0f6721b63996f6f065f1f/68747470733a2f2f7777772e33646c6162746563682e63612f77702d636f6e74656e742f75706c6f6164732f323032322f31322f566f726f6e2d5461702d6b69742e6a7067" alt=""></a><br></p> | <p><a href="https://github.com/andrewmcgr/FlexTAP">Flex TAP<br><img src="https://github.com/andrewmcgr/FlexTAP/raw/main/Images/FlexTap.png" alt=""></a><br></p> | <p><a href="https://github.com/PrintersForAnts/Boop">Boop<br><img src="https://github.com/PrintersForAnts/Boop/raw/main/beta_3/Images/def70163-3fc1-4d16-b291-b5826ff7d52b.png" alt=""></a><br></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅ (certains) |
+| Trident   | ✅         |
+| V2.4      | ✅         |
+| Switchwire| ✅         |
 
-#### Mechanical probe
+---
 
-Type OMRON DF2 Accuracy approximation 300µm
+### Beacon
 
-| <p><a href="https://github.com/jlas1/Klicky-Probe">Klicky<br><img src="https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyNG/Photos/klickyNG.png" alt=""></a><br></p> | <p><a href="https://github.com/DW-Tas/Klicky-00">Klicky 00<br><img src="https://github.com/DW-Tas/Klicky-00/raw/main/images/PCB_Klicky-00_Xol-Toolhead_render.png" alt=""></a><br></p> | <p><a href="https://github.com/zruncho3d/ZeroClick">Zero Click<br><img src="https://github.com/zruncho3d/ZeroClick/raw/main/Renders/rear.png" alt=""></a><br></p> | <p><a href="https://github.com/Annex-Engineering/Quickdraw_Probe">Quickdraw_Probe<br><img src="https://github.com/Annex-Engineering/Quickdraw_Probe/raw/main/Images/Evolution.jpg" alt=""></a><br></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven — référence actuelle
 
-#### Others
+Le Beacon est considéré comme le meilleur probe eddy courant du marché. Interface CAN ou USB, firmware Klipper natif, scan ultra-rapide.
 
-| <p><a href="https://www.printables.com/fr/model/260473-voron-stealthburner-cr-touch-mod-for-switchwire-to">CR Touch Mod for Switchwire<br><img src="https://camo.githubusercontent.com/503682281155e8591377709bb69c47596f1dd8d7402d90e2291156dedbb43d48/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3236303437332f696d616765732f323332383336325f63306631333038612d323735322d343938302d393564382d3334386332643832306334352f7468756d62732f696e736964652f31323830783936302f706e672f73625f63725f66756c6c766965772e77656270" alt=""></a><br></p> | <p><a href="https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m">EZABL<br><img src="https://camo.githubusercontent.com/56078e549dbca596d3a8fe0ea14b3e7d5630402abad454a047860ba69673c2c1/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3236303931392f696d616765732f323333313430375f61613430666462632d623064322d346531662d623538392d6436313737376336383030352f7468756d62732f696e736964652f31323830783936302f706e672f696d6167655f323032322d30382d31375f3136303533303934382e77656270" alt=""></a><br></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- 🔗 [beacon3d.com](https://beacon3d.com/)
 
-#### Accesories
+---
 
+### IDM
 
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
 
-| <p><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop">SexBolt ZEndstop<br><img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/Images/8.png" alt=""></a></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Clone open-source du Beacon, légèrement moins cher. Performances comparables.
+
+- 🔗 [GitHub — ModularPrintingSystem / IDM](https://github.com/ModularPrintingSystem/IDM)
+
+---
+
+### Cartographer
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Intègre un ADXL345 (accéléromètre pour input shaper). Disponible en version CAN ou USB. Bonne alternative au Beacon.
+
+- 🔗 [cartographer3d.com](https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-flat-pack-both-can-usb)
+
+---
+
+### BTT Eddy
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Version BTT du principe eddy. Support Klipper en développement actif.
+
+- 🔗 [biqu.equipment — BTT Eddy](https://biqu.equipment/products/bigtreetech-eddy)
+
+---
+
+## 🔩 Nozzle probe
+
+> Principle: **the nozzle itself** acts as the sensor. Eliminates XY offset between probe and nozzle. Excellent precision but more complex mechanism.
+
+**Précision indicative : ~0.6 µm**
+
+---
+
+### TAP (officiel Voron)
+
+**Difficulté :** 🟡 Medium  
+**Community status:** ⭐ Proven
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ❌         |
+| Trident   | ✅         |
+| V2.4      | ✅         |
+| Switchwire| ❌         |
+
+La solution officielle Voron pour le nozzle probing. Nécessite un montage soigné. Compatible avec les toolheads SB standard.
+
+- 🔗 [GitHub — VoronDesign / Voron-Tap](https://github.com/VoronDesign/Voron-Tap)
+
+> ⚠️ Watch out for versions (RC8 recommended). Older optical TAP versions had reliability issues.
+
+---
+
+### FlexTAP
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Variante du TAP utilisant une lame flexible au lieu d'un rail de guidage. Plus léger et plus simple mécaniquement.
+
+- 🔗 [GitHub — andrewmcgr / FlexTAP](https://github.com/andrewmcgr/FlexTAP)
+
+---
+
+### Boop (V0)
+
+**Difficulté :** 🟡 Medium  
+**Community status:** ⭐ Proven
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅         |
+| Trident   | ❌         |
+| V2.4      | ❌         |
+
+L'équivalent du TAP pour le V0. Développé par PrintersForAnts.
+
+- 🔗 [GitHub — PrintersForAnts / Boop](https://github.com/PrintersForAnts/Boop)
+
+---
+
+## 🎯 Mechanical probe (OMRON DF2 type)
+
+> Principle: magnetic switch that deploys / retracts. Simple and reliable, but **XY offset** must be compensated in config, and precision is lower than eddy probes.
+
+**Précision indicative : ~300 µm**
+
+---
+
+### Klicky / KlickyNG
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅         |
+| Trident   | ✅         |
+| V2.4      | ✅         |
+| Switchwire| ✅         |
+
+La référence historique du probe magnétique pour Voron. Énorme communauté, macros Klipper disponibles. Le KlickyNG est la version améliorée recommandée.
+
+- 🔗 [GitHub — jlas1 / Klicky-Probe](https://github.com/jlas1/Klicky-Probe)
+
+---
+
+### Klicky-00 (PCB)
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Version PCB du Klicky, compatible Xol toolhead.
+
+- 🔗 [GitHub — DW-Tas / Klicky-00](https://github.com/DW-Tas/Klicky-00)
+
+---
+
+### ZeroClick (V0)
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅         |
+| Trident   | ❌         |
+| V2.4      | ❌         |
+
+Solution magnétique minimaliste pour V0. Très populaire sur les petits formats.
+
+- 🔗 [GitHub — zruncho3d / ZeroClick](https://github.com/zruncho3d/ZeroClick)
+
+---
+
+### Quickdraw (Annex)
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Probe rétractable développé par Annex Engineering. Conçu pour les toolchangers mais utilisable en standalone.
+
+- 🔗 [GitHub — Annex-Engineering / Quickdraw_Probe](https://github.com/Annex-Engineering/Quickdraw_Probe)
+
+---
+
+## 🔧 Other probes
+
+### CR Touch Mod — Switchwire
+
+Mount pour CR Touch adapté au StealthBurner sur Switchwire.
+
+- 🔗 [Printables](https://www.printables.com/fr/model/260473-voron-stealthburner-cr-touch-mod-for-switchwire-to)
+
+### EZABL Mount
+
+- 🔗 [Printables](https://www.printables.com/fr/model/260919-voron-stealthburner-ezabl-mount-adlx-remix-for-12m)
+
+---
+
+## 🛠️ Accessories
+
+### SexBolt Z Endstop
+
+> Replaces the stock Z endstop with a magnetic ball system (Sexbolt). More reliable and repeatable than the original switch.
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven — quasi-obligatoire sur V2.4
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+
+- 🔗 [GitHub — hartk1213 / Voron2.4_SexBolt_ZEndstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
+
+---
+
+## 📊 Quick comparison
+
+| Probe | Type | Précision | Prix indicatif | Recommandé pour |
+|-------|------|-----------|----------------|-----------------|
+| Beacon | Eddy | ⭐⭐⭐⭐⭐ | ~80€ | Builds sérieux, haute vitesse |
+| Cartographer | Eddy | ⭐⭐⭐⭐⭐ | ~60€ | Idem + ADXL intégré |
+| IDM | Eddy | ⭐⭐⭐⭐⭐ | ~40€ | Budget serré, même perf |
+| TAP | Buse | ⭐⭐⭐⭐ | ~0€ (imprimé) | V2.4 / Trident déjà montés |
+| Klicky | Mécanique | ⭐⭐⭐ | ~5€ | V0, débutants, budget minimal |
+| ZeroClick | Mécanique | ⭐⭐⭐ | ~5€ | V0 spécifique |

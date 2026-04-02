@@ -1,30 +1,79 @@
-# V0 base
+# Dérivées du V0
 
-[Crucible](https://github.com/PrintersForAnts/Crucible)\
-![](<../.gitbook/assets/image (5) (1).png>)
+> Ces machines sont basées sur la cinématique et/ou la mécanique du Voron V0, mais poussent le concept plus loin : plus grand, plus rapide, multi-Z, format hexagonal… Elles s'adressent aux builders expérimentés.
 
-[Double dragon](https://github.com/zruncho3d/double-dragon/)\
-![](<../.gitbook/assets/image (4) (1).png>)
+---
 
-[Dueling Zero](https://github.com/zruncho3d/DuelingZero/)\
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+## 🟢 Builds actives (communauté active)
 
-[Fzero](https://github.com/zruncho3d/f-zero)\
-![](<../.gitbook/assets/image (6) (1).png>)
+### Crucible
 
-[Hex0](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main)\
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+Petit format CoreXY dérivé du V0. Optimisé pour les matières haute température dans une chambre très compacte.
 
-[**Pandoras\_Box**](https://github.com/MasturMynd/Pandoras_Box)\
-![](<../.gitbook/assets/image (7) (1).png>)
+- 🔗 [GitHub — PrintersForAnts / Crucible](https://github.com/PrintersForAnts/Crucible)
 
-[Sugar cube](https://github.com/ruiqimao/SugarCube)\
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+---
 
-[Tri zero](https://github.com/zruncho3d/tri-zero)\
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+### Double Dragon
 
-Archives:
+Deux toolheads indépendants sur un V0. IDEX (Independent Dual Extrusion) au format micro. Pour le dual color ou le dual matière sans système MMU.
 
-[Tiny-M](https://github.com/gsl12/Tiny-M)\
-![](<../.gitbook/assets/image (11).png>)
+- 🔗 [GitHub — zruncho3d / double-dragon](https://github.com/zruncho3d/double-dragon/)
+
+---
+
+### Dueling Zero
+
+Deux V0 qui partagent le même bed — deux machines, un plateau commun. Concept expérimental de production parallèle.
+
+- 🔗 [GitHub — zruncho3d / DuelingZero](https://github.com/zruncho3d/DuelingZero/)
+
+---
+
+### FZero
+
+V0 avec lit chauffant plus grand et quelques améliorations structurelles. Volume d'impression augmenté.
+
+- 🔗 [GitHub — zruncho3d / f-zero](https://github.com/zruncho3d/f-zero)
+
+---
+
+### Hex Zero
+
+V0 en format hexagonal. Concept unique pour une empreinte au sol réduite avec un volume utile maintenu.
+
+- 🔗 [GitHub — Alexander-T-Moss / Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero/tree/main)
+
+---
+
+### Pandora's Box
+
+V0 avec chambre fermée et chauffée intégrée dès la conception. Conçu pour ABS/ASA en petit format.
+
+- 🔗 [GitHub — MasturMynd / Pandoras_Box](https://github.com/MasturMynd/Pandoras_Box)
+
+---
+
+### SugarCube
+
+Dérivé V0 ultra-compact. Probablement l'une des plus petites imprimantes CoreXY closes capables d'imprimer de l'ABS.
+
+- 🔗 [GitHub — ruiqimao / SugarCube](https://github.com/ruiqimao/SugarCube)
+
+---
+
+### Tri Zero
+
+V0 avec **3 moteurs Z** (comme un Trident) pour un tramage automatique (Z_TILT). Combine la compacité du V0 et la précision Z du Trident.
+
+- 🔗 [GitHub — zruncho3d / tri-zero](https://github.com/zruncho3d/tri-zero)
+
+---
+
+## 🗄️ Archives
+
+### Tiny-M
+
+Dérivé V0 archivé. Plus maintenu mais documenté pour référence.
+
+- 🔗 [GitHub — gsl12 / Tiny-M](https://github.com/gsl12/Tiny-M)

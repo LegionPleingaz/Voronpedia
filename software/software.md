@@ -1,60 +1,142 @@
-# Software
+# Software & Configuration
 
-### Installation / update
+> Le stack logiciel d'une Voron tourne quasi-exclusivement sur **Klipper**. Cette page liste les composants essentiels, les outils de configuration et les ressources pour démarrer.
 
-| <p><a href="https://github.com/dw-0/kiauh"><strong>Kiauh</strong></a></p><p><br><a href="https://raw.githubusercontent.com/dw-0/kiauh/master/resources/screenshots/kiauh.png"><img src="https://raw.githubusercontent.com/dw-0/kiauh/master/resources/screenshots/kiauh.png" alt="Kiauh Logo"></a></p> | <p><a href="https://github.com/Staubgeborener/klipper-backup"><strong>Klipper backup</strong></a></p><p><br>💾</p> | <p><a href="https://github.com/Low-Frequency/Klipper-Git-Backup"><strong>Klipper Git backup</strong></a></p><p><br>💾</p> | <p><a href="https://github.com/fbeauKmi/update_klipper_and_mcus"><strong>Update Klipper</strong><br><strong>&#x26; MCU</strong></a></p><p><br><a href="https://github.com/fbeauKmi/update_klipper_and_mcus/raw/main/images/media.png"><img src="https://github.com/fbeauKmi/update_klipper_and_mcus/raw/main/images/media.png" alt=""></a></p> | <p><a href="https://doctor-klipper.clmntw.fr/"><strong>Log analysis</strong></a></p><p><br><a href="https://camo.githubusercontent.com/dbbb420dd550c8e82116bce848c9c9f516bd6299d16c279aafc7c3480bfa1050/68747470733a2f2f646f63746f722d6b6c69707065722e636c6d6e74772e66722f6173736574732f7376672f6c6f676f2e737667"><img src="https://camo.githubusercontent.com/dbbb420dd550c8e82116bce848c9c9f516bd6299d16c279aafc7c3480bfa1050/68747470733a2f2f646f63746f722d6b6c69707065722e636c6d6e74772e66722f6173736574732f7376672f6c6f676f2e737667" alt=""></a></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+---
 
-### Firmware
+## 🏗️ Full software stack
 
-| [**Klipper**](https://github.com/Klipper3d/klipper)                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Klipper Logo](https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo.png)](https://raw.githubusercontent.com/Klipper3d/klipper/master/docs/img/klipper-logo.png) |
+```
+Raspberry Pi / CB1 / Orange Pi
+    ├── Mainsail ou Fluidd         ← Web interface (you control the machine here)
+    ├── Moonraker                  ← API between the interface and Klipper
+    ├── Klipper                    ← Firmware (runs on Pi + mainboard)
+    └── Katapult (optionnel)       ← CAN / USB bootloader for easy flashing
+```
 
-### Web interface
+---
 
-| [**Moonraker**](https://github.com/Arksine/moonraker)                                                                         | [**Mainsail**](https://github.com/mainsail-crew/mainsail)                                                                                                                            | [**Fluidd**](https://github.com/fluidd-core/fluidd)                                                                                                                                                | [**KlipperScreen**](https://github.com/jordanruthe/KlipperScreen)                                                                   | [**OctoPrint**](https://github.com/OctoPrint/OctoPrint)                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Arksine avatar](https://avatars.githubusercontent.com/u/9563098?v=4)](https://avatars.githubusercontent.com/u/9563098?v=4) | [![Mainsail Logo](https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png)](https://raw.githubusercontent.com/mainsail-crew/docs/master/assets/img/logo.png) | [![Fluidd Logo](https://raw.githubusercontent.com/fluidd-core/fluidd/master/docs/assets/images/logo.svg)](https://raw.githubusercontent.com/fluidd-core/fluidd/master/docs/assets/images/logo.svg) | [![jordanruthe avatar](https://avatars.githubusercontent.com/u/31575189?v=4)](https://avatars.githubusercontent.com/u/31575189?v=4) | [![OctoPrint Logo](https://camo.githubusercontent.com/33da288e35b5e01f85fd3cb8247691b065d05474308f98e6d082918227600af3/68747470733a2f2f6f63746f7072696e742e6f72672f6173736574732f696d672f6c6f676f2e706e67)](https://camo.githubusercontent.com/33da288e35b5e01f85fd3cb8247691b065d05474308f98e6d082918227600af3/68747470733a2f2f6f63746f7072696e742e6f72672f6173736574732f696d672f6c6f676f2e706e67) |
+## ⚙️ Klipper
 
-### Bots
+**The reference firmware for all Voron builds.** Klipper tourne en partie sur le Raspberry Pi (calculs) et en partie sur la carte mère (temps réel). This architecture enables advanced features impossible on a classic firmware.
 
-| [**Moonraker-Telegram-Bot**](https://github.com/nlef/moonraker-telegram-bot)                                                 | [**Mooncord**](https://github.com/nlef/moonraker-telegram-bot)                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![nlef avatar](https://avatars.githubusercontent.com/u/52351624?v=4)](https://avatars.githubusercontent.com/u/52351624?v=4) | [![nlef avatar](https://raw.githubusercontent.com/eliteSchwein/mooncord/master/assets/images/github-title.png)](https://raw.githubusercontent.com/eliteSchwein/mooncord/master/assets/images/github-title.png) |
+- 🔗 [klipper3d.org — Documentation officielle](https://www.klipper3d.org/)
+- 🔗 [GitHub — Klipper3d/klipper](https://github.com/Klipper3d/klipper)
 
-### CFG / printer config
+**Key features for Voron:**
+- `RESONANCE_TEST` + `INPUT_SHAPER` — vibration calibration (ADXL345)
+- `PRESSURE_ADVANCE` — filament pressure compensation
+- `BED_MESH` — surface compensation
+- Macros Jinja2 — automation of all print sequences
 
-| [**Klippain**](https://github.com/Frix-x/klippain)                                                                                          | [Klippain chocolate](https://github.com/elpopo-eng/klippain-chocolate) |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [![klippain](https://github.com/Frix-x/klippain/raw/main/docs/klippain.png)](https://github.com/Frix-x/klippain/raw/main/docs/klippain.png) |                                                                        |
+---
 
-### Tools / tuning
+## 🌐 Web interfaces
 
-| [**PrettyGCode for Klipper**](https://github.com/Kragrathea/pgcode)                                                                                                          | [**Obico for Klipper**](https://github.com/TheSpaghettiDetective/moonraker-obico)                                                                                                                                                                             | [**Ellis print tuning guide**](https://ellis3dp.com/Print-Tuning-Guide/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![prettyGCode](https://raw.githubusercontent.com/Kragrathea/pgcode/main/img/pgc_screen1.jpg)](https://raw.githubusercontent.com/Kragrathea/pgcode/main/img/pgc_screen1.jpg) | [![Obico logo](https://avatars.githubusercontent.com/u/46323662?s=200\&v=4)](https://avatars.githubusercontent.com/u/46323662?s=200\&v=4)                                                                                                                     | [![ellis](https://camo.githubusercontent.com/28ac8824c2be6b8c47b0ebb8218d33e1f50d3146ca1250d8deea3762eb728c2b/68747470733a2f2f656c6c69733364702e636f6d2f5072696e742d54756e696e672d47756964652f61727469636c65732f696d616765732f66697273745f6c617965725f7371756973682f46697273744c617965722d5072696e744578616d706c652e6a7067)](https://camo.githubusercontent.com/28ac8824c2be6b8c47b0ebb8218d33e1f50d3146ca1250d8deea3762eb728c2b/68747470733a2f2f656c6c69733364702e636f6d2f5072696e742d54756e696e672d47756964652f61727469636c65732f696d616765732f66697273745f6c617965725f7371756973682f46697273744c617965722d5072696e744578616d706c652e6a7067) |
-| [**Mobileraker's Companion**](https://github.com/Clon1998/mobileraker_companion)                                                                                             | [**OctoEverywhere For Klipper**](https://octoeverywhere.com/?source=kiauh_readme)                                                                                                                                                                             | [**Motionminder**](https://github.com/rodrigo2019/motion_minder/tree/main)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [![OctoEverywhere Logo](https://raw.githubusercontent.com/Clon1998/mobileraker/master/assets/icon/mr_appicon.png)](https://github.com/Clon1998/mobileraker_companion)        | [![OctoEverywhere Logo](https://camo.githubusercontent.com/b8cbc958f7607f9965d5b4c0efaf18a7aba023b940315c272c9ac722c344e997/68747470733a2f2f6f63746f657665727977686572652e636f6d2f696d672f6c6f676f2e737667)](https://octoeverywhere.com/?source=kiauh_readme) | [![OctoPrint Logo](https://github.com/rodrigo2019/motion_minder/raw/main/motion_minder_logo.png)](https://github.com/rodrigo2019/motion_minder/raw/main/motion_minder_logo.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+### Mainsail ⭐
 
-### Klipper Module
+**Community status:** ⭐ Proven — recommended by the Voron project
 
-| <p><a href="https://github.com/Anonoei/klipper_auto_speed"><img src="https://camo.githubusercontent.com/32c96c3d71973c023e0b05b07b4c846fb93c317d5b433f46acf8ad415ccf615f/68747470733a2f2f6f70656e67726170682e6769746875626173736574732e636f6d2f353730373066666539636434383334626634626337373764373134663334333564373734623131313061393436623836373936313830663239313035386638302f416e6f6e6f65692f6b6c69707065725f6175746f5f7370656564" alt=""><br>Klipper Auto Speed</a></p> | <p><a href="https://github.com/andrewmcgr/klipper_tmc_autotune"><img src="https://camo.githubusercontent.com/71ea373f440704b7fa06725e5689ec77c587c121440c2094240bba776d3f7f8a/68747470733a2f2f6f70656e67726170682e6769746875626173736574732e636f6d2f353530636630373130643566656630613335336437613866366539336233356162353033303737643338373937333231393961333733643363623065656431362f616e647265776d6367722f6b6c69707065725f746d635f6175746f74756e65" alt=""><br>Klipper TMC autotune</a></p> | <p><a href="https://github.com/Frix-x/klippain-shaketune/tree/main"><img src="https://github.com/Frix-x/klippain-shaketune/raw/main/docs/banner.png" alt=""><br>Klippain Shaketune</a></p> | <p><a href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging"><img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/raw/main/Photos/Logo/KAMP-Logo.png" alt=""><br>Klipper Adaptative Meshing Purging</a></p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><a href="https://github.com/TypQxQ/kTAMV"><img src="https://github.com/TypQxQ/kTAMV/raw/main/doc/mainsail_main.jpg?raw=true" alt=""><br>KTAMV</a></p>                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                            |                                                                                                                                                                                                                                            |
+Clean and lightweight web interface, optimized for Klipper. Configurable dashboard, macro management, log access.
 
-### Scripts
+- 🔗 [docs.mainsail.xyz](https://docs.mainsail.xyz/)
+- 🔗 [GitHub — mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail)
 
-| <p><a href="https://github.com/hessfab/continuous-prints-klipper"><img src="https://github.com/hessfab/continuous-prints-klipper/raw/main/img/fluidd_macros.png" alt=""><br>Continuous print</a></p> | <p><a href="https://github.com/jontek2/A-better-print_start-macro"><img src="https://avatars.githubusercontent.com/u/12153796?v=4" alt=""><br>Better print start</a></p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+### Fluidd
 
-### Tools
+**Community status:** ⭐ Proven
 
-| <p><a href="https://github.com/Donkie/Spoolman"><img src="https://private-user-images.githubusercontent.com/2332094/239061637-3c120b3a-1422-42f6-a16b-8d5a07c33000.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMDk0ODAsIm5iZiI6MTc0NzIwOTE4MCwicGF0aCI6Ii8yMzMyMDk0LzIzOTA2MTYzNy0zYzEyMGIzYS0xNDIyLTQyZjYtYTE2Yi04ZDVhMDdjMzMwMDAuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MTRUMDc1MzAwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NzU4MDIyMmU5YmMzNGIxNmQwOTczNWRhODJiMDZhNzMyMTUwZTg1NzI1NjBmYjc3N2I4NzIyYjEzOWVjNTY5NCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.FopJ9N-ZdIdEQLVTPUsa9K8qBfHDm0wDTsUaqRBziHc" alt=""><br>Spoolman</a></p> | <p><a href="https://github.com/fbeauKmi/kbobine_filament_settings"><img src="https://github.com/fbeauKmi/kbobine_filament_settings/raw/main/images/kbobine.png" alt=""><br>Kbobine</a></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+Alternative to Mainsail, slightly different UI. Comparable features. Personal preference.
 
-### Slicer
+- 🔗 [docs.fluidd.xyz](https://docs.fluidd.xyz/)
 
-| <p><a href="https://www.prusa3d.com/fr/page/prusaslicer_424/"><img src="https://camo.githubusercontent.com/75b13db84e4a26b5ea85a23d6f9c3327fc47075a13b116c35a39a77e4cee0cc6/68747470733a2f2f7777772e707275736133642e636f6d2f696d672f736c696365722f6c6f676f2e706e67" alt="Prusaslicer"><br><strong>Prusaslicer</strong></a></p> | <p><a href="https://github.com/supermerill/SuperSlicer/"><img src="https://avatars.githubusercontent.com/u/6536403?v=4" alt="Prusaslicer"><br><strong>Superslicer</strong></a></p> | <p><a href="https://github.com/SoftFever/OrcaSlicer"><img src="https://github.com/SoftFever/OrcaSlicer/raw/main/resources/images/OrcaSlicer.png" alt="Prusaslicer"><br><strong>Orcaslicer</strong></a></p>                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://github.com/mjonuschat/PrusaSlicer-Profiles/tree/main?tab=readme-ov-file"><br>Ellis SuperSlicer Profiles - adapted for use with PrusaSlicer</a></p>                                                                                                                                                         | <p><a href="https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles"><br>Ellis SuperSlicer Profiles</a></p>                                                                    | <p><a href="https://github.com/theophile/SuperSlicer_to_Orca_scripts"><img src="https://github.com/SoftFever/OrcaSlicer/raw/main/resources/images/OrcaSlicer.png" alt=""><br><strong>SuperSlicer_to_Orca_scripts</strong></a></p> |
+---
+
+## 🔌 Moonraker
+
+REST API between the web interface (Mainsail/Fluidd) and Klipper. Also handles updates via `update_manager`.
+
+- 🔗 [moonraker.readthedocs.io](https://moonraker.readthedocs.io/)
+
+---
+
+## 📦 Recommended installation
+
+### KIAUH ⭐
+
+**KIAUH** (Klipper Installation And Update Helper) is the installation script that handles everything in a few commands. This is the recommended method.
+
+```bash
+git clone https://github.com/dw-0/kiauh.git
+./kiauh/kiauh.sh
+```
+
+- 🔗 [GitHub — dw-0/kiauh](https://github.com/dw-0/kiauh)
+
+### MainsailOS / FluiddPi
+
+Pre-configured Raspberry Pi images with the full stack installed. The easiest way to start.
+
+- 🔗 [MainsailOS](https://docs-os.mainsail.xyz/)
+- 🔗 [FluiddPi](https://github.com/fluidd-core/FluiddPi)
+
+---
+
+## 🔧 Calibration tools
+
+### Ellis' Print Tuning Guide ⭐⭐⭐
+
+**The absolute reference** for tuning a Voron (or any Klipper printer). Pressure advance, first layer, retraction, speed tuning… it's all there.
+
+- 🔗 [ellis3dp.com/Print-Tuning-Guide](https://ellis3dp.com/Print-Tuning-Guide/)
+
+### Voron Tap Calibration
+
+Guide officiel pour calibrer le Z offset avec Tap/probes eddy.
+
+- 🔗 [klipper3d.org — Probe Calibrate](https://www.klipper3d.org/Probe_Calibrate.html)
+
+### Input Shaper (ADXL345)
+
+- 🔗 [klipper3d.org — Resonance Compensation](https://www.klipper3d.org/Resonance_Compensation.html)
+
+---
+
+## 📁 Reference configs
+
+### Configs officielles Voron ⭐
+
+The Voron repo contains reference Klipper configs by model (V0, Trident, V2.4). Recommended starting point.
+
+- 🔗 [github.com/VoronDesign/Voron-2](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations)
+- 🔗 [github.com/VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
+
+### Klicky Macros
+
+Macros Klipper pour les probes Klicky / KlickyNG.
+
+- 🔗 [GitHub — jlas1/Klicky-Probe / Klipper_macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros)
+
+### Happy Hare (MMU)
+
+Extended Klipper firmware for MMU systems (ERCF, TradRack…).
+
+- 🔗 [GitHub — moggieuk/Happy-Hare](https://github.com/moggieuk/Happy-Hare)
+
+---
+
+## 📷 Caméra (Crowsnest)
+
+Crowsnest est le gestionnaire de caméra pour Klipper. Remplace MJPEG-streamer et supporte les caméras USB et CSI.
+
+- 🔗 [GitHub — mainsail-crew/crowsnest](https://github.com/mainsail-crew/crowsnest)
+
+Voir la [page dédiée Crowsnest](crowsnest.md) pour les configs et modèles de caméra compatibles.
+
+---
+
+## 🔄 Updates
+
+Klipper, Moonraker, Mainsail, and extensions update via the Mainsail/Fluidd interface (Update Manager section) or via KIAUH. Updating **regularly** is recommended — Klipper receives significant improvements monthly.
+
+> ⚠️ After a Klipper update, always do a `FIRMWARE_RESTART` and verify your macros still work. Breaking changes are rare but do happen.

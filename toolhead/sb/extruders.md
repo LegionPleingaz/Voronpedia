@@ -1,46 +1,161 @@
-# Extruders
+# Extrudeurs
 
-<table>
-  <tr>
-    <td><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2">Clockwork2</br>
-      <img src="https://github.com/VoronDesign/Voron-Stealthburner/raw/main/Images/Voron_Stealthburner.JPG" alt="Clockwork2" style="width:200px;"/></a></br>GR 5:1</td>
-    <td><a href="https://www.printables.com/fr/model/454292-voron-stealthburner-clockwork2-extruder-nema17-v1">CW2 Nema17 </br>
-      <img src="https://media.printables.com/media/prints/454292/images/3735612_ac6ad99c-2bfb-4d01-8ff8-13e7115964b5/thumbs/inside/1280x960/jpg/img_20230416_165634.webp?raw=true" style="width:200px;"/></a></br></td>
-  <td><a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2">CW2 Large Gear </br>
-      <img src="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Large_Gear_Clockwork2/Images/Thumbnail.png" style="width:200px;"/></a></br></td>
-  </tr>
-   <tr>
-     <td><a href="https://www.orbiterprojects.com/orbiter-v2-0/">Orbiter2</br>
-        <img src="https://cdn.thingiverse.com/assets/72/39/82/fb/eb/large_display_265627562_301455835320775_4624458112388010630_n_1.jpg"style="width:200px;"/></a></br>GR 7.5:1</td>
-      <td><a href="https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20">SB Orbiter2 </br>
-        <img src="https://media.printables.com/media/prints/345237/images/2939962_4e878b25-4db2-4603-ae08-61e539ec520d/thumbs/inside/1280x960/jpg/screen-shot-2022-12-21-at-20416-pm.webp" style="width:200px;"/></a></br>GR 7.5:1</td>
-      <td><a href="https://github.com/Mamsih/Galileo-stealthBurner">SB Galileo</br>
-        <img src="https://github.com/Mamsih/Galileo-stealthBurner/raw/main/imge/Galileo-SB.jpg" style="width:200px;"/></a></br>GR 7.5:1</td>
-      <td><a href="https://github.com/JaredC01/Galileo2">Galileo 2 SA</br>
-        <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png"style="width:200px;"/></a></br>GR 9:1</td>
-      <td><a href="https://github.com/JaredC01/Galileo2">SB Galileo2E</br>
-        <img src="https://github.com/JaredC01/Galileo2/blob/main/images/g2extruder.png" style="width:200px;"/></a></br>GR 9:1</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount">SB LGX Lite</br>
-      <img src="https://user-images.githubusercontent.com/94404962/184004932-a4767190-644e-4b3a-a60f-1d7e687b40dd.png" style="width:200px;"/></a></br></td>
-  <td><a href="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Hummingbird">Hummingbird</br>
-      <img src="https://github.com/nhchiu/VoronMods/raw/main/Extruders/Hummingbird/Images/photo4.jpg" style="width:200px;"/></a></br></td>
-    <td><a href="https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner">SB VZ hextrudort</br>
-      <img src="https://media.printables.com/media/prints/369577/images/3114340_0c014c1a-d0f1-494b-8d3b-d2f050330c12/thumbs/inside/1280x960/jpg/pxl_20230107_071850272.webp" style="width:200px;"/></a></br>GR 6.25:1</td>
-  </tr>
-  <tr>
-  <td><a href="https://github.com/Annex-Engineering/Sherpa_Mini-Extruder">Sherpa mini</br>
-      <img src="https://github.com/Annex-Engineering/Sherpa_Mini_Extruder/raw/master/Images/sherpa_mini_rc1.jpg?raw=true"style="width:200px;"/></a></br>GR 6.25:1</td>
-  <td><a href="https://github.com/jrlomas/Sherpa-Crew-Mini">Sherpa crew mini</br>
-      <img src="https://github.com/jrlomas/Sherpa-Crew-Mini/raw/master/Images/left_side_v1.1.PNG"style="width:200px;"/></a></br></td>
-  <td><a href="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder">Sherpa micro</br>
-      <img src="https://github.com/Annex-Engineering/Sherpa_Micro-Extruder/raw/main/Images/sherpa_micro_pr.jpg?raw=true"style="width:200px;"/></a></br>GR 5:1</td>
-  <td><a href="https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder">Proto extruder</br>
-      <img src="https://github.com/nhchiu/VoronMods/raw/main/Extruders/ProtoXtruder/Images/Thumbnail.jpg"style="width:200px;"/></a></br>GR 4.4:1</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Annex-Engineering/Folded_Ascender-Extruder">Folded Ascender</br>
-      <img src="https://github.com/LegionPleingaz/Voronpedia/blob/main/IMG/Folded_ascender_extruder.JPG"style="width:200px;"/></a></br>GR 40:1</td>
-  </tr>
-</table>
+> The extruder pushes filament toward the hotend. The gear ratio determines torque and movement precision. A higher ratio = more torque, better retraction, better flexible material handling — at the cost of slight latency.
+
+Tous les extrudeurs listés ici sont montés sur **StealthBurner** sauf mention contraire.
+
+---
+
+## 📊 Quick comparison
+
+| Extrudeur | Gear Ratio | Poids approx. | Points forts |
+|-----------|-----------|---------------|-------------|
+| Clockwork 2 | 5:1 | ~200g | Officiel Voron, grande communauté |
+| Orbiter v2 | 7.5:1 | ~120g | Léger, compact, haute vitesse |
+| Galileo 2 SA | 9:1 | ~150g | Couple maximal, multi-matière |
+| Sherpa Mini | 6.25:1 | ~90g | Ultra-léger, populaire V0 |
+| Sherpa Micro | 5:1 | ~60g | Le plus léger |
+| Folded Ascender | 40:1 | ~180g | Flexibles et TPU |
+
+---
+
+## 🟢 Official Voron
+
+### Clockwork 2 (CW2)
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven — solution de référence
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ❌ (trop lourd) |
+| Trident   | ✅         |
+| V2.4      | ✅         |
+
+L'extrudeur officiel Voron pour StealthBurner. Gear ratio 5:1, NEMA17 standard. Excellent point de départ, très documenté.
+
+- 🔗 [GitHub — VoronDesign / Voron-Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Clockwork2)
+
+**Variantes**
+- [CW2 Nema17 mod](https://www.printables.com/fr/model/454292) — utilise un Nema17 pancake plus long
+- [CW2 Large Gear](https://github.com/nhchiu/VoronMods/tree/main/Extruders/Large_Gear_Clockwork2) — grande roue dentée pour meilleure précision
+
+---
+
+## 🔵 Orbiter
+
+### Orbiter v2
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Gear ratio **7.5:1** — Excellent équilibre poids/couple. Très populaire pour la haute vitesse (Klipper INPUT_SHAPER). Moteur intégré.
+
+- 🔗 [orbiterprojects.com](https://www.orbiterprojects.com/orbiter-v2-0/)
+- 🔗 [Mount SB pour Orbiter v2](https://www.printables.com/fr/model/345237-voron-stealthburner-orbiter-v20) — Printables
+
+---
+
+## 🟣 Galileo (JaredC01)
+
+### Galileo 2 SA (Standalone)
+
+**Difficulté :** 🟡 Medium  
+**Community status:** ⭐ Proven
+
+Gear ratio **9:1** — Le plus de couple dans cette catégorie. Idéal pour les matières difficiles et les configurations multi-matière (ERCF, Tradrack). Le "SA" = Standalone, se monte directement sur SB.
+
+- 🔗 [GitHub — JaredC01 / Galileo2](https://github.com/JaredC01/Galileo2)
+
+### Galileo 2E (Extruder)
+
+Variante de la tête Galileo 2 optimisée pour l'intégration SB. Même ratio 9:1.
+
+- 🔗 [GitHub — JaredC01 / Galileo2](https://github.com/JaredC01/Galileo2)
+
+### Galileo (v1) SB Mount
+
+Mount pour l'Orbiter v1 sur SB — **ratio 7.5:1**.
+
+- 🔗 [GitHub — Mamsih / Galileo-stealthBurner](https://github.com/Mamsih/Galileo-stealthBurner)
+
+---
+
+## 🟡 LGX / Bondtech
+
+### SB LGX Lite
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Mount pour LGX Lite Bondtech sur StealthBurner.
+
+- 🔗 [GitHub — Eytecz](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount)
+
+---
+
+## 🔴 Sherpa (Annex Engineering)
+
+Famille d'extrudeurs très légers développés par Annex, très populaires sur **V0** et les machines qui cherchent à minimiser la masse mobile.
+
+### Sherpa Mini
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Gear ratio **6.25:1**. Le plus populaire de la gamme. Excellent rapport poids/performance.
+
+- 🔗 [GitHub — Annex-Engineering / Sherpa_Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+
+**Variante :** [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) — version renforcée avec meilleure tension de levier.
+
+### Sherpa Micro
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Gear ratio **5:1**. Le plus petit et le plus léger. Idéal V0.
+
+- 🔗 [GitHub — Annex-Engineering / Sherpa_Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder)
+
+---
+
+## ⚙️ Specialized
+
+### Hummingbird
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Extrudeur ultra-compact à engrenages hélicoïdaux. Très silencieux.
+
+- 🔗 [GitHub — nhchiu / Hummingbird](https://github.com/nhchiu/VoronMods/raw/main/Extruders/Hummingbird)
+
+### SB VZ HextruDort
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Gear ratio **6.25:1**. Port du HextruDort (connu dans l'écosystème VZBot) pour StealthBurner.
+
+- 🔗 [Printables](https://www.printables.com/fr/model/369577-vz-hextrudort-for-stealthburner)
+
+### ProtoXtruder
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Gear ratio **4.4:1**. Compact, design imprimable entièrement.
+
+- 🔗 [GitHub — nhchiu / ProtoXtruder](https://github.com/nhchiu/VoronMods/tree/main/Extruders/ProtoXtruder)
+
+### Folded Ascender
+
+**Difficulté :** 🔴 Advanced  
+**Statut communauté :** 🧪 Experimental
+
+Gear ratio **40:1** — ratio extrême conçu pour les **filaments flexibles (TPU, TPE)**. Le seul extrudeur de cette liste capable de pousser du flexible sans slipping.
+
+- 🔗 [GitHub — Annex-Engineering / Folded_Ascender](https://github.com/Annex-Engineering/Folded_Ascender-Extruder)
+
+> ⚠️ The 40:1 ratio implies very low retraction (0.5-1mm). Fully recalibrate retractions when switching from a CW2.

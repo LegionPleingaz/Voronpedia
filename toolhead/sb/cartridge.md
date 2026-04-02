@@ -1,9 +1,126 @@
-# Cartridge
+# Cartridges & Hotends (StealthBurner)
 
-#### Standard
+> In Voron terminology, the "cartridge" refers to the **hotend + printhead** assembly that slides into the StealthBurner. Each hotend manufacturer has an official printhead in the Voron repo.
 
+---
 
+## 💡 Understanding the system
 
-| <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bmo">Phaetus BMO<br><img src="https://camo.githubusercontent.com/1c03411ec64e79563564a629ebb1b84b993ee3ff3a5de6a6c1e56ff8a892a326/68747470733a2f2f7777772e706861657475732e636f6d2f63646e2f73686f702f66696c65732f322e706e673f763d313638353631313638382677696474683d363030" alt=""></a><br></p>                                         | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms">Phaetus BMS<br><img src="https://camo.githubusercontent.com/5f29a252b931f105a2843d163e1c689e64c8e30b2139c56f6624c34a689750d1/68747470733a2f2f632d33642e6e69636573686f70732e636f6d2f75706c6f61642f696d6167652f70726f647563742f6c617267652f64656661756c742f31343535355f37386531646662342e353132783531322e6a7067" alt=""></a><br></p>       | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_dragon">Phaetus Dragon<br><img src="https://camo.githubusercontent.com/7a69a4ea951a927f4d9813f2885660239a9d3771803ea599187c989c43c43786/68747470733a2f2f7777772e706861657475732e636f6d2f63646e2f73686f702f66696c65732f445241474f4e484f54454e4453545f312e706e673f763d313638383632343936352677696474683d393930" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido<br><img src="https://camo.githubusercontent.com/9888ecae7de2ec57cbb7a49aaa6ed5005e2ec91f2073ded012fc063ee13d3532/68747470733a2f2f7777772e706861657475732e636f6d2f63646e2f73686f702f66696c65732f52617069646f486f74656e642e706e673f763d313638383639343537342677696474683d393930" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido">Phaetus rapido<br><img src="https://camo.githubusercontent.com/9888ecae7de2ec57cbb7a49aaa6ed5005e2ec91f2073ded012fc063ee13d3532/68747470733a2f2f7777772e706861657475732e636f6d2f63646e2f73686f702f66696c65732f52617069646f486f74656e642e706e673f763d313638383639343537342677696474683d393930" alt=""></a><br></p> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_micro">Revo micro<br><img src="https://camo.githubusercontent.com/ef13ff5db5935f352a0142c7473bb099af0d9df005cc9eb57e278fa233142400/68747470733a2f2f632d33642e6e69636573686f70732e636f6d2f75706c6f61642f696d6167652f70726f647563742f6c617267652f64656661756c742f32303836385f39663164666637662e353132783531322e6a7067" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_six_and_v6">Revo six / V6<br><img src="https://camo.githubusercontent.com/ab9dc8d1dfe4f1d0d6ab75a36f255b59a25b70a314629b883686c0024c43c60c/68747470733a2f2f632d33642e6e69636573686f70732e636f6d2f75706c6f61642f696d6167652f70726f647563742f6c617267652f64656661756c742f32303838335f30316536666662622e353132783531322e6a7067" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_voron">Revo Voron<br><img src="https://camo.githubusercontent.com/ff56bc67aac1c68614fe8bce81657f07ad1fc07fd3114703936cdc14a1ced637/68747470733a2f2f632d33642e6e69636573686f70732e636f6d2f75706c6f61642f696d6167652f70726f647563742f6c617267652f64656661756c742f32323337375f62356430626235342e353132783531322e6a7067" alt=""></a></p> |                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+```
+StealthBurner body
+    ├── Extrudeur (CW2, Orbiter, Galileo…)   ← voir page Extrudeurs
+    └── Cartridge / Printhead
+            └── Hotend (Dragon, Revo, Rapido…)
+```
+
+Le printhead est la pièce imprimée qui tient le hotend. Un hotend = un printhead spécifique (ou adaptateur).
+
+---
+
+## 🌡️ Comparatif rapide des hotends
+
+| Hotend | Max Temp | Débit | Prix | Points forts |
+|--------|----------|-------|------|-------------|
+| Phaetus Dragon | 300°C | Moyen | ~45€ | Référence, très documenté |
+| Phaetus Rapido | 320°C | Élevé | ~60€ | Haute vitesse |
+| Phaetus BMO | 300°C | Moyen | ~40€ | Compact |
+| Phaetus BMS | 300°C | Moyen | ~40€ | Compact sans sock |
+| Revo Voron ⭐ | 300°C | Moyen | ~65€ | Changement buse sans outil |
+| Revo Six / V6 | 300°C | Moyen | ~55€ | Compatibilité V6 |
+| Revo Micro | 280°C | Faible | ~45€ | Ultra compact |
+
+---
+
+## 🟠 Phaetus
+
+### Phaetus Dragon ⭐
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven — hotend de référence Voron
+
+Le Dragon est le hotend le plus répandu sur Voron. Deux versions :
+- **Dragon Standard Flow** — usage courant
+- **Dragon High Flow** — débits élevés, haute vitesse
+
+- 🔗 [Printhead officiel SB — Dragon](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_dragon)
+
+---
+
+### Phaetus Rapido ⭐
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Haute température (320°C) et haut débit. Idéal pour les matières techniques (PA, PC, ABS haute vitesse). Deux versions : **HF** (High Flow) et **UHF** (Ultra High Flow).
+
+- 🔗 [Printhead officiel SB — Rapido](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_rapido)
+
+---
+
+### Phaetus BMO
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Hotend compact de nouvelle génération Phaetus. Buse à changement rapide intégrée.
+
+- 🔗 [Printhead officiel SB — BMO](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bmo)
+
+---
+
+### Phaetus BMS
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Variante du BMO sans silicone sock. Profil légèrement différent.
+
+- 🔗 [Printhead officiel SB — BMS](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/phaetus_bms)
+
+---
+
+## 🔵 E3D / Revo
+
+> The **Revo** lineup from E3D is distinguished by its **tool-free nozzle change system without preheating**. Nozzle + heatbreak are a single hand-screwable piece.
+
+### Revo Voron ⭐
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+La version Revo conçue spécifiquement pour le StealthBurner. Changement de buse en 30 secondes, à froid, sans clé.
+
+- 🔗 [Printhead officiel SB — Revo Voron](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_voron)
+
+> ⚠️ Revo nozzles are proprietary and more expensive than standard V6 (~$15/nozzle). But they swap in 30 seconds — useful for switching between diameters.
+
+---
+
+### Revo Six / V6
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+Montage du Revo Six ou du classique V6 E3D sur StealthBurner.
+
+- 🔗 [Printhead officiel SB — Revo Six / V6](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_six_and_v6)
+
+---
+
+### Revo Micro
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Version ultra-compacte du Revo. Utile pour les configs à espace restreint.
+
+- 🔗 [Printhead officiel SB — Revo Micro](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads/revo_micro)
+
+---
+
+## 🔗 Ressource importante
+
+Tous les printheads officiels Voron sont dans le repo Voron-Stealthburner :  
+📁 [github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads](https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs/Stealthburner/Printheads)
+
+Si ton hotend n'est pas listé, cherche d'abord dans ce dossier — il y a probablement un printhead officiel que cette page n'a pas encore indexé.

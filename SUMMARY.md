@@ -1,66 +1,76 @@
 # Table of contents
 
 * [📓 Voronpedia](README.md)
+* [📋 Mod template](MOD_TEMPLATE.md)
 
-## 🛑 Before we start
+## 🚀 Before we start
 
-* [🛠️ Tools](before-we-start/tools.md)
-* [🧌 Kits](before-we-start/kits.md)
+* [Which Voron should I build?](before-we-start/which-voron.md)
+* [Recommended kits](before-we-start/kits.md)
+* [Required tools](before-we-start/tools.md)
+* [Glossary](before-we-start/glossary.md)
 
 ## 🛒 Sourcing
 
-* [Hardware](sourcing/hardware.md)
+* [Hardware & fasteners](sourcing/hardware.md)
 * [Fans](sourcing/fans.md)
+* [Recommended suppliers](sourcing/suppliers.md)
 
 ## 🎰 Mechanical
 
-* [Frame](mechanical/frame.md)
-* [Panels](mechanical/panels.md)
-* [Bed](mechanical/bed.md)
+* [Frame & extrusions](mechanical/frame.md)
+* [Panels & enclosure](mechanical/panels.md)
+* [Bed & leveling](mechanical/bed.md)
 * [Gantry](mechanical/gantry.md)
-* [Drives A/B/AWD XY joints](mechanical/drives-a-b-awd.md)
+* [AB Drives & XY joints](mechanical/drives-a-b-awd.md)
 * [Front idlers](mechanical/front-idlers.md)
 * [Z axis](mechanical/z-axis.md)
 
-## 🤖 Electro
+## ⚡ Electronics
 
-* [Elec compartment](electro/elec-compartment.md)
+* [Electronics compartment](electro/elec-compartment.md)
 * [Motherboards](electro/motherboards.md)
-* [SMD](electro/smd.md)
+* [Motors](electro/motors.md)
+* [CANbus & toolhead boards](electro/cans.md)
+* [Screens](electro/screen.md)
+* [Wiring & SMD](electro/smd.md)
 
-***
+## 🌬️ Thermal & Filtration
 
-* [Motors](motors.md)
-* [CANs](cans.md)
-* [Screen](screen.md)
-* [Cooling](cooling.md)
-* [Filter](filter.md)
+* [Cooling](thermal/cooling.md)
+* [Filtration (VOC, Nevermore…)](thermal/filter.md)
+* [Chamber heating](thermal/chamber-heating.md)
 
 ## 🤯 Toolhead
 
-* [SB](toolhead/sb/README.md)
+* [StealthBurner](toolhead/sb/README.md)
   * [Extruders](toolhead/sb/extruders.md)
-  * [Cartridge](toolhead/sb/cartridge.md)
-* [Mini SB](toolhead/mini-sb.md)
-* [Probes](toolhead/probes.md)
+  * [Cartridges & hotends](toolhead/sb/cartridge.md)
+* [Mini StealthBurner](toolhead/mini-sb.md)
+* [Probes (Tap, Klicky, Beacon…)](toolhead/probes.md)
 
-***
+## 🔁 Multi-material
 
-* [🔁 Multimaterial systems](multimaterial-systems/README.md)
-  * [MMU](multimaterial-systems/mmu.md)
-  * [Toolchanger](multimaterial-systems/toolchanger.md)
+* [Overview](multimaterial-systems/README.md)
+* [MMU (ERCF, Tradrack…)](multimaterial-systems/mmu.md)
+* [Toolchanger](multimaterial-systems/toolchanger.md)
 
-## 💾 Software
+## 💾 Software & Config
 
-* [Software](software/software.md)
-* [Crowsnest](software/crowsnest.md)
+* [Klipper & Moonraker](software/software.md)
+* [Crowsnest (cameras)](software/crowsnest.md)
+* [Useful macros](software/macros.md)
 
-## ⚛️ All in one mod
+## ⚛️ All-in-one configs by model
 
-* [V0 base](all-in-one-mod/v0-base.md)
-* [Trident base](all-in-one-mod/trident-base.md)
-* [2.4 base](all-in-one-mod/2.4-base.md)
+* [V0 / V0.2 derivatives](all-in-one-mod/v0-base.md)
+* [Trident derivatives](all-in-one-mod/trident-base.md)
+* [V2.4 derivatives](all-in-one-mod/2.4-base.md)
 
-## Very optionals mods
+## 🎨 Cosmetic & comfort mods
 
-* [Optionals mods](very-optionals-mods/optionals-mods.md)
+* [Optional mods](very-optionals-mods/optionals-mods.md)
+
+## 🧵 Filament & Materials
+
+* [Filament guide](Filament/README.md)

@@ -1,20 +1,63 @@
 ---
 description: >-
-  This GIT aims to list the different options available for your voron printer. 
-  I'm trying to develop it, but a little help would be appreciated. Feel free to
-  make a PR.
+  Community reference for Voron printer mods. Organized by use case,
+  with compatibility and difficulty ratings.
 ---
 
 # 📓 Voronpedia
 
-[![ko-fi](https://camo.githubusercontent.com/70e2ef5e0263b261f9a2a314bb1d6919d1d43292eed117fe8fc766a68c7d96ea/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)](https://ko-fi.com/W7W6USGTM)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
 
-<figure><img src=".gitbook/assets/mendeleyeev2.JPG" alt=""><figcaption></figcaption></figure>
+---
 
-[![Bitcoin](https://camo.githubusercontent.com/f831665f50b89cdcff340e05d11537a1dd48eb91fa59b075ad1751ea19a0a5a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/f831665f50b89cdcff340e05d11537a1dd48eb91fa59b075ad1751ea19a0a5a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426974636f696e2d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d626974636f696e266c6f676f436f6c6f723d7768697465) bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
+Voronpedia is a **clear, up-to-date, and opinionated** index of modifications available for **Voron Design** printers (V0, Trident, V2.4, Switchwire).
 
-<img src=".gitbook/assets/image (10).png" alt="" data-size="line"> 9T4H8qxiFxTP84EYhJz3jNE2bcSA1QSin9AnrrM4tgq2
+This is not a build guide — it's a reference for knowing **what to install, why, and in what order**.
 
-[![Ethereum](https://camo.githubusercontent.com/1788b613aea12a78a4ce96876ba84a422afae1fe5b514a7c95489d4cf21ecb88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/1788b613aea12a78a4ce96876ba84a422afae1fe5b514a7c95489d4cf21ecb88/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465) 0xf684fa6fbc1703ce0ECcE711d872382DCc5256aE
+---
 
-[![Xrp](https://camo.githubusercontent.com/6463c889603ff85f5a585526aea21655ec7ef71c5f0e644ff63fd2e26a35ea74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5872702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d787270266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6463c889603ff85f5a585526aea21655ec7ef71c5f0e644ff63fd2e26a35ea74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5872702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d787270266c6f676f436f6c6f723d7768697465) rPvexWZvydUizKzz52FqMXnkGRV9mRbriB
+## 🗺️ How to navigate
+
+| You want to… | Go here |
+|----------|--------|
+| Start from scratch | [🚀 Before we start](before-we-start/which-voron.md) |
+| Find a mod by machine zone | [🔧 Mods by category](mechanical/gantry.md) |
+| See an all-in-one config by model | [⚛️ Configs by model](all-in-one-mod/README.md) |
+| Choose an extruder / toolhead | [🤯 Toolhead](toolhead/probes.md) |
+| Go multi-material | [🔁 Multimaterial](multimaterial-systems/mmu.md) |
+| Configure Klipper / software | [💾 Software](software/software.md) |
+
+---
+
+## 📐 Mod page convention
+
+Every mod is documented with the same template:
+
+- **Compatibility** by Voron model (V0 / Trident / 2.4 / Switchwire)
+- **Difficulty**: 🟢 Easy — 🟡 Medium — 🔴 Advanced
+- **Community status**: ⭐ Proven — 🧪 Experimental — ⚠️ Deprecated
+- Direct links (GitHub, Printables, video tutorial when available)
+- Notes and community feedback
+
+---
+
+## 🤝 Contributing
+
+Found a missing mod? A page to fix?
+
+→ **Fork + Pull Request** — see the [mod template](MOD_TEMPLATE.md)
+→ Or open an **Issue** to flag an outdated mod or dead link
+
+All contributors are welcome.
+
+---
+
+## ☕ Support the project
+
+If Voronpedia saved you hours of searching:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6USGTM)
+
+`BTC` bc1qtqmflmnd447uuzl06qfw9gkqly0r00708kvzhu
+`ETH` 0xf684fa6fbc1703ce0ECcE711d872382DCc5256aE
+`XRP` rPvexWZvydUizKzz52FqMXnkGRV9mRbriB

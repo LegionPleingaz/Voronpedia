@@ -1,22 +1,98 @@
-# Optionals mods
+# Mods cosmétiques & confort
 
-### Spool management
+> Ces mods n'améliorent pas directement la qualité d'impression mais rendent la machine plus agréable à utiliser au quotidien. Parfait pour occuper un week-end une fois que ta machine imprime bien.
 
+---
 
+## 🧵 Spool management (Spool management)
 
-| <p><a href="https://www.printables.com/fr/model/361212-spool-roller-for-2020-extrusion-on-v24">Spool Roller (fbeauKmi)<br><img src="https://camo.githubusercontent.com/0b89070537d1b68c059da26fa533a7ab47f585a614332b89ec4cb6285ea3f5c4/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3336313231322f696d616765732f333036303531395f37323762316666322d623165662d346361632d393434342d3266656533383664333965352f7468756d62732f696e736964652f3136303078313230302f6a70672f32303233303130375f3033303631392e77656270" alt=""></a><br></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Spool Roller
 
-### Purge ✔
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
 
+Support de bobine à monter sur les extrusions 2020 du V2.4. Permet de poser la bobine directement sur la machine sans support externe.
 
+| Modèle    | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+| Trident   | ✅         |
+| V0 / V0.2 | ❌ (pas d'extrusion accessible) |
 
-| <p><a href="https://www.printables.com/fr/model/97976-voron-nozzle-cleaner-purge-bucket">Decontaminator<br>Purge_Bucket_&#x26;_Nozzle_Scrubber<br><img src="https://camo.githubusercontent.com/21cc6e2d948331c004e3c849cda7579b67847ce54110b6600904bb4ae7f09a11/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f636f6d6d656e745f696d616765732f38652f3162346531342d613538322d346132382d626232332d6132623862393437613735322f7468756d62732f696e736964652f363430783438302f6a70672f696d675f333139352e77656270" alt=""></a><br></p> | <p><a href="https://www.printables.com/fr/model/627261-voron-decontaminator-using-bambu-nozzle-wiper/files">Voron Decontaminator<br>Bambu Nozzle Wiper<br><img src="https://camo.githubusercontent.com/448dc01915df457f2e489208fca3dbb7d27a91c2e08626ff197b5ced14248421/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3632373236312f696d616765732f343937323032305f33313135376435382d386361312d343862342d626138622d6637323232323166623037615f30343936646635342d336561332d343061642d623139342d3334666439356436343834322f7468756d62732f696e736964652f31323830783936302f6a70672f766f726f6e2d6465636f6e74616d696e61746f722d62616d62752d7769706572312e77656270" alt=""></a><br></p> | <p><a href="https://github.com/falcon14141/Voron_Mods/tree/master/Front%20Purge%20Bucket">Front purge bucket<br><img src="https://github.com/falcon14141/Voron_Mods/raw/master/Front%20Purge%20Bucket/images/bucket350mm.png" alt=""></a><br></p> | <p><a href="https://github.com/Dendrowen/Blobifier">Blobifier<br><img src="https://raw.githubusercontent.com/Dendrowen/Blobifier/main/Pictures/Render_Full.png" alt=""></a><br></p> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+- 🔗 [Printables — Spool Roller fbeauKmi](https://www.printables.com/fr/model/361212-spool-roller-for-2020-extrusion-on-v24)
 
-### Feets
+---
 
+## 🧹 Purge & nozzle cleaning & nettoyage de buse
 
+> Indispensable si tu fais du multi-matière ou que tu veux automatiser le nettoyage de buse en début de print. Combine idéalement avec les macros Klipper.
 
-| <p><a href="https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Slidr/PanzerBalls2.4">Panzer Balls<br><img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/Slidr/PanzerBalls2.4/01-Normal/Panzerballs.png?raw=true" alt=""></a><br></p> | <p><a href="https://makerworld.com/en/models/417509?from=search#profileId-319901">HULA<br><img src="https://camo.githubusercontent.com/a1b3aec71a26f4480a4790450df50a1827b89c8e453c788df1bef014bacbe0f6/68747470733a2f2f6d616b6572776f726c642e62626c6d772e636f6d2f6d616b6572776f726c642f6d6f64656c2f44534d30303030303030303431373530392f64657369676e2f323032342d30342d32365f303030373838646632313934652e706e673f696d6167655f70726f636573733d666f726d61742c77656270" alt=""></a></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Decontaminator Purge Bucket & Nozzle Scrubber ⭐
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven — le classique
+
+Le purge bucket de référence pour V2.4. Brosse en silicone + bac de purge. Compatible avec les macros CLEAN_NOZZLE courantes.
+
+- 🔗 [Printables](https://www.printables.com/fr/model/97976-voron-nozzle-cleaner-purge-bucket)
+
+---
+
+### Voron Decontaminator — Bambu Nozzle Wiper
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Utilise le wiper silicone des imprimantes Bambu (disponible séparément). Durable et bon marché à remplacer.
+
+- 🔗 [Printables](https://www.printables.com/fr/model/627261-voron-decontaminator-using-bambu-nozzle-wiper/files)
+
+---
+
+### Front Purge Bucket
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Variante avec le bac de purge à l'avant de la machine plutôt que sur le côté. Pratique selon la configuration de l'espace de travail.
+
+- 🔗 [GitHub — falcon14141](https://github.com/falcon14141/Voron_Mods/tree/master/Front%20Purge%20Bucket)
+
+---
+
+### Blobifier
+
+**Difficulté :** 🟡 Medium  
+**Statut communauté :** 🧪 Experimental
+
+Système de purge qui forme des "blobs" de filament (plutôt qu'une ligne) pour minimiser la surface occupée par la purge. Très utile en multi-matière ERCF.
+
+- 🔗 [GitHub — Dendrowen / Blobifier](https://github.com/Dendrowen/Blobifier)
+
+---
+
+## 🦶 Feet (Feet)
+
+### Panzer Balls 2.4 ⭐
+
+**Difficulté :** 🟢 Easy  
+**Community status:** ⭐ Proven
+
+| Modèle    | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+
+Pieds à billes qui permettent un repositionnement facile de la machine sans la soulever. Évite aussi les vibrations transmises à la table.
+
+- 🔗 [GitHub — VoronUsers / Slidr / PanzerBalls2.4](https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Slidr/PanzerBalls2.4)
+
+---
+
+### HULA
+
+**Difficulté :** 🟢 Easy  
+**Statut communauté :** 🧪 Experimental
+
+Pieds anti-vibration avec joint torique. Isolation acoustique améliorée.
+
+- 🔗 [MakerWorld](https://makerworld.com/en/models/417509?from=search#profileId-319901)

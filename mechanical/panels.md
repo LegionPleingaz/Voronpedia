@@ -1,24 +1,164 @@
-# Panels
+# Panels & Enclosure
 
-### Panels
+> Panels close the machine's enclosure to retain heat (ABS, ASA…) and reduce noise. Mods here improve mounting, access, and insulation.
 
+---
 
+## 🔩 Side panel mounting
 
-| <p><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020">snap-latch-2020<br><img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/richardjm/snap-latch-2020/Images/Latch-v68-3mm.jpg" alt=""></a><br></p> | <p><a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts">Magnetic_Panels_with_Magnet_Inserts<br><img src="https://github.com/VoronDesign/VoronUsers/raw/main/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts/Images/magnetic-panel-and-inserts-0-installed-2.jpg" alt=""></a><br></p> | <p><a href="https://github.com/richardjm/voron-parts/tree/main/voron-0.1/FilamentLatch">Quick release latch for 1515<br><img src="https://github.com/richardjm/voron-parts/raw/main/voron-0.1/FilamentLatch/Images/Latch-v63.jpg" alt=""></a><br></p> | <p><a href="https://github.com/zruncho3d/ZeroPanels">Zero panels<br><img src="https://github.com/zruncho3d/ZeroPanels/raw/main/Images/v3/front_corner_iso.jpg" alt=""></a><br></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://github.com/CloakedWayne/Monolith_Panels">Monolith Panels<br><img src="https://github.com/CloakedWayne/Monolith_Panels/raw/main/Images/distant_view.png" alt=""></a><br></p>                                                                                | <p><a href="https://github.com/RaymondDoerr/emp">Excessively Magnetic Panel Mod<br><img src="https://github.com/RaymondDoerr/emp/raw/main/Images/frameSTLPlacementReference.png" alt=""></a><br></p>                                                                                                                                                        |                                                                                                                                                                                                                                                       |                                                                                                                                                                                    |
+### Snap Latch 2020 ⭐
 
-### TOP
+**Difficulty:** 🟢 Easy
+**Community status:** ⭐ Proven — the classic
 
+| Model     | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+| Trident   | ✅         |
 
+Quick-release clips for 2020 extrusions. Remove and replace panels without screws. Very widespread.
 
-| <p><a href="https://www.printables.com/fr/model/568090-voron-24-canopy">Canopy<br><img src="https://camo.githubusercontent.com/0a0af12319a1ba59cd00319ac0fd7567dd098a614e859917d573c501eab8692c/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3536383039302f696d616765732f343630343531395f30316334333863392d303266342d343531302d616161302d6666633834663366303830312f7468756d62732f696e736964652f31323830783936302f6a70672f32303233303930345f3231333130332e77656270" alt=""></a><br></p>       | <p><a href="https://www.printables.com/fr/model/594894-voron-24-trident-canopy-top-hat-remix-split-model-/files">REMIX Canopy Split model<br><img src="https://camo.githubusercontent.com/b77cca6d4a60c320cc51d0b362a11d7935b0015b7552df62d9737c64df2f148d/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3539343839342f696d616765732f343733383639335f37613262653365642d383832622d343937342d386631332d6361313062333336663235345f31623636613835642d366238342d343636332d623663352d3162666566653666613531382f7468756d62732f696e736964652f31323830783936302f6a7065672f696d675f323030332e77656270" alt=""></a><br></p> | <p><a href="https://www.printables.com/fr/model/761305-micron-top-canopy">Micron Canopy<br><img src="https://camo.githubusercontent.com/fb77af2eedabd93ebf44307bc0a325658ca18beaeb7f1c1cc35f9f343041ab5d/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3736313330352f696d616765732f353933373433335f32666339636438312d633835342d346131632d383834652d3438373265626237346335665f66636661343232342d306239302d346364342d393566312d3136323239313831373334322f7468756d62732f696e736964652f31323830783936302f6a70672f32303234303231315f3230333633312e77656270" alt=""></a><br></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://www.printables.com/fr/model/824359-voron-24-trident-canopy-ptfe-passthrough">Canopy PTFE passthrough<br><img src="https://camo.githubusercontent.com/3eab49b41e4a42f0b131590f04edbc1743d18a59434f6f0514dcb349c0e8254d/68747470733a2f2f6d656469612e7072696e7461626c65732e636f6d2f6d656469612f7072696e74732f3832343335392f726963685f636f6e74656e742f35363661663666642d393362392d343564392d383432392d3339333837623434333962322f7468756d62732f636f7665722f383030783534362f706e672f312e77656270" alt=""></a><br></p> |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+- 🔗 [GitHub — richardjm / snap-latch-2020](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020)
 
-### Doors
+---
 
+### Magnetic Panels with Magnet Inserts ⭐
 
+**Difficulty:** 🟢 Easy
+**Community status:** ⭐ Proven
 
-| <p><a href="https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor">Removable door<br><img src="https://github.com/elpopo-eng/VoronFrenchUsers/raw/main/Mod/RemovableDoor/Images/Charniere_Av.jpg" alt=""></a><br></p> | <p><a href="https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door">Clickyclacky door<br><img src="https://github.com/tanaes/whopping_Voron_mods/raw/main/clickyclacky_door/Images/render.png" alt=""></a><br><a href="https://www.printables.com/fr/model/639355-clicky-clack-fridge-door-drop-fix-hinge">MOD Drop fix</a></p> | <p><a href="https://github.com/TheVoronModder/MiniFridge">Mini fridge door<br></a></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Model     | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+| Trident   | ✅         |
+
+Panels held by magnets inserted in extrusions. Remove a panel in 2 seconds, no tools. Very popular for daily access.
+
+- 🔗 [GitHub — Le0n / Magnetic_Panels_with_Magnet_Inserts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts)
+
+---
+
+### Excessively Magnetic Panel Mod (EMP)
+
+**Difficulty:** 🟢 Easy
+**Community status:** 🧪 Experimental
+
+Even more magnetic panels — magnets around the entire perimeter. Excellent thermal seal.
+
+- 🔗 [GitHub — RaymondDoerr / EMP](https://github.com/RaymondDoerr/emp)
+
+---
+
+### Monolith Panels
+
+**Difficulty:** 🟡 Medium
+**Community status:** 🧪 Experimental
+
+Panel system for the Monolith Gantry (redesigned panels for the 9mm belt version).
+
+- 🔗 [GitHub — CloakedWayne / Monolith_Panels](https://github.com/CloakedWayne/Monolith_Panels)
+
+---
+
+### Quick Release Latch 1515 (V0)
+
+**Difficulty:** 🟢 Easy
+**Community status:** ⭐ Proven
+
+| Model     | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅         |
+
+Equivalent of the snap-latch for V0's 1515 extrusions.
+
+- 🔗 [GitHub — richardjm / FilamentLatch V0](https://github.com/richardjm/voron-parts/tree/main/voron-0.1/FilamentLatch)
+
+---
+
+### Zero Panels (V0)
+
+**Difficulty:** 🟢 Easy
+**Community status:** ⭐ Proven
+
+| Model     | Compatible |
+|-----------|-----------|
+| V0 / V0.2 | ✅         |
+
+Complete panel system for V0 with printed clips. Clean and well-documented.
+
+- 🔗 [GitHub — zruncho3d / ZeroPanels](https://github.com/zruncho3d/ZeroPanels)
+
+---
+
+## 🔝 Tophat
+
+> The tophat is the vertical extension above the machine that allows printing taller parts and improves thermal insulation at the top of the chamber.
+
+### Canopy ⭐
+
+**Difficulty:** 🟢 Easy
+**Community status:** ⭐ Proven
+
+| Model     | Compatible |
+|-----------|-----------|
+| V2.4      | ✅         |
+| Trident   | ✅         |
+
+The most common tophat. Adds ~70mm of usable height. PTFE passthrough compatible.
+
+- 🔗 [Printables — Canopy](https://www.printables.com/fr/model/568090-voron-24-canopy)
+- 🔗 [Split Model variant](https://www.printables.com/fr/model/594894-voron-24-trident-canopy-top-hat-remix-split-model-/files) — split model for smaller printers
+- 🔗 [PTFE Passthrough variant](https://www.printables.com/fr/model/824359-voron-24-trident-canopy-ptfe-passthrough)
+
+---
+
+### Micron Canopy
+
+**Difficulty:** 🟢 Easy
+**Community status:** 🧪 Experimental
+
+| Model     | Compatible |
+|-----------|-----------|
+| Micron    | ✅         |
+
+Canopy version adapted for the Micron (small format).
+
+- 🔗 [Printables — Micron Canopy](https://www.printables.com/fr/model/761305-micron-top-canopy)
+
+---
+
+## 🚪 Doors
+
+### Clickyclacky Door ⭐
+
+**Difficulty:** 🟡 Medium
+**Community status:** ⭐ Proven
+
+Magnetic doors with printed hinges. Very clean opening, snapping closure (hence the name). The reference for Voron doors.
+
+- 🔗 [GitHub — tanaes / clickyclacky_door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door)
+- 🔗 [Drop Fix MOD](https://www.printables.com/fr/model/639355-clicky-clack-fridge-door-drop-fix-hinge) — corrected hinge for the sagging issue
+
+---
+
+### Removable Door
+
+**Difficulty:** 🟢 Easy
+**Community status:** 🧪 Experimental
+
+Fully tool-free removable door. Useful for frequent bed access.
+
+> Note: project from the French Voron community 🇫🇷
+
+- 🔗 [GitHub — elpopo-eng / VoronFrenchUsers / RemovableDoor](https://github.com/elpopo-eng/VoronFrenchUsers/tree/main/Mod/RemovableDoor)
+
+---
+
+### Mini Fridge Door
+
+**Difficulty:** 🟡 Medium
+**Community status:** 🧪 Experimental
+
+Fridge-style door — premium handle and hinges.
+
+- 🔗 [GitHub — TheVoronModder / MiniFridge](https://github.com/TheVoronModder/MiniFridge)
